@@ -1,13 +1,14 @@
 # Signal Brief
 
-A static, source-first dashboard for public defense-industry news and recent Department of Defense award records. It is designed for GitHub Pages: no visitor API keys, backend, database, or build step required.
+A static, source-first dashboard for global defense-industry news and public government award records. It is designed for GitHub Pages: no visitor API keys, backend, database, or build step required.
 
 ## What it does
 
-- Aggregates focused public news searches from Google News RSS.
-- Pulls recent DoD award records from the public USAspending API.
-- Ranks headlines with a transparent keyword, entity, source, and freshness score.
-- Supports category filters, search, sorting, and a locally saved company watchlist.
+- Aggregates dedicated regional news searches for Europe, the Middle East, Asia-Pacific, North America, and cross-border developments.
+- Tracks global primes and challengers including BAE Systems, ChapsVision, Elbit Systems, Rheinmetall, Leonardo, Hanwha Aerospace, Lockheed Martin, and others.
+- Pulls recent public records from the USAspending and UK Contracts Finder APIs, with jurisdiction and currency kept explicit.
+- Ranks headlines with transparent entity, material-event, source, freshness, and regional-balance rules.
+- Supports market and category filters, search, sorting, and a locally saved company watchlist.
 - Refreshes the committed JSON snapshot every six hours with GitHub Actions.
 
 ## Run locally

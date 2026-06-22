@@ -46,7 +46,7 @@
         <div class="hero-copy">
           <div class="eyebrow"><span class="live-dot"></span> Public-source intelligence</div>
           <h1 id="page-title">The defense market,<br /><em>without the noise.</em></h1>
-          <p>News, contract awards, and company signals ranked for relevance to the defense industrial base.</p>
+          <p>Global news, public contract awards, and company signals ranked for relevance to the defense industrial base.</p>
         </div>
         <div class="hero-meta">
           <div class="date-block">
@@ -73,9 +73,9 @@
             <small>latest tracked window</small>
           </article>
           <article>
-            <span class="stat-label">Top awards tracked</span>
-            <strong id="stat-value">—</strong>
-            <small>not total federal spend</small>
+            <span class="stat-label">Markets monitored</span>
+            <strong id="stat-regions">—</strong>
+            <small>regional + cross-border</small>
           </article>
           <article class="method-stat">
             <span class="stat-label">Signal method</span>
@@ -128,6 +128,18 @@
           </label>
         </div>
 
+        <div class="region-bar" role="group" aria-label="Filter intelligence by market">
+          <span>Market</span>
+          <div id="region-filters">
+            <button class="region-chip active" type="button" data-region="all">Worldwide</button>
+            <button class="region-chip" type="button" data-region="Europe">Europe</button>
+            <button class="region-chip" type="button" data-region="Middle East">Middle East</button>
+            <button class="region-chip" type="button" data-region="Asia-Pacific">Asia-Pacific</button>
+            <button class="region-chip" type="button" data-region="North America">North America</button>
+            <button class="region-chip" type="button" data-region="Global">Cross-border</button>
+          </div>
+        </div>
+
         <div class="content-grid">
           <div class="news-column">
             <div class="article-grid" id="article-grid" aria-live="polite">
@@ -157,7 +169,7 @@
               <span class="source-icon" aria-hidden="true">◎</span>
               <div>
                 <h3>Source-first by design</h3>
-                <p>Every signal links to its original publisher or public record. Scores indicate relevance, not sentiment or investment quality.</p>
+                <p>Regional collection lanes prevent the largest English-language market from crowding out Europe, the Middle East, or Asia-Pacific. Scores indicate relevance, not sentiment or investment quality.</p>
                 <button type="button" id="open-methodology">How ranking works →</button>
               </div>
             </section>
@@ -169,16 +181,16 @@
         <div class="shell">
           <div class="section-header light">
             <div>
-              <div class="section-kicker">03 / Federal awards</div>
-              <h2 id="contracts-title">Contract ledger</h2>
+              <div class="section-kicker">03 / Public procurement</div>
+              <h2 id="contracts-title">Government contract ledger</h2>
             </div>
-            <a href="https://www.usaspending.gov/" target="_blank" rel="noreferrer">Explore USAspending.gov ↗</a>
+            <span class="ledger-sources"><a href="https://www.usaspending.gov/" target="_blank" rel="noreferrer">USAspending ↗</a><a href="https://www.contractsfinder.service.gov.uk/" target="_blank" rel="noreferrer">UK Contracts Finder ↗</a></span>
           </div>
-          <p class="contracts-intro">Recent Department of Defense award records, surfaced from the public USAspending API.</p>
+          <p class="contracts-intro">Recent public defense-related records from U.S. and UK procurement APIs. Jurisdiction is always explicit; additional national ledgers can be added without flattening currencies or reporting standards.</p>
           <div class="contract-table-wrap">
             <table>
               <thead>
-                <tr><th>Recipient</th><th>What it funds</th><th>Award</th><th>Agency</th><th>Record</th></tr>
+                <tr><th>Recipient</th><th>What it funds</th><th>Award</th><th>Jurisdiction</th><th>Buyer</th><th>Record</th></tr>
               </thead>
               <tbody id="contract-rows"></tbody>
             </table>
@@ -205,12 +217,13 @@
       <button class="dialog-close" type="button" aria-label="Close methodology">×</button>
       <span class="dialog-kicker">Methodology</span>
       <h2>Useful signals, explainable ranking.</h2>
-      <p>Signal Brief collects public headlines and federal award records on a scheduled GitHub Action. Each story receives a deterministic relevance score based on:</p>
+      <p>Signal Brief collects regional public-news feeds and government award records on a scheduled GitHub Action. Each story receives a deterministic relevance score based on:</p>
       <ol>
-        <li><strong>Industry entities</strong> — defense primes, agencies, programs, and platforms.</li>
+        <li><strong>Industry entities</strong> — established and emerging defense companies across Europe, the Middle East, Asia-Pacific, and North America.</li>
         <li><strong>Material events</strong> — awards, protests, production, acquisitions, budgets, and export decisions.</li>
         <li><strong>Source quality</strong> — direct government and established reporting sources receive a modest weight.</li>
         <li><strong>Freshness</strong> — recent items receive a small lift; no opaque recommendation model is used.</li>
+        <li><strong>Regional balance</strong> — each monitored market receives reserved representation before remaining slots are filled by score.</li>
       </ol>
       <p class="dialog-disclaimer">The score is topical relevance only. It is not a prediction, sentiment score, or buy/sell signal.</p>
     </dialog>

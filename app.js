@@ -1,10 +1,11 @@
 const state = {
   data: null,
   category: "all",
+  region: "all",
   query: "",
   sort: "relevance",
   visible: 7,
-  watchlist: JSON.parse(localStorage.getItem("signal-brief-watchlist") || "null") || ["Lockheed Martin", "RTX", "Northrop Grumman", "General Dynamics", "Boeing"],
+  watchlist: JSON.parse(localStorage.getItem("signal-brief-watchlist-v2") || "null") || ["BAE Systems", "ChapsVision", "Elbit Systems", "Rheinmetall", "Hanwha Aerospace", "Lockheed Martin"],
 };
 
 const $ = (selector, root = document) => root.querySelector(selector);
@@ -21,12 +22,13 @@ const relativeTime = date => {
   const days = Math.floor(hours / 24);
   return days === 1 ? "1 day ago" : `${days} days ago`;
 };
-const money = value => {
+const money = (value, currency = "USD") => {
   const amount = Number(value) || 0;
-  if (amount >= 1e9) return `$${(amount / 1e9).toFixed(1)}B`;
-  if (amount >= 1e6) return `$${(amount / 1e6).toFixed(1)}M`;
-  if (amount >= 1e3) return `$${(amount / 1e3).toFixed(0)}K`;
-  return `$${amount.toLocaleString()}`;
+  try {
+    return new Intl.NumberFormat("en", { style: "currency", currency, notation: "compact", maximumFractionDigits: 1 }).format(amount);
+  } catch (_) {
+    return `${currency} ${amount.toLocaleString()}`;
+  }
 };
 
 function filteredArticles() {
@@ -34,7 +36,8 @@ function filteredArticles() {
   const query = state.query.toLowerCase().trim();
   return state.data.articles
     .filter(article => state.category === "all" || article.category === state.category)
-    .filter(article => !query || [article.title, article.summary, article.source, ...(article.tags || [])].join(" ").toLowerCase().includes(query))
+    .filter(article => state.region === "all" || (article.region || "Global") === state.region)
+    .filter(article => !query || [article.title, article.summary, article.source, article.region, ...(article.tags || [])].join(" ").toLowerCase().includes(query))
     .sort((a, b) => state.sort === "newest" ? new Date(b.published) - new Date(a.published) : b.score - a.score);
 }
 
@@ -45,7 +48,7 @@ function renderArticles() {
   $("#article-grid").innerHTML = shown.length ? shown.map((article, index) => `
     <article class="article-card ${index === 0 && state.category === "all" && !state.query ? "featured" : ""}">
       <div class="article-card-top">
-        <span class="article-category">${escapeHtml(article.category)}</span>
+        <span class="article-category"><span class="market">${escapeHtml(article.region || "Global")}</span> / ${escapeHtml(article.category)}</span>
         <span class="score" style="--score:${Math.min(article.score, 100)}%">${article.score}% relevant</span>
       </div>
       <h3><a href="${cleanUrl(article.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></h3>
@@ -58,7 +61,22 @@ function renderArticles() {
 }
 
 function renderBrief() {
-  $("#brief-list").innerHTML = state.data.articles.slice(0, 3).map((article, index) => `
+  const distinct = [];
+  const regions = new Set();
+  for (const article of state.data.articles) {
+    if (!regions.has(article.region)) {
+      distinct.push(article);
+      regions.add(article.region);
+    }
+    if (distinct.length === 3) break;
+  }
+  if (distinct.length < 3) {
+    for (const article of state.data.articles) {
+      if (!distinct.includes(article)) distinct.push(article);
+      if (distinct.length === 3) break;
+    }
+  }
+  $("#brief-list").innerHTML = distinct.map((article, index) => `
     <article class="brief-item">
       <span class="brief-number">0${index + 1}</span>
       <a href="${cleanUrl(article.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a>
@@ -70,13 +88,13 @@ function renderBrief() {
 function renderCompanies() {
   const panel = $("#company-list");
   panel.innerHTML = state.watchlist.length ? state.watchlist.map(name => {
-    const count = state.data.articles.filter(article => [article.title, ...(article.tags || [])].join(" ").toLowerCase().includes(name.toLowerCase().replace("the ", ""))).length;
+    const count = state.data.articles.filter(article => (article.tags || []).some(tag => tag.toLowerCase() === name.toLowerCase()) || article.title.toLowerCase().includes(name.toLowerCase())).length;
     const initials = name.split(/\s+/).map(word => word[0]).slice(0, 2).join("");
     return `<div class="company-item"><span class="company-logo">${escapeHtml(initials)}</span><span><strong>${escapeHtml(name)}</strong><small>${count ? "Active coverage" : "Quiet period"}</small></span><span class="company-signal ${count ? "" : "zero"}">${count}</span><button class="company-remove" type="button" data-company="${escapeHtml(name)}" aria-label="Remove ${escapeHtml(name)}">×</button></div>`;
   }).join("") : `<div class="empty-state"><strong>Watchlist empty.</strong><p>Reload to restore the default companies.</p></div>`;
   $$(".company-remove", panel).forEach(button => button.addEventListener("click", () => {
     state.watchlist = state.watchlist.filter(name => name !== button.dataset.company);
-    localStorage.setItem("signal-brief-watchlist", JSON.stringify(state.watchlist));
+    localStorage.setItem("signal-brief-watchlist-v2", JSON.stringify(state.watchlist));
     renderCompanies();
   }));
 }
@@ -87,11 +105,12 @@ function renderContracts() {
     <tr>
       <td>${escapeHtml(contract.recipient)}</td>
       <td>${escapeHtml(contract.description)}</td>
-      <td>${money(contract.amount)}</td>
-      <td>${escapeHtml(contract.agency || "Department of Defense")}</td>
-      <td><a href="${cleanUrl(contract.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(contract.award_id)} ↗</a></td>
+      <td>${money(contract.amount, contract.currency)}</td>
+      <td>${escapeHtml(contract.jurisdiction || "United States")}</td>
+      <td>${escapeHtml(contract.agency || "Public buyer")}</td>
+      <td><a href="${cleanUrl(contract.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(contract.record_source || contract.award_id)} ↗</a></td>
     </tr>
-  `).join("") : `<tr><td colspan="5">Contract records are temporarily unavailable. The news stream is still current.</td></tr>`;
+  `).join("") : `<tr><td colspan="6">Contract records are temporarily unavailable. The news stream is still current.</td></tr>`;
 }
 
 function renderMeta() {
@@ -100,13 +119,19 @@ function renderMeta() {
   $("#updated-time").textContent = Number.isNaN(updated.getTime()) ? "Recently" : `${updated.toLocaleDateString("en-US", { month: "short", day: "numeric" })} · ${updated.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}`;
   $("#stat-articles").textContent = state.data.articles.length;
   $("#stat-contracts").textContent = state.data.contracts.length;
-  $("#stat-value").textContent = money(state.data.contracts.reduce((sum, item) => sum + Number(item.amount || 0), 0));
+  $("#stat-regions").textContent = new Set(state.data.articles.map(item => item.region || "Global")).size;
 }
 
 function bindInteractions() {
   $$(".filter-chip").forEach(button => button.addEventListener("click", () => {
     $$(".filter-chip").forEach(item => item.classList.toggle("active", item === button));
     state.category = button.dataset.category;
+    state.visible = 7;
+    renderArticles();
+  }));
+  $$(".region-chip").forEach(button => button.addEventListener("click", () => {
+    $$(".region-chip").forEach(item => item.classList.toggle("active", item === button));
+    state.region = button.dataset.region;
     state.visible = 7;
     renderArticles();
   }));
@@ -135,7 +160,7 @@ function bindInteractions() {
     const name = input.value.trim();
     if (name && !state.watchlist.some(item => item.toLowerCase() === name.toLowerCase())) {
       state.watchlist.push(name);
-      localStorage.setItem("signal-brief-watchlist", JSON.stringify(state.watchlist));
+      localStorage.setItem("signal-brief-watchlist-v2", JSON.stringify(state.watchlist));
       input.value = "";
       renderCompanies();
     }
