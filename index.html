@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Signal Brief tracks public defense-industry news and federal contract activity in one focused, source-first dashboard." />
+    <meta name="theme-color" content="#0c1a1d" />
+    <title>Signal Brief — Defense industry intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to intelligence feed</a>
+
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="Signal Brief home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span><strong>Signal</strong> Brief</span>
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a class="active" href="#intelligence">Intelligence</a>
+        <a href="#contracts">Contracts</a>
+        <a href="#watchlist">Watchlist</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-button" id="search-toggle" type="button" aria-label="Open search" aria-expanded="false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4 4"></path></svg>
+        </button>
+        <button class="github-link" id="header-methodology" type="button">Methodology <span>→</span></button>
+      </div>
+    </header>
+
+    <div class="search-panel" id="search-panel" hidden>
+      <label for="global-search">Search headlines, companies, programs, or sources</label>
+      <div class="search-field">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4 4"></path></svg>
+        <input id="global-search" type="search" placeholder="Try “missile defense” or “RTX”" autocomplete="off" />
+        <kbd>ESC</kbd>
+      </div>
+    </div>
+
+    <main id="main">
+      <section class="hero shell" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="live-dot"></span> Public-source intelligence</div>
+          <h1 id="page-title">The defense market,<br /><em>without the noise.</em></h1>
+          <p>News, contract awards, and company signals ranked for relevance to the defense industrial base.</p>
+        </div>
+        <div class="hero-meta">
+          <div class="date-block">
+            <span>Daily briefing</span>
+            <strong id="brief-date">—</strong>
+          </div>
+          <div class="update-block">
+            <span>Last synchronized</span>
+            <strong id="updated-time">Loading latest signals…</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="signal-strip" aria-label="Current coverage statistics">
+        <div class="shell stat-grid">
+          <article>
+            <span class="stat-label">Relevant signals</span>
+            <strong id="stat-articles">—</strong>
+            <small>across public sources</small>
+          </article>
+          <article>
+            <span class="stat-label">Contract actions</span>
+            <strong id="stat-contracts">—</strong>
+            <small>latest tracked window</small>
+          </article>
+          <article>
+            <span class="stat-label">Top awards tracked</span>
+            <strong id="stat-value">—</strong>
+            <small>not total federal spend</small>
+          </article>
+          <article class="method-stat">
+            <span class="stat-label">Signal method</span>
+            <strong>Source + relevance</strong>
+            <small>transparent, rules-based ranking</small>
+          </article>
+        </div>
+      </section>
+
+      <section class="briefing shell" aria-labelledby="briefing-title">
+        <div class="section-kicker">01 / Executive read</div>
+        <div class="briefing-layout">
+          <div>
+            <h2 id="briefing-title">Today’s brief</h2>
+            <p class="section-intro">Three signals worth carrying into your next conversation.</p>
+          </div>
+          <div class="brief-list" id="brief-list" aria-live="polite">
+            <div class="skeleton brief-skeleton"></div>
+            <div class="skeleton brief-skeleton"></div>
+            <div class="skeleton brief-skeleton"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="intelligence shell" id="intelligence" aria-labelledby="intel-title">
+        <div class="section-header">
+          <div>
+            <div class="section-kicker">02 / Intelligence stream</div>
+            <h2 id="intel-title">Latest signals</h2>
+          </div>
+          <div class="results-meta"><span id="results-count">0</span> results</div>
+        </div>
+
+        <div class="filter-bar" role="group" aria-label="Filter intelligence by category">
+          <div class="filter-scroll" id="category-filters">
+            <button class="filter-chip active" type="button" data-category="all">All signals</button>
+            <button class="filter-chip" type="button" data-category="contracts">Contracts</button>
+            <button class="filter-chip" type="button" data-category="companies">Companies</button>
+            <button class="filter-chip" type="button" data-category="technology">Technology</button>
+            <button class="filter-chip" type="button" data-category="policy">Policy</button>
+            <button class="filter-chip" type="button" data-category="space">Space</button>
+            <button class="filter-chip" type="button" data-category="cyber">Cyber</button>
+          </div>
+          <label class="sort-control">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="relevance">Most relevant</option>
+              <option value="newest">Newest first</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="content-grid">
+          <div class="news-column">
+            <div class="article-grid" id="article-grid" aria-live="polite">
+              <div class="skeleton card-skeleton"></div>
+              <div class="skeleton card-skeleton"></div>
+              <div class="skeleton card-skeleton"></div>
+            </div>
+            <button class="load-more" id="load-more" type="button" hidden>Show more intelligence <span>↓</span></button>
+          </div>
+
+          <aside class="rail" aria-label="Watchlist and data notes">
+            <section class="watchlist-panel" id="watchlist">
+              <div class="panel-heading">
+                <div>
+                  <span class="panel-label">Your watchlist</span>
+                  <h3>Company pulse</h3>
+                </div>
+                <button class="text-button" id="edit-watchlist" type="button">Edit</button>
+              </div>
+              <div id="company-list"></div>
+              <form class="watchlist-add" id="watchlist-add">
+                <label for="company-input">Add a company</label>
+                <div><input id="company-input" type="text" maxlength="40" placeholder="e.g. Huntington Ingalls" /><button type="submit">Add</button></div>
+              </form>
+            </section>
+            <section class="source-note">
+              <span class="source-icon" aria-hidden="true">◎</span>
+              <div>
+                <h3>Source-first by design</h3>
+                <p>Every signal links to its original publisher or public record. Scores indicate relevance, not sentiment or investment quality.</p>
+                <button type="button" id="open-methodology">How ranking works →</button>
+              </div>
+            </section>
+          </aside>
+        </div>
+      </section>
+
+      <section class="contracts-section" id="contracts" aria-labelledby="contracts-title">
+        <div class="shell">
+          <div class="section-header light">
+            <div>
+              <div class="section-kicker">03 / Federal awards</div>
+              <h2 id="contracts-title">Contract ledger</h2>
+            </div>
+            <a href="https://www.usaspending.gov/" target="_blank" rel="noreferrer">Explore USAspending.gov ↗</a>
+          </div>
+          <p class="contracts-intro">Recent Department of Defense award records, surfaced from the public USAspending API.</p>
+          <div class="contract-table-wrap">
+            <table>
+              <thead>
+                <tr><th>Recipient</th><th>What it funds</th><th>Award</th><th>Agency</th><th>Record</th></tr>
+              </thead>
+              <tbody id="contract-rows"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-grid">
+        <div>
+          <a class="brand footer-brand" href="#"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span><strong>Signal</strong> Brief</span></a>
+          <p>Open-source context for the defense industrial base.</p>
+        </div>
+        <div class="footer-note">
+          <strong>Research tool, not investment advice.</strong>
+          <p>Public data may be delayed, incomplete, or revised. Verify material facts at the original source.</p>
+        </div>
+        <div class="footer-links"><a href="#intelligence">Intelligence</a><a href="#contracts">Contracts</a><button id="footer-methodology" type="button">Methodology</button></div>
+      </div>
+    </footer>
+
+    <dialog id="methodology-dialog">
+      <button class="dialog-close" type="button" aria-label="Close methodology">×</button>
+      <span class="dialog-kicker">Methodology</span>
+      <h2>Useful signals, explainable ranking.</h2>
+      <p>Signal Brief collects public headlines and federal award records on a scheduled GitHub Action. Each story receives a deterministic relevance score based on:</p>
+      <ol>
+        <li><strong>Industry entities</strong> — defense primes, agencies, programs, and platforms.</li>
+        <li><strong>Material events</strong> — awards, protests, production, acquisitions, budgets, and export decisions.</li>
+        <li><strong>Source quality</strong> — direct government and established reporting sources receive a modest weight.</li>
+        <li><strong>Freshness</strong> — recent items receive a small lift; no opaque recommendation model is used.</li>
+      </ol>
+      <p class="dialog-disclaimer">The score is topical relevance only. It is not a prediction, sentiment score, or buy/sell signal.</p>
+    </dialog>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
