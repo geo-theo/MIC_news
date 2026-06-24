@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-06-24T09:51:55.323522Z",
+    "updated_at": "2026-06-24T15:13:55.936287Z",
     "article_count": 72,
-    "contract_count": 11,
+    "contract_count": 13,
     "sources": [
       "Regional Google News RSS editions",
       "USAspending API",
@@ -131,20 +131,6 @@
       ]
     },
     {
-      "id": "f1e89767e165",
-      "title": "Thales and The Dutch Ministry of Defence Sign A Strategic Partnership to Expand Radar System Production and Test... - Military / Defense / Homeland Security - Thales Group",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSW5rWG1aNFZCNkJTVlNLUjVlVmRITFRmVFBZcnFDRFhUclNOc1pjSUdZdmZBNWQzRXlUQ2wxZk9WczdPMGVTUUFxRGkyWkhMUENpWWFtYWlVemhVTGJoa3JNUjRsZVkzTFV2YmlNU196VGhGTVZ5bEpaR1JadUVkaWV5MGhPRVdvRTduN0w4WXYyRFU2b3VZQzkyWHpLNXZNNjFGX1B0Q0sxRjZ3a2JCdUwzZmVaOG9zMnNwS1B3NTMtb0VQeDVIY21Xeld5eUptR2JVSWs2bHU2X3J5cVZRNERGYWtiNkVlWDl4bkJXbUlCWThfREpNU0FsRnRUU1dvbjdIOE5kUldpdXZLYmxXaw?oc=5",
-      "source": "NewswireToday",
-      "published": "2026-06-22T14:49:18Z",
-      "category": "cyber",
-      "region": "Europe",
-      "score": 74,
-      "tags": [
-        "Thales"
-      ]
-    },
-    {
       "id": "d1e937775ec4",
       "title": "More Than $9M in F-35 Work Headed to the Region",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
@@ -159,11 +145,11 @@
       ]
     },
     {
-      "id": "ebc63bc39c36",
+      "id": "867a5c47b8df",
       "title": "Is the U.S. Space Force's Expanding Budget a Game Changer for Defense Contractors",
       "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1ZhS2I1SVBxaTVXbi1aQjJQMm91R3hxNWkySTFNZWR3aVlwNkpudU52Rk0yRllrYnN3X2dtVEd3M3VtTGhIZE5OcHczN2RsQ3FQZTZRLXZvLWtoZExSRGR6SHRmZF9XeXp2T3FRS2g0Sm9mVXlUNHNkR0xuU0RIOEpLcGFqcWRSTURxMkFmVWYwX1AteWtnNUZ1WkpidDh4QUVXUWVqMW83RkFVMDBWYkZheXZ1Zw?oc=5",
-      "source": "Kavout",
+      "source": "Kavout | AI",
       "published": "2026-06-21T01:13:29Z",
       "category": "space",
       "region": "Global",
@@ -201,20 +187,6 @@
       ]
     },
     {
-      "id": "c923ddb93b0a",
-      "title": "Lockheed Martin snags $514M satellite contract from the U.S. military",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUU1jdXNpQWhDS1JxWExJY09HZGw5NkhqVTJQMlZGLXJmLTNfYlI5ajd3S01DZXk3VHd1emsyRlh0azBPUm9EZDhsRGt2VkJtNi05SVR1bk1JMU8wM0prMFMtWDhGY0cxNVJ1Rkp5bFVNVUZvY3VHZ3BmVzJ0Q01uTk1ad21QOWtScDhGNHZ0ZzVreVBWOE54WmxNcllFeE1pVmZZ?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-06-17T14:09:00Z",
-      "category": "space",
-      "region": "North America",
-      "score": 72,
-      "tags": [
-        "Lockheed Martin"
-      ]
-    },
-    {
       "id": "c79a7b546b27",
       "title": "Frankenburg Baltic-Polish Missile Production Network: Strategic Implications",
       "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
@@ -243,31 +215,31 @@
       ]
     },
     {
+      "id": "c923ddb93b0a",
+      "title": "Lockheed Martin snags $514M satellite contract from the U.S. military",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUU1jdXNpQWhDS1JxWExJY09HZGw5NkhqVTJQMlZGLXJmLTNfYlI5ajd3S01DZXk3VHd1emsyRlh0azBPUm9EZDhsRGt2VkJtNi05SVR1bk1JMU8wM0prMFMtWDhGY0cxNVJ1Rkp5bFVNVUZvY3VHZ3BmVzJ0Q01uTk1ad21QOWtScDhGNHZ0ZzVreVBWOE54WmxNcllFeE1pVmZZ?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-06-17T14:09:00Z",
+      "category": "space",
+      "region": "North America",
+      "score": 71,
+      "tags": [
+        "Lockheed Martin"
+      ]
+    },
+    {
       "id": "e850340aa225",
       "title": "Up to £70 million investment in essential spares for UK military aircraft",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOampkQUtXNXBiY1NVeEJRLUZUWUREMWJaQUt4d2RDMWFJUjJ5YWE5ZGd0OXRzQUQwaFZibkluUDBtSXQweVNta2Y1U3I5Q1JNYkFGSW11ZGFNamxaVXlfRzhWQkNxcHFyQnZoUlRZTF94LWxRM05mbHJZSVkyOW95UGNROWFwYmpMLURaTU93VVUxT3pOcGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGsydTVrTENkYngzLWNsNWZRUkpWREhVQjRjQjVZNUFNTlk5V2JLTXBkOTRPcHVYUkFHRVhwZC05T2ZHdHBUc2pfWGJ6cks5ejBPV3pDVVVaTGV6Z0VWNTJDYVRuRlB0MmVYVS04WGROMC04RmotZUNBUkZ4SzRtemJma0Yza3dUbkJtNUFVcHVfTldEc3hz?oc=5",
       "source": "Defence Equipment & Support",
       "published": "2026-06-18T23:15:01Z",
       "category": "contracts",
       "region": "Global",
-      "score": 71,
-      "tags": [
-        "Contracts"
-      ]
-    },
-    {
-      "id": "dc4016cf4b10",
-      "title": "White House PQC order ‘lights a fire’ under post-quantum transition",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmd6akRBd2xuRnE4bUd3bDdHSGZyWDlGRnBaRXZra3hsbzVUaVZFbi05RTZxV1BKTm1GcFo1V0V0bUNjd3B0Skx1dUhKMmFuUlh3a2VxU3BIY2NBVHpBbTJPQ3pLcHMtcFg3VGlucE5MamItQVJ4cENuaXZnMml6SDhFaFdxSUhUNjJyMlI4OWFYTldjSFU5RHJ0UElWelk1YkZnMFY0cmJmMW9vZEY2bFdfVWp4VGpmeDZr?oc=5",
-      "source": "Federal News Network",
-      "published": "2026-06-23T21:41:14Z",
-      "category": "cyber",
-      "region": "Global",
       "score": 70,
       "tags": [
-        "Cyber"
+        "Contracts"
       ]
     },
     {
@@ -296,6 +268,20 @@
       "score": 69,
       "tags": [
         "Space"
+      ]
+    },
+    {
+      "id": "dc4016cf4b10",
+      "title": "White House PQC order ‘lights a fire’ under post-quantum transition",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmd6akRBd2xuRnE4bUd3bDdHSGZyWDlGRnBaRXZra3hsbzVUaVZFbi05RTZxV1BKTm1GcFo1V0V0bUNjd3B0Skx1dUhKMmFuUlh3a2VxU3BIY2NBVHpBbTJPQ3pLcHMtcFg3VGlucE5MamItQVJ4cENuaXZnMml6SDhFaFdxSUhUNjJyMlI4OWFYTldjSFU5RHJ0UElWelk1YkZnMFY0cmJmMW9vZEY2bFdfVWp4VGpmeDZr?oc=5",
+      "source": "Federal News Network",
+      "published": "2026-06-23T21:41:14Z",
+      "category": "cyber",
+      "region": "Global",
+      "score": 69,
+      "tags": [
+        "Cyber"
       ]
     },
     {
@@ -328,17 +314,17 @@
       ]
     },
     {
-      "id": "e1b37eb8fe85",
-      "title": "U.S. Air Force Expands F-15EX Fleet to 267 Fighter Jets in One of Its Largest Procurement Plans",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX2xodWx4T1lSLWxGWklSNW9yUUlVSHhmNzFxdTE4dnFBX0VNR09pUVU4WEN0dmZlN2lDSzByNWxpYjZrZGZ3Tmota2JMSlZ2Q3hjeXlaeDFoRkNrQklncjN2bHhicjVjdDJnLTcyLTYxb3NXd1dmZ3ByVjdoY3I1Q0hFb1ZWMmJraWFxS3ZQT2dTRXBMY3A0dmMwZFRhX3VGTmN4THZaM2VzYmYzZ1Nid1ZfWUIxc043bkdESFdSc2U4ck5xUENzMkg2eW5UUEE3UFBQZkNGb2U0NTJNOWtHbg?oc=5",
-      "source": "Army Recognition",
-      "published": "2026-06-18T19:05:16Z",
-      "category": "policy",
-      "region": "North America",
+      "id": "3eb464057954",
+      "title": "Saab delivers last two defense contracted Gripen fighters to Hungary",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzd2NlV5aWdJZzMyZFE0LVdGOGdhR3RmVnJnazdLZUhnU3MzRFd4VDJwZ3lOMHJMS1hPd0FBUmNRWExLbnh5ZXBYMUZHSWFHUkdSSHdqYTZiTlh4dkdSN011b3lRMjBZMWl6anZJTV9QVVdzamVWT29fbWJ2eFZENjRBY3RRR0VyeVEyRjVfd0VNNVdfaTNPbWdEOTBwNXB3REpMV2FB?oc=5",
+      "source": "AeroTime",
+      "published": "2026-06-24T13:39:14Z",
+      "category": "companies",
+      "region": "Europe",
       "score": 67,
       "tags": [
-        "Boeing"
+        "Saab"
       ]
     },
     {
@@ -353,6 +339,34 @@
       "score": 66,
       "tags": [
         "Anduril"
+      ]
+    },
+    {
+      "id": "e1b37eb8fe85",
+      "title": "U.S. Air Force Expands F-15EX Fleet to 267 Fighter Jets in One of Its Largest Procurement Plans",
+      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX2xodWx4T1lSLWxGWklSNW9yUUlVSHhmNzFxdTE4dnFBX0VNR09pUVU4WEN0dmZlN2lDSzByNWxpYjZrZGZ3Tmota2JMSlZ2Q3hjeXlaeDFoRkNrQklncjN2bHhicjVjdDJnLTcyLTYxb3NXd1dmZ3ByVjdoY3I1Q0hFb1ZWMmJraWFxS3ZQT2dTRXBMY3A0dmMwZFRhX3VGTmN4THZaM2VzYmYzZ1Nid1ZfWUIxc043bkdESFdSc2U4ck5xUENzMkg2eW5UUEE3UFBQZkNGb2U0NTJNOWtHbg?oc=5",
+      "source": "Army Recognition",
+      "published": "2026-06-18T19:05:16Z",
+      "category": "policy",
+      "region": "North America",
+      "score": 66,
+      "tags": [
+        "Boeing"
+      ]
+    },
+    {
+      "id": "8d2f2c887c9a",
+      "title": "BAE Systems to build Vantor Vantage 20 cm-class imaging satellite buses for national defence and intelligence programmes",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdzd5TGw0QUFXVERZVC1oV2kwSy1VbmQ2WG1OcnlteW9Sa0VrUVl2Y19uWGRIVXBvNzMtSzMwNHAwVlJiZTBSNExMZEZEZFJWeUhYTHV3eEhpVDZaLVN0Q1BWVHdrdnR1cFZyZC1PWFZyQjJGalpFbzJvOFg3cWdIUWVMbGxHdVdtYVVyMmJMb25mODNpeE5xcjQwUWwxTGhIUERxOFdKOGhMZkNvTjJEUmR4VE96WlRpMEsySWUwOVNsaUhHaW54RWlpMEs4cHFxdkxtamlzR2pkM25ZWG1paUt4RQ?oc=5",
+      "source": "Defence Industry Europe",
+      "published": "2026-06-24T15:10:19Z",
+      "category": "space",
+      "region": "Europe",
+      "score": 65,
+      "tags": [
+        "BAE Systems"
       ]
     },
     {
@@ -398,20 +412,6 @@
       ]
     },
     {
-      "id": "e8b23fff65af",
-      "title": "Renault teams up with Thales to boost France’s drone production",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpyaXZJN2ZNRGlfTDlHWW5JaDFIRFczNUZHMkZ1SmNURTNaZUZBRFRyUmh6cFBhZDdyckV5WFpscXFTc3k3MGpWSno3ZElVYWpJZFhZVzZ6QnRsNTBScmZDN1EzbUxiejlsaFhVVWtJQW9XZ1dKQ04tbzE2a19sbGFiWVdxaEMtNHFya01ZRlhZc1I0YXl3amZsUlN1MXR5blg2Zmp4dUZzTmNMWkQ5TQ?oc=5",
-      "source": "Defense News",
-      "published": "2026-06-16T20:30:01Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 64,
-      "tags": [
-        "Thales"
-      ]
-    },
-    {
       "id": "53ba7e564b52",
       "title": "France drops Palantir contract for domestic rival ChapsVision, citing Strategic independence",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -424,20 +424,6 @@
       "tags": [
         "ChapsVision",
         "Palantir"
-      ]
-    },
-    {
-      "id": "0637c527e4fe",
-      "title": "Lockheed, GM announce partnership to bolster production for munitions and more",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWE0tY1N0XzkxSHYyWExPTHRhbDZ6anpiY1g3YzNCY3NsSWhlRVNKa2QzMDRaeDRpb0pnX3lEQklBUlMyS0ZjRTJYUURNc2xsVkx4NDFOTVBWLUlXWTZwWGh2TXlIYnRROWgxcDEyanNpdGYyVElrS3p0b01uNnNYOEF0eV9EZThfYmFSQ3N5SG5FbzE1Z0lRODlkaEpFTXRsempWVWZuM2V3TmxZS1lyVW9zV0E?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-06-16T19:31:42Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 64,
-      "tags": [
-        "Lockheed Martin"
       ]
     },
     {
@@ -455,17 +441,17 @@
       ]
     },
     {
-      "id": "e09b8f75add5",
-      "title": "Trump expected to meet with defense contractors Wednesday amid Iran peace talks",
+      "id": "e8b23fff65af",
+      "title": "Renault teams up with Thales to boost France’s drone production",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wR1FvSnZoZUp1Tmg5a0RQMF9HYXJXUGpmMXBhMFdwTUM5VVVfR3VDLUdOeE9vbXFCSVJDejFVb1hCMHVqNUpnQmdueWtQQ2N6ZllHWjlqT3BhWEo4cS10QkNpeGxCUURqZVM4bHV5VUZsMWl2UThz?oc=5",
-      "source": "CBS News",
-      "published": "2026-06-22T17:18:41Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpyaXZJN2ZNRGlfTDlHWW5JaDFIRFczNUZHMkZ1SmNURTNaZUZBRFRyUmh6cFBhZDdyckV5WFpscXFTc3k3MGpWSno3ZElVYWpJZFhZVzZ6QnRsNTBScmZDN1EzbUxiejlsaFhVVWtJQW9XZ1dKQ04tbzE2a19sbGFiWVdxaEMtNHFya01ZRlhZc1I0YXl3amZsUlN1MXR5blg2Zmp4dUZzTmNMWkQ5TQ?oc=5",
+      "source": "Defense News",
+      "published": "2026-06-16T07:00:00Z",
       "category": "companies",
-      "region": "North America",
+      "region": "Europe",
       "score": 63,
       "tags": [
-        "Companies"
+        "Thales"
       ]
     },
     {
@@ -480,6 +466,20 @@
       "score": 62,
       "tags": [
         "Thales"
+      ]
+    },
+    {
+      "id": "e09b8f75add5",
+      "title": "Trump expected to meet with defense contractors Wednesday amid Iran peace talks",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wR1FvSnZoZUp1Tmg5a0RQMF9HYXJXUGpmMXBhMFdwTUM5VVVfR3VDLUdOeE9vbXFCSVJDejFVb1hCMHVqNUpnQmdueWtQQ2N6ZllHWjlqT3BhWEo4cS10QkNpeGxCUURqZVM4bHV5VUZsMWl2UThz?oc=5",
+      "source": "CBS News",
+      "published": "2026-06-22T17:18:41Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 62,
+      "tags": [
+        "Companies"
       ]
     },
     {
@@ -539,17 +539,31 @@
       ]
     },
     {
-      "id": "de7123c79bb3",
-      "title": "Europe Advances MBDA CROSSBOW 800 km Weapon for Ground-Launched Deep Fires After First Firing Trial",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHlwSDl3R1U4eDF4TGJWRUx5ZWFWVmRtOXBsUk0zMHpiN2pfY1VWVlUyZ2JNQjBMd2I3SWw4NENCODItWXY5a1NvOU9Mbk5MX2ZRWkpYSUNIY2JQQkpiVzU4RE9xUV9pUDllYXgwc3VhWXQwRTFpcGJTN09jcWw1M0FBV21oT2t2cS1iVWF6eU5kTW84Q05zeFZwLXU1ZFZJNjBFQW80QVFoMHNKaGQwbGpiTHdxcWt2QlZNMEZrZjNJendwczRiUDI2T1NwMmZ3R0xEd3BzSS1fNlg0clFfMVpYM3hkMzRoSEZSOQ?oc=5",
-      "source": "Army Recognition",
-      "published": "2026-06-22T13:48:32Z",
-      "category": "policy",
+      "id": "bcd125c5e309",
+      "title": "Ondas’ Sentrycs Joins Lockheed Martin Counter-Drone Platform",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUT1RFRE1mWXZBT2FZVkFfZUM0TjFGOXpoM3hXMTJ1WmxrdzVXUlNnNllTZzBET0xTZW12bVcxTVBQbjRQMnRMN0NMZU5URlBrNlB1SWpZemk?oc=5",
+      "source": "Israel Defense",
+      "published": "2026-06-24T02:51:24Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 61,
+      "tags": [
+        "Lockheed Martin"
+      ]
+    },
+    {
+      "id": "0c0c2e395fda",
+      "title": "Thales and the Dutch Ministry of Defence sign a strategic partnership to expand radar system production and test capacity in the Netherlands",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1hxUjY3UFZlTTRSeUF5d1dOTVM1VXg1R1BUVXc5Q3JuVFl4RDdYQnhPNnV0dFJqT29vVHlPXy0wWVVwT0JfTFdVVkphVjFSVGRhNmJITGVmbHFOQ2FvUGNMVFh5aENPbnRrYVZ5TXBJWVdvc3oyT1NNeVlXUUlUV2xMRjFfdTVJSmYyOElJemxoMjNsZVU5Z2VOSklPRHgzaVhuZkFCYTJvS1FlVC1NdmhRNVZWZlhPRmNYVUdSR3BkSUk?oc=5",
+      "source": "Thales Group",
+      "published": "2026-06-22T11:00:00Z",
+      "category": "companies",
       "region": "Europe",
       "score": 61,
       "tags": [
-        "MBDA"
+        "Thales"
       ]
     },
     {
@@ -578,6 +592,20 @@
       "score": 60,
       "tags": [
         "Thales"
+      ]
+    },
+    {
+      "id": "de7123c79bb3",
+      "title": "Europe Advances MBDA CROSSBOW 800 km Weapon for Ground-Launched Deep Fires After First Firing Trial",
+      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHlwSDl3R1U4eDF4TGJWRUx5ZWFWVmRtOXBsUk0zMHpiN2pfY1VWVlUyZ2JNQjBMd2I3SWw4NENCODItWXY5a1NvOU9Mbk5MX2ZRWkpYSUNIY2JQQkpiVzU4RE9xUV9pUDllYXgwc3VhWXQwRTFpcGJTN09jcWw1M0FBV21oT2t2cS1iVWF6eU5kTW84Q05zeFZwLXU1ZFZJNjBFQW80QVFoMHNKaGQwbGpiTHdxcWt2QlZNMEZrZjNJendwczRiUDI2T1NwMmZ3R0xEd3BzSS1fNlg0clFfMVpYM3hkMzRoSEZSOQ?oc=5",
+      "source": "Army Recognition",
+      "published": "2026-06-22T13:48:32Z",
+      "category": "policy",
+      "region": "Europe",
+      "score": 60,
+      "tags": [
+        "MBDA"
       ]
     },
     {
@@ -665,34 +693,6 @@
       ]
     },
     {
-      "id": "550b694d3d8a",
-      "title": "Thales Builds a Laser-Guided Rocket to Swat Drones",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEdvMEM2TWYwVVlITU0xdmREWU9Jc1ZlT2lDQlBjQldzUXFIQ3l2YzNBM1AtQV9hYkljX2c0MkdYYzJFTzhDYW4weExMWXFuM2k2c1JadDFaNnlOOE1PM0ZRU2ZaT2U2ZWh3TnZ3ZGVUXzhSUXhXZldtc0hNSDhkTWJGeVMtY0syVWkxTlRzbTVMMm94RnlsTFpiVW03TGdRN0hZ?oc=5",
-      "source": "MiGFlug",
-      "published": "2026-06-16T10:20:59Z",
-      "category": "technology",
-      "region": "Europe",
-      "score": 58,
-      "tags": [
-        "Thales"
-      ]
-    },
-    {
-      "id": "2f63cb87806f",
-      "title": "Rheinmetall’s Satellite Play Masks Deepening Doubts on the Ground",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkh6YW5Bdy1Hd3l4OXVFSG43X2tLOFgxRHZ3WXNDRjdGLV9zYUxjdl9VcGFFSVBQTXFkR2RNeVJ0bUpqbktjX2lTeUFqUkMyZ1U1MlRLdklxLTY1ZHU4S2M4dVBVSTJzb3VfQTZqUVRqajFJR20xSFdWVTIyQ1pIM1FKU0tOMzdzeVdoY1Uta0RpSGRXSUlkTEpUcGdodVhpU1cxYUZZR2xjSmtsTjREdEwwVmZYTTZsVFA3T3c2azdXdw?oc=5",
-      "source": "Ad-hoc-news.de",
-      "published": "2026-06-15T02:13:47Z",
-      "category": "space",
-      "region": "Europe",
-      "score": 58,
-      "tags": [
-        "Rheinmetall"
-      ]
-    },
-    {
       "id": "5e8e4270516d",
       "title": "Carmaker Renault teams with Thales on ‘4Troop’ military vehicle design",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -707,17 +707,17 @@
       ]
     },
     {
-      "id": "698ba4168ec9",
-      "title": "France Equips Enbata MALE Drone With Thales AirMaster C Radar for Sovereign Long Endurance ISR",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU0JzbzNjdXpzMm5kbjd1aWZ0dkhoR3RLWEhNRHMyQnM2RGkzNEttbldhYjdIV09XTHNieEpjNEpOUDYwOUdqXzZPS3ZBV1gwSFhoNmhCTzg3TzBubF82MDZST0w0ZWNqMEhaVXc4cFFFTWFTa19KRkFWWU1KcGZJUUZ3aU9ITmlXTllUT1M2MGFITGx0cXhHLXlVSVJUbHppbzN2SGE1NXJ5WUJLRjdfeU03TS1rZ3FnUjE3TGYzcVJkN2hxeWtmeGZKMzFhdTYtQzdQcWJTbUZtYWlxQlNKMw?oc=5",
-      "source": "Army Recognition",
-      "published": "2026-06-17T19:50:55Z",
-      "category": "policy",
+      "id": "2f63cb87806f",
+      "title": "Rheinmetall’s Satellite Play Masks Deepening Doubts on the Ground",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkh6YW5Bdy1Hd3l4OXVFSG43X2tLOFgxRHZ3WXNDRjdGLV9zYUxjdl9VcGFFSVBQTXFkR2RNeVJ0bUpqbktjX2lTeUFqUkMyZ1U1MlRLdklxLTY1ZHU4S2M4dVBVSTJzb3VfQTZqUVRqajFJR20xSFdWVTIyQ1pIM1FKU0tOMzdzeVdoY1Uta0RpSGRXSUlkTEpUcGdodVhpU1cxYUZZR2xjSmtsTjREdEwwVmZYTTZsVFA3T3c2azdXdw?oc=5",
+      "source": "Ad-hoc-news.de",
+      "published": "2026-06-15T02:13:47Z",
+      "category": "space",
       "region": "Europe",
       "score": 57,
       "tags": [
-        "Thales"
+        "Rheinmetall"
       ]
     },
     {
@@ -732,6 +732,20 @@
       "score": 56,
       "tags": [
         "EDGE Group"
+      ]
+    },
+    {
+      "id": "4203ef700402",
+      "title": "Hanwha Aerospace partners with UAE defense firm for expansion into Middle East",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlREMGQ1enhIN09KRlFUWjByeUFPRGw1eExqNGluMEJLMktTbm56RFVwcTFabXlMS0p0clhiNDFsNVVLbVVpMDI5R1hncDFaWHJvUXJQZG9LMmt3Qy1mVXpLTXNRS3M1XzJxQzBLbC1CbUZoWk5rdjNZSGE5NTJISW1QeTBSeDYzVU1XZjAzeExjRVBIX1hUUWpiNXc5RjluVkdpenFwN2loVDFweUw4ZXc0c0kyS0NCY1ozeGczWm9Nd1RFUXJDcGR0clZjRDZWOW44ajRB0gHWAUFVX3lxTE4yVEQwZDV6eEg3T0pGUVRaMHJ5QU9EbDV4TGo0aW4wQksyS1NubnpEVXBxMVpteUxLSnRyWGI0MWw1VUttVWkwMjlHWGdwMVpYcm9RclBkb0sya3dDLWZVektNc1FLczVfMnFDMEtsLUJtRmhaTmt2M1lIYTk1MkhJbVB5MFJ4NjNVTVdmMDN4TGNFUEhfWFRRamI1dzlGOW5WR2l6cXA3aWhUMXB5TDhldzRzSTJLQ0JjWjN4ZzNab013VEVRckNwZHRyVmNENlY5bjhqNEE?oc=5",
+      "source": "The Korea Times",
+      "published": "2026-06-24T11:56:00Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 55,
+      "tags": [
+        "Hanwha Aerospace"
       ]
     },
     {
@@ -973,20 +987,6 @@
       ]
     },
     {
-      "id": "e051ff718aa9",
-      "title": "HD Hyundai Heavy Industries Files Objection to KDDX Evaluation Results",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtLUVNWi1STnhxNEdwWExlMFpsSGFVSDBZUENDZ3NNNk9HRVV3aUdhMUNiVk5nZVljUm5QRWRWekFfcnpGd3NSTEdBNG55TjFaZUNDcjdRVWRIaFNQc3FTb1pxRWkxZEk?oc=5",
-      "source": "thelec.net",
-      "published": "2026-06-22T22:25:26Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 51,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
       "id": "2e9488371ed0",
       "title": "Hanwha Aerospace Opens Its R&D Wish List to Court Startup Tech Partners",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -998,6 +998,20 @@
       "score": 51,
       "tags": [
         "Hanwha Aerospace"
+      ]
+    },
+    {
+      "id": "22f2dd1e0113",
+      "title": "Edge Total Intelligence Reports Q1 2026 Revenue Growth of 121% Year-over-Year and 211% Sequentially and Rapidly Commercializes Acquired Austal Maritime and Aviation Defense Technology",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQXpwSElLdHU1dVhqTEhCeTJRSnA5WTRocUhjY0JqdkNTVlFNMWtPelZLRDlQOUE4dWhHdFBEQXgybHViS2RZUFlSdURfT1d0U1BSbGxfSUxqSmFuTDFWYW1GTFE4cWxNd1dPQzZiX3NETHBMalpiaS1YNXdjRzl3R3B3cDZyemZCZVBuUUlPU3dWTU1mNk81dzUyN2tXSlN0b3dVenFkM0V5WG44bGtIRmllLVFtSEM3ZExoMnpTNzJKeER6d0pYNkdiZHV4NWkxWTh2WGh6alJleWtNdDhOR2RhZlE1azhGaW5KMllkWll5TE8zWkhHMExrS1BJWTNOc0tXcUJhT2UzdjZiblo2QXNZcjV3Z3hTMUpJNzNMMGFPamhXNFNDZS1VQW5rV3FXalV2ejI5TzhPUGlULU54dUhkV0pSQQ?oc=5",
+      "source": "TMX Newsfile",
+      "published": "2026-06-01T07:20:04Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 48,
+      "tags": [
+        "Austal"
       ]
     },
     {
@@ -1013,23 +1027,33 @@
       "tags": [
         "Rafael"
       ]
-    },
-    {
-      "id": "22f2dd1e0113",
-      "title": "Edge Total Intelligence Reports Q1 2026 Revenue Growth of 121% Year-over-Year and 211% Sequentially and Rapidly Commercializes Acquired Austal Maritime and Aviation Defense Technology",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQXpwSElLdHU1dVhqTEhCeTJRSnA5WTRocUhjY0JqdkNTVlFNMWtPelZLRDlQOUE4dWhHdFBEQXgybHViS2RZUFlSdURfT1d0U1BSbGxfSUxqSmFuTDFWYW1GTFE4cWxNd1dPQzZiX3NETHBMalpiaS1YNXdjRzl3R3B3cDZyemZCZVBuUUlPU3dWTU1mNk81dzUyN2tXSlN0b3dVenFkM0V5WG44bGtIRmllLVFtSEM3ZExoMnpTNzJKeER6d0pYNkdiZHV4NWkxWTh2WGh6alJleWtNdDhOR2RhZlE1azhGaW5KMllkWll5TE8zWkhHMExrS1BJWTNOc0tXcUJhT2UzdjZiblo2QXNZcjV3Z3hTMUpJNzNMMGFPamhXNFNDZS1VQW5rV3FXalV2ejI5TzhPUGlULU54dUhkV0pSQQ?oc=5",
-      "source": "TMX Newsfile",
-      "published": "2026-06-01T07:00:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Austal"
-      ]
     }
   ],
   "contracts": [
+    {
+      "award_id": "ocds-b5fd17-b980ffe9-3eac-4c89-ae87-cd21be56d13b",
+      "recipient": "Mercury Training Ltd",
+      "amount": 900000,
+      "currency": "GBP",
+      "description": "Protective Security Adviser L4 apprenticeship - Transparency",
+      "agency": "Ministry of Defence",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-06-24T15:40:49+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/1f5b751f-2276-45f9-bcd0-a35aee8bcdad"
+    },
+    {
+      "award_id": "ocds-b5fd17-cb202c4d-76b1-41dd-94f9-3bac968609d9",
+      "recipient": "Chelsea Technologies Limited",
+      "amount": 43860,
+      "currency": "GBP",
+      "description": "PAH+ Sensor Assembly",
+      "agency": "UNIVERSITY OF THE WEST OF ENGLAND",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-06-24T14:14:07+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/b522484e-b569-4538-827c-8515b4e1bff9"
+    },
     {
       "award_id": "ocds-b5fd17-3d170fbc-6de0-44fa-a9d7-dcbeb0e9fe1b",
       "recipient": "BRAMBLE HUB LIMITED",
