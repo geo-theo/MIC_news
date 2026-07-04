@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-07-04T04:03:24.627934Z",
+    "updated_at": "2026-07-04T09:04:07.628828Z",
     "article_count": 72,
-    "contract_count": 16,
+    "contract_count": 8,
     "sources": [
       "Regional Google News RSS editions",
       "USAspending API",
@@ -1128,102 +1128,6 @@
       "record_source": "Contracts Finder",
       "date": "2026-07-02T15:40:32+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/0a124735-9bf5-42c7-ab26-73cf6197fc0a"
-    },
-    {
-      "award_id": "W912DQ25F3038",
-      "recipient": "ENERGYSOLUTIONS, LLC",
-      "amount": 7142524.0,
-      "currency": "USD",
-      "description": "Eighteen mile creek superfund site bpa call",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2025-05-13",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912DQ25F3038_9700_W912DQ24A3000_9700"
-    },
-    {
-      "award_id": "W912DQ24F3056",
-      "recipient": "APTIM FEDERAL SERVICES, LLC",
-      "amount": 29942923.23,
-      "currency": "USD",
-      "description": "Remedial action - lcp chemicals",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2024-09-05",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912DQ24F3056_9700_W912DQ24D3001_9700"
-    },
-    {
-      "award_id": "W912DQ24F3039",
-      "recipient": "SEVENSON ENVIRONMENTAL SERVICES, INC.",
-      "amount": 28679348.32,
-      "currency": "USD",
-      "description": "Wacc superfund ou1 remedial action",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2024-06-18",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912DQ24F3039_9700_W912DQ22D3004_9700"
-    },
-    {
-      "award_id": "W9126G24C0004",
-      "recipient": "CLARK CONSTRUCTION GROUP LLC",
-      "amount": 620207101.0,
-      "currency": "USD",
-      "description": "Design-build construction of the veterans affairs health care center, el paso, tx",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2023-12-19",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W9126G24C0004_9700_-NONE-_-NONE-"
-    },
-    {
-      "award_id": "W9127824C0002",
-      "recipient": "PACIFIC TECH CONSTRUCTION INC",
-      "amount": 108711897.0,
-      "currency": "USD",
-      "description": "Replace roof at bld 103 michoud assembly facility new orleans, la",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2023-11-15",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W9127824C0002_9700_-NONE-_-NONE-"
-    },
-    {
-      "award_id": "N0016422CJQ86",
-      "recipient": "PRISM MARITIME, INC.",
-      "amount": 26717184.5,
-      "currency": "USD",
-      "description": "Labor, materials and other direct costs, and travel in support of electro-optic and/or counter-unmanned systems on various class navy or associated ships and facilities",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2022-02-28",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016422CJQ86_9700_-NONE-_-NONE-"
-    },
-    {
-      "award_id": "W912DQ22F3002",
-      "recipient": "WSP USA SOLUTIONS INC",
-      "amount": 5940375.0,
-      "currency": "USD",
-      "description": "Remedial investigation/feasibility study",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2022-02-17",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912DQ22F3002_9700_W912DQ21D3009_9700"
-    },
-    {
-      "award_id": "HC101321F0196",
-      "recipient": "AT&T ENTERPRISES, LLC",
-      "amount": 65068582.93,
-      "currency": "USD",
-      "description": "Vpns dedicated access arrangement",
-      "agency": "Department of Defense",
-      "jurisdiction": "United States",
-      "record_source": "USAspending",
-      "date": "2021-08-26",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_HC101321F0196_9700_GS00Q17NSD3000_4732"
     }
   ]
 }
