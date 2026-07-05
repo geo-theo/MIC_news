@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-07-05T09:23:50.626885Z",
+    "updated_at": "2026-07-05T14:12:08.447270Z",
     "article_count": 72,
-    "contract_count": 16,
+    "contract_count": 8,
     "sources": [
       "Regional Google News RSS editions",
       "USAspending API",
@@ -1033,102 +1033,6 @@
     }
   ],
   "contracts": [
-    {
-      "award_id": "ocds-b5fd17-fb6cf1fa-8960-4b47-acd9-e79e43af0eab",
-      "recipient": "PLM Dollar Group Ltd (trading as PDG Aviation Services)",
-      "amount": 59360000,
-      "currency": "GBP",
-      "description": "Bi-Lateral GLA  Aviation Services Project",
-      "agency": "Northern Lighthouse Board",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-03T17:30:04+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/a93436fa-f579-43bd-9a6b-107041c1da86"
-    },
-    {
-      "award_id": "ocds-b5fd17-0a8014aa-ce8a-4e62-bb8d-e078a8f00629",
-      "recipient": "Skyguard Ltd T/A Peoplesafe",
-      "amount": 237168,
-      "currency": "GBP",
-      "description": "CST304 Provision of Lone Worker Devices",
-      "agency": "Derbyshire County Council",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-03T15:16:49+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/361e81e6-0851-4d0a-80c7-9d438ba12348"
-    },
-    {
-      "award_id": "ocds-b5fd17-633b1ca8-60e3-47cd-9e49-d358729c51ed",
-      "recipient": "Gatenby Sanderson",
-      "amount": 28520,
-      "currency": "GBP",
-      "description": "1 Star Role MPP PD Clyde Nuclear Recruitment",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-03T14:21:47+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/9b046222-5260-402b-ae88-3cf37c6d5811"
-    },
-    {
-      "award_id": "ocds-b5fd17-85bbc38c-d89d-41a0-909f-93c192458d55",
-      "recipient": "British Telecommunications Public Limited Company t/a BT PLC",
-      "amount": 160035.68,
-      "currency": "GBP",
-      "description": "Cisco Firepower Threat Defence Licences",
-      "agency": "Sellafield Ltd",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-03T12:04:43+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/e27d98fb-6c1e-4975-8745-d2c6145166a5"
-    },
-    {
-      "award_id": "ocds-b5fd17-0f92de51-0baf-49ac-aad4-4b434c47793c",
-      "recipient": "CAPGEMINI UK PLC",
-      "amount": 99500,
-      "currency": "GBP",
-      "description": "715872494 - RM1557.14 - PPA SOW002 W2 - Inventory Management - Workstream 2",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-02T23:23:29+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/881a0d7b-9fc8-4fbd-aa5b-8028fe54eefa"
-    },
-    {
-      "award_id": "ocds-b5fd17-c2f79c24-c3b5-43c2-a039-8b8099178c3f",
-      "recipient": "CAPGEMINI UK PLC",
-      "amount": 99500,
-      "currency": "GBP",
-      "description": "715872492 - RM1557.14 - PPA SOW002 W1 - Project Management - Workstream 1",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-02T22:18:59+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/256f8157-57aa-4a68-baa2-41b078d31231"
-    },
-    {
-      "award_id": "ocds-b5fd17-22299cfd-9f11-45f0-9caf-696a3be97ecb",
-      "recipient": "Ludlum Systems Ltd",
-      "amount": 1219112.37,
-      "currency": "GBP",
-      "description": "DNA Boilers - Purchase of Waste Monitoring Equipment",
-      "agency": "NRS",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-02T16:36:32+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/537ec667-dcfb-4c4f-b80a-e071ac19a2f4"
-    },
-    {
-      "award_id": "ocds-b5fd17-0b30a453-7214-4a88-b39b-90ee74c9a74e",
-      "recipient": "Cadmidium Services Limited",
-      "amount": 799620,
-      "currency": "GBP",
-      "description": "DIO Cyber Security Services",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-02T15:40:32+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/0a124735-9bf5-42c7-ab26-73cf6197fc0a"
-    },
     {
       "award_id": "W912DQ25F3038",
       "recipient": "ENERGYSOLUTIONS, LLC",
