@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-12T13:57:23.509449Z",
+    "updated_at": "2026-07-12T19:32:20.865012Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -131,20 +131,6 @@
       ]
     },
     {
-      "id": "6280a19262a8",
-      "title": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5OLWFoOEhka2xvcklINFRDX0dVTlE3YVJSUEZRblppVEJ6R19EZ0ZoZnV5S0IyR2QtYW43VHZsb0xLeFdDXzVfUmcyR3BYYkxkeUJUZ1VUZGlEVF9uWG1meE03cmpEZC1YQzhTRERVNUZxeGtGN3lRWkpWZXlwSy1iY1ZrVEl1MF9NT05HT3F4UVZGcmJ2UENhNGs2NzFXcmt1OW5lVUotOVh1?oc=5",
-      "source": "SpaceNews",
-      "published": "2026-07-09T14:30:56Z",
-      "category": "space",
-      "region": "Global",
-      "score": 72,
-      "tags": [
-        "Space"
-      ]
-    },
-    {
       "id": "825a65235643",
       "title": "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -173,17 +159,17 @@
       ]
     },
     {
-      "id": "88a81a25acb9",
-      "title": "L3Harris Technologies Stock (LHX) Opinions on Missile Defense Contract Win",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3poNWo4Y0EtX3pXSnpLVzcyXzhhSWUybXpKdlJBZ0pkcFh0aTJtcWtXeGxEWURXSU5UMHBwSXJjNVJvTTIweWs4N21oVVBaVVgxSFQ4bnlNek5WclhEbmJsalh2VUEtcS1MaGZVQk9wYWZMMzRJcUpxQURTQlNZZTBRa1A0OUkySF9jZG9NQzBWTjZ5N2s0T3A4WnZLZFhMWmsxbktvazdTYW5CbW8xUQ?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-07-10T17:37:00Z",
-      "category": "companies",
-      "region": "North America",
+      "id": "6280a19262a8",
+      "title": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5OLWFoOEhka2xvcklINFRDX0dVTlE3YVJSUEZRblppVEJ6R19EZ0ZoZnV5S0IyR2QtYW43VHZsb0xLeFdDXzVfUmcyR3BYYkxkeUJUZ1VUZGlEVF9uWG1meE03cmpEZC1YQzhTRERVNUZxeGtGN3lRWkpWZXlwSy1iY1ZrVEl1MF9NT05HT3F4UVZGcmJ2UENhNGs2NzFXcmt1OW5lVUotOVh1?oc=5",
+      "source": "SpaceNews",
+      "published": "2026-07-09T14:30:56Z",
+      "category": "space",
+      "region": "Global",
       "score": 71,
       "tags": [
-        "L3Harris"
+        "Space"
       ]
     },
     {
@@ -201,6 +187,20 @@
       ]
     },
     {
+      "id": "88a81a25acb9",
+      "title": "L3Harris Technologies Stock (LHX) Opinions on Missile Defense Contract Win",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3poNWo4Y0EtX3pXSnpLVzcyXzhhSWUybXpKdlJBZ0pkcFh0aTJtcWtXeGxEWURXSU5UMHBwSXJjNVJvTTIweWs4N21oVVBaVVgxSFQ4bnlNek5WclhEbmJsalh2VUEtcS1MaGZVQk9wYWZMMzRJcUpxQURTQlNZZTBRa1A0OUkySF9jZG9NQzBWTjZ5N2s0T3A4WnZLZFhMWmsxbktvazdTYW5CbW8xUQ?oc=5",
+      "source": "Quiver Quantitative",
+      "published": "2026-07-10T17:37:00Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 70,
+      "tags": [
+        "L3Harris"
+      ]
+    },
+    {
       "id": "2e1664890225",
       "title": "Lockheed Martin wins U.S. Department of War contract to develop 500 kW laser weapon system for cruise missile and drone defense",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -209,7 +209,7 @@
       "published": "2026-07-09T15:51:06Z",
       "category": "companies",
       "region": "North America",
-      "score": 70,
+      "score": 69,
       "tags": [
         "Lockheed Martin"
       ]
@@ -223,9 +223,23 @@
       "published": "2026-07-09T11:00:00Z",
       "category": "technology",
       "region": "North America",
-      "score": 70,
+      "score": 69,
       "tags": [
         "Lockheed Martin"
+      ]
+    },
+    {
+      "id": "5b4d55d8788f",
+      "title": "L3Harris Wins Potential $500M Missile Defense Agency Contract",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2hSR3RDdl8wMUhzbDhMVTFVNkF5NEppY1dlU01IVm9TRW1TSENnaTlteXBqOUdIa3BaUU1Gc1dfMDcweUlLQlpwdE1mYzB5WnYyNWJFMHVNbnlDOGFOSVQ0OHdRYkhsQTZQMG4yLWxLQ3hUb2F0LVdxSjctYmRscV9STXNBVkF5cWRVWmFfei1HOTdlMTQ1WmwzSkhIMDRKWjRqZU9B?oc=5",
+      "source": "Clearance Jobs",
+      "published": "2026-07-07T12:03:47Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 68,
+      "tags": [
+        "L3Harris"
       ]
     },
     {
@@ -266,23 +280,9 @@
       "published": "2026-07-12T00:47:53Z",
       "category": "companies",
       "region": "Europe",
-      "score": 67,
-      "tags": [
-        "QinetiQ"
-      ]
-    },
-    {
-      "id": "8ddcaa0c06a1",
-      "title": "RTX (RTX) Expands European Missile Production With NATO And Diehl Defence",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVllnajZtUEZURDI3aUpOTXJXb3RyQ1A0OFpnV1hjRDE5R3otVFpYUFU2U1VjczJoRHlLTzlYUGI5cUVJaTIxS081VjRwWEdxT1lXS3BMWEhfcXFPaVp6ekM1T2dUSy1jT3h5dWw3dGdVYkNLemlWazIwSU1BWUtIRWc4bXQzMVlUaWZxTUVqaHdBbFUtWmhwYWdsZkthdw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-09T15:08:51Z",
-      "category": "companies",
-      "region": "North America",
       "score": 66,
       "tags": [
-        "RTX"
+        "QinetiQ"
       ]
     },
     {
@@ -328,17 +328,17 @@
       ]
     },
     {
-      "id": "66d1608cf616",
-      "title": "Northrop Grumman focuses on defense technology as investors watch long-term contracts",
+      "id": "8ddcaa0c06a1",
+      "title": "RTX (RTX) Expands European Missile Production With NATO And Diehl Defence",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHZBQzdta01uYVBGam1uQUJFN2JiaDN6Vms5WTNzQmRJTDJTYXAzbElOa1NFOHJOZ21qbk9CblZDVUR5M2pyaFhhMWlIR2gwWjNZNHAtX3hrcXRtV25wWlFSQ0o5Y0JqYjhudnRKcXprTkowNk1VSjEtUV9hdzc4cGd0S1VPZ2s2NjNSaU14MWhwbngyMldncUdZekJTeGRacHV5d0toRUh6aHdhcllGQW5JRlQyMG03Q0s0ekpLSkNYUQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-07-09T11:11:16Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVllnajZtUEZURDI3aUpOTXJXb3RyQ1A0OFpnV1hjRDE5R3otVFpYUFU2U1VjczJoRHlLTzlYUGI5cUVJaTIxS081VjRwWEdxT1lXS3BMWEhfcXFPaVp6ekM1T2dUSy1jT3h5dWw3dGdVYkNLemlWazIwSU1BWUtIRWc4bXQzMVlUaWZxTUVqaHdBbFUtWmhwYWdsZkthdw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-09T15:08:51Z",
       "category": "companies",
       "region": "North America",
       "score": 65,
       "tags": [
-        "Northrop Grumman"
+        "RTX"
       ]
     },
     {
@@ -356,27 +356,13 @@
       ]
     },
     {
-      "id": "05d5e106468c",
-      "title": "Beyond SpaceX: First Trust Launches FSPC Space Economy ETF Focused on AI, Satellites, Launch Leaders",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVV2UktQaUd5MkRjWEN3RUN6SVQ4OG9qeGlVcmtYbzNVYW9VTzFub0lzV3BUVmxpd2pSMEVleTRTZnJlLVhlN01DdGxDbVlKU2RCNnNZZ3Z6cGQ3eXBoTzVfS3ZUcWFUVXhOT2FSQ3lmTmRHUmYwUUdubTRyNS1XQ3ZyRTVhcUgxNXRzUklqczg3V29vRzgyV0s5ZFV2aFFQdkpGVkpqSjVaeF9kVlVfMld1WFYxVVRyT19RZmRnNU9ORWRSWkprODJCUXc5YW1TWlZ6OVUxdGtIQ2NoTlF4NmV1ZnROdw?oc=5",
-      "source": "Benzinga",
-      "published": "2026-07-10T18:36:51Z",
-      "category": "space",
-      "region": "North America",
-      "score": 64,
-      "tags": [
-        "SpaceX"
-      ]
-    },
-    {
-      "id": "df08cf8726e2",
-      "title": "Northrop Grumman outlines long-term defense growth prospects. Focus on advanced aerospace and missio",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZldianUxcW51SDZUaVhTTEt3TEtrRWQyX3JOeWNpU3ZLZXY4eFlrQmZ2Z1FjQWNtZGFCc245alF0Vi1rX0JvQ1dZY3RSTmZ6VVdHdzhxcmJnY1FaMVZTeXVKc0djNzVILWtLbmNFdmRyQzRVWnpDZHhKTXdyRzFoR2ZRcDNLbU5rRDFtSzYwckpPN20tRkNrQUktRTI3N0Y4Q0E3YTY1YW5OTEw5eHlRMldhSmpZTmptWXIzZUhCUnhOZTF4RHBJ?oc=5",
+      "id": "66d1608cf616",
+      "title": "Northrop Grumman focuses on defense technology as investors watch long-term contracts",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHZBQzdta01uYVBGam1uQUJFN2JiaDN6Vms5WTNzQmRJTDJTYXAzbElOa1NFOHJOZ21qbk9CblZDVUR5M2pyaFhhMWlIR2gwWjNZNHAtX3hrcXRtV25wWlFSQ0o5Y0JqYjhudnRKcXprTkowNk1VSjEtUV9hdzc4cGd0S1VPZ2s2NjNSaU14MWhwbngyMldncUdZekJTeGRacHV5d0toRUh6aHdhcllGQW5JRlQyMG03Q0s0ekpLSkNYUQ?oc=5",
       "source": "ad-hoc-news.de",
-      "published": "2026-07-08T06:46:02Z",
-      "category": "cyber",
+      "published": "2026-07-09T11:11:16Z",
+      "category": "companies",
       "region": "North America",
       "score": 64,
       "tags": [
@@ -426,6 +412,20 @@
       ]
     },
     {
+      "id": "05d5e106468c",
+      "title": "Beyond SpaceX: First Trust Launches FSPC Space Economy ETF Focused on AI, Satellites, Launch Leaders",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVV2UktQaUd5MkRjWEN3RUN6SVQ4OG9qeGlVcmtYbzNVYW9VTzFub0lzV3BUVmxpd2pSMEVleTRTZnJlLVhlN01DdGxDbVlKU2RCNnNZZ3Z6cGQ3eXBoTzVfS3ZUcWFUVXhOT2FSQ3lmTmRHUmYwUUdubTRyNS1XQ3ZyRTVhcUgxNXRzUklqczg3V29vRzgyV0s5ZFV2aFFQdkpGVkpqSjVaeF9kVlVfMld1WFYxVVRyT19RZmRnNU9ORWRSWkprODJCUXc5YW1TWlZ6OVUxdGtIQ2NoTlF4NmV1ZnROdw?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-10T18:36:51Z",
+      "category": "space",
+      "region": "North America",
+      "score": 63,
+      "tags": [
+        "SpaceX"
+      ]
+    },
+    {
       "id": "cb540a521307",
       "title": "Rheinmetall, MBDA to develop laser weapon for German Navy",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -441,6 +441,20 @@
       ]
     },
     {
+      "id": "df08cf8726e2",
+      "title": "Northrop Grumman outlines long-term defense growth prospects. Focus on advanced aerospace and missio",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZldianUxcW51SDZUaVhTTEt3TEtrRWQyX3JOeWNpU3ZLZXY4eFlrQmZ2Z1FjQWNtZGFCc245alF0Vi1rX0JvQ1dZY3RSTmZ6VVdHdzhxcmJnY1FaMVZTeXVKc0djNzVILWtLbmNFdmRyQzRVWnpDZHhKTXdyRzFoR2ZRcDNLbU5rRDFtSzYwckpPN20tRkNrQUktRTI3N0Y4Q0E3YTY1YW5OTEw5eHlRMldhSmpZTmptWXIzZUhCUnhOZTF4RHBJ?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-07-08T06:46:02Z",
+      "category": "cyber",
+      "region": "North America",
+      "score": 63,
+      "tags": [
+        "Northrop Grumman"
+      ]
+    },
+    {
       "id": "45cfda79bc7f",
       "title": "Trump Signals Turkey’s F-35 Return, Shaking NATO Power Balance Over Russia’s S-400 Missile System",
       "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
@@ -452,34 +466,6 @@
       "score": 63,
       "tags": [
         "Lockheed Martin"
-      ]
-    },
-    {
-      "id": "9e520ff8690d",
-      "title": "Polish defense giant PGZ to produce Anduril’s Barracuda cruise missile",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDBMRkJmbGZSQUlMY0VydkVOWkZlVm5ocWlaRUZxcFNWUjA5UzZvZi1kQWdnQVRLbmRZZ1JfRGdvSXNmZkI3N2lDa0locXpTWDR0NXpmajVHMmFxQTZCWWxqcDNNdm54V0lvOTlnYUdESEpWUHF1NDJ4SlhtdnctSEoyVlVwR2gyU3hYQWhHNmxmZmdpTHp5c0tHSTdWMDRibzktUnE1Y0FiWFV3SnAyMWxhQ2Vua1paUXZDSTlXQjk?oc=5",
-      "source": "Defense News",
-      "published": "2026-07-07T10:33:42Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 63,
-      "tags": [
-        "Anduril"
-      ]
-    },
-    {
-      "id": "f7a1f8dba1fc",
-      "title": "General Atomics wins contract for Army’s ERAP program, joining two other vendors",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnVlWlYyNnIzZFNYc3JQTjBDSFJqQklfbzZTaGZ6QV9lYUlJdTBubkxKUTcwck9RVi11MUhHN0pMa2VWVkdsSDFMcnROd2ctOTBLV1czWHBPTEtOOEpnR3JBM0NlOW9VT1o0dkxSVFpGOFhWU3lfWU1kQWtHWE5ldDJ3ZmNZeXRwWHlyMEVKSENFVGtCeFFEeGc3UjQwSFJQalBqUWthTF93M1JmbV9kcjJwTHNBdw?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-06-15T07:00:00Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 63,
-      "tags": [
-        "Companies"
       ]
     },
     {
@@ -563,7 +549,7 @@
       "published": "2026-07-09T14:51:56Z",
       "category": "policy",
       "region": "Asia-Pacific",
-      "score": 60,
+      "score": 59,
       "tags": [
         "Hanwha Aerospace"
       ]
@@ -577,37 +563,9 @@
       "published": "2026-07-08T08:24:43Z",
       "category": "companies",
       "region": "Europe",
-      "score": 60,
+      "score": 59,
       "tags": [
         "Thales"
-      ]
-    },
-    {
-      "id": "6b2f9fb68efb",
-      "title": "NATO Drops Aging Fleet for Saab GlobalEye in Landmark Defense Deal",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTJaNUREQ0RDdFlPTXJMVTVRYnc4aGVFYWtTSDhCcXM2X3pLM3JjaG9oZV9NdWFLVlVQandUQ3pwcWwwaDAzWG4xY2dmS3lNNzhPZGtQUUlRTkdYa0lFMkFfWVM5NEdvUi1rT1UzcXREcWVlMGRiOU1JTnBrWUN3WGFuX3Jxb3M4WGd6ODU4NW40b2dEcUxZQm5mOE8wR2N0LWc?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "published": "2026-07-08T08:55:38Z",
-      "category": "policy",
-      "region": "Europe",
-      "score": 59,
-      "tags": [
-        "Saab"
-      ]
-    },
-    {
-      "id": "80f4e49c6f9e",
-      "title": "NATO Selects Saab’s GlobalEye to Replace Its Ageing E-3 AWACS Fleet",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWVhRTZfR3BfQzlzUHB6MVgwcHBsSDQ3VnBpb1NTU3hhazdpZ3g4QmRGWkRrMlpzMjBmS0hEc1BZT2dlb3N5QXlXUkpDQVE1cHRxQTlYQlY2MHlySGQ2Q25Ydy1xSmV3MmhEdDZlZVFUU1kzX0JJOWVVWlBzVUViTktnTXdwOHNxRlV4dVdBRXdKN0NKY2xzNjdPeWZRZV9haURneEN6NE03ZEk?oc=5",
-      "source": "quwa.org",
-      "published": "2026-07-08T08:00:00Z",
-      "category": "policy",
-      "region": "Europe",
-      "score": 59,
-      "tags": [
-        "Saab"
       ]
     },
     {
@@ -622,20 +580,6 @@
       "score": 59,
       "tags": [
         "Saab"
-      ]
-    },
-    {
-      "id": "7295cb30b755",
-      "title": "Thales S.A. focuses on defense, digital security and transport systems as global demand shapes its o",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkxBUzRWNENNN0pSY0JCSXRxX2ZsMWZXWmZyMUg3aHYya21WRDhkcElxSVhWbFpCcDFfVDc4LUxkbmIyNjRuV1NLNFpSSjVLNzcwdndfU196RzdQYzV2Mm4wUXhuYm4zVmdKcy1kRUgza0RnbXVNajBUc1BhSXpaRTZzU1FkaWJnay1Fd1VleGF6M2JOMXRReHhnT0Qtc3RvVC1ESmY3UnpIUllybUtHaDVRWWQ0VVJ5Yy1QZVNfQmtTY1JQZ1ZiazB3?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-07-02T14:58:44Z",
-      "category": "cyber",
-      "region": "Europe",
-      "score": 59,
-      "tags": [
-        "Thales"
       ]
     },
     {
@@ -681,6 +625,62 @@
       ]
     },
     {
+      "id": "6b2f9fb68efb",
+      "title": "NATO Drops Aging Fleet for Saab GlobalEye in Landmark Defense Deal",
+      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTJaNUREQ0RDdFlPTXJMVTVRYnc4aGVFYWtTSDhCcXM2X3pLM3JjaG9oZV9NdWFLVlVQandUQ3pwcWwwaDAzWG4xY2dmS3lNNzhPZGtQUUlRTkdYa0lFMkFfWVM5NEdvUi1rT1UzcXREcWVlMGRiOU1JTnBrWUN3WGFuX3Jxb3M4WGd6ODU4NW40b2dEcUxZQm5mOE8wR2N0LWc?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "published": "2026-07-08T08:55:38Z",
+      "category": "policy",
+      "region": "Europe",
+      "score": 58,
+      "tags": [
+        "Saab"
+      ]
+    },
+    {
+      "id": "bbac565b7eb2",
+      "title": "France Orders Saab NLAW Anti-Tank Missiles",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xa3lvOGo5WElEc1JjVGdBY19TeEVQX1hacEZhVjFOV0xJdDdNUEVrbXJiT1JkR0Iwbk9ZUTVVdURCOFN2OHpWcDZIaGhtb0RQRkZiY2tiS3FUWkpDVVY2OUxaNTJUR3V1SHV6c9IBckFVX3lxTFBIaFFZTXg3bWFycUtheUh3ckdNa0R1RXdNeXZpS1VlUjNmWVNqeTFvYWxUa2VPelJsTE9vNWdGQXVKUFREbFFYRlZuekxKcDA1V0RPaHM1eUNjZHlrVTE3c1c3NXV1bURyV1hNN1M1S2k1dw?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-06-17T07:00:00Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 58,
+      "tags": [
+        "Saab"
+      ]
+    },
+    {
+      "id": "0eb6cb674e04",
+      "title": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllTY0NzaG8wYWF0Yzg0eElRNzY1OXUwZGpPODVFLWF2ZGlhaUxlM05mdG90OUFPSHNudm1rX2F0RXRBc19lNWFaaW9WckFJaGJ3WTRVQ0pTb0xKUzFpdXcwWVpDS0FyWU5jQjJHalVJSG5sTzkzb0RaWkliajlrUDNhZHJWa0x3UmpQMDlTenVrZ3BqcFZxVHFsclI2NzhXa0VRb19pMUlxT0xHV20yenJJcnNTSWVSUTJhTGswQQ?oc=5",
+      "source": "Defense News",
+      "published": "2026-07-06T15:19:55Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 57,
+      "tags": [
+        "Thales"
+      ]
+    },
+    {
+      "id": "87927b1b78ca",
+      "title": "Ukraine Locks $2.5B Gripen E Deal: First AESA Radar Fighter as NATO Summit Looms",
+      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEJONEwyVEthdlZzcDRaRlU0dnIwcG5KdjUtU19SRVZSRlB2MFpkNExBRkF5R1BVV0Y4ODlUMGdhaFlNN0tZdl9kb3U3Uy0taUVqN3ZvSHZWNERNcm5uYUhWQXZlblNWTGhhdlRXdTk0Z2RmVHc0OGFNWFpobTJlVmlqWERmUUd0ODFGZ2J2UXdvTlFJZE1KUDhkOTBYb0JMQVh6UjlSTUtvSjN6Mzl0ODJwNHljMXRwU1ZnMXBaVHVtMGUzRk45dA?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-04T14:51:54Z",
+      "category": "policy",
+      "region": "Europe",
+      "score": 55,
+      "tags": [
+        "Saab"
+      ]
+    },
+    {
       "id": "b3224affaaca",
       "title": "UAE defense firm EDGE Group wants to turn homegrown military tech into a global business",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -692,20 +692,6 @@
       "score": 54,
       "tags": [
         "EDGE Group"
-      ]
-    },
-    {
-      "id": "b3447ab4cd49",
-      "title": "Elbit Systems Shares Dip 1.19% as Defense Sector Faces Profit Taking — Key Support at $714 in Focus",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2lPZUkzQ21POHNRamZJdFpUaTVPN055RGpYLXVxU0hSSHpTaWRqTHdmWDU1dVVfWG1rZk9pZldxOWJDdWxpUDlTZVhqaFpFLTgyMEd0X25waTJ3T1lZckNuSlA0NnluTGZZVUNCZVROVlc5MmVsa2FyQWNLSm5VVlFEdmxDZFZwOHJGMWZ0cGdRWWljZXZOdkNuYnJJdGRhdC1TeXRCWFltRXZwSGtScmpMcHp6RTAxV1U3SEhnMnRfb2JqMWxsa0hHcUdCS0dGX3ZXU3FR?oc=5",
-      "source": "dars.gov.et",
-      "published": "2026-07-10T20:43:24Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 54,
-      "tags": [
-        "Elbit Systems"
       ]
     },
     {
@@ -737,6 +723,34 @@
       ]
     },
     {
+      "id": "b3447ab4cd49",
+      "title": "Elbit Systems Shares Dip 1.19% as Defense Sector Faces Profit Taking — Key Support at $714 in Focus",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2lPZUkzQ21POHNRamZJdFpUaTVPN055RGpYLXVxU0hSSHpTaWRqTHdmWDU1dVVfWG1rZk9pZldxOWJDdWxpUDlTZVhqaFpFLTgyMEd0X25waTJ3T1lZckNuSlA0NnluTGZZVUNCZVROVlc5MmVsa2FyQWNLSm5VVlFEdmxDZFZwOHJGMWZ0cGdRWWljZXZOdkNuYnJJdGRhdC1TeXRCWFltRXZwSGtScmpMcHp6RTAxV1U3SEhnMnRfb2JqMWxsa0hHcUdCS0dGX3ZXU3FR?oc=5",
+      "source": "dars.gov.et",
+      "published": "2026-07-10T20:43:24Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 53,
+      "tags": [
+        "Elbit Systems"
+      ]
+    },
+    {
+      "id": "d37ee1a35f39",
+      "title": "Packers Training Camp Primer 2026: Focus on the Defense!",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHFMVEdtaDVfZ1ZpZ0llVjB0R0V1Ml9KZFU5VHJRNmM4YUU5T1FuWk1YbjQ1aWhzSC1uV1VxMG02YVhEVV83WGtBaUZhV1JCempPeWt3dmlWMmhxZ2hHaVRyVTVQYUFkRzRoeHgzb0ZRQkhpZUhOOFV4ZVJPZjVvdzNQbHM5UzNqTl9lRWZWLURPckV5?oc=5",
+      "source": "Packers Talk",
+      "published": "2026-07-12T12:00:00Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 52,
+      "tags": [
+        "Companies"
+      ]
+    },
+    {
       "id": "fcc1741bd3f3",
       "title": "General Dynamics Corp highlights defense and Gulfstream growth. Investors watch the diversified busi",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -745,23 +759,9 @@
       "published": "2026-07-09T12:23:52Z",
       "category": "companies",
       "region": "North America",
-      "score": 53,
-      "tags": [
-        "General Dynamics"
-      ]
-    },
-    {
-      "id": "2878360f21bc",
-      "title": "Packers Training Camp Primer 2026: Focus on the Defense!",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVV3VTFjYjBrOWFmSDdNWWRiZGt3czhaMW9lYmpoTG1MTzJPMGpPMzg5ckEwT0lHaEl5eFFVSFJJM3hMTHNHclhrVDRGcEVTcTZ6TDFuZUtnVUNJWXE3VFlTb3llWjZrSklxXzI4d3BZLWo3bUNHVkVwMlRIeUl4ek91SzB6dFdlR09ZcTlGZ0FGbDZZcGRGWUFSVGpvUHJ6b3RtQ19oa1FndkVFcmFxVjhn?oc=5",
-      "source": "Yardbarker",
-      "published": "2026-07-12T13:06:45Z",
-      "category": "companies",
-      "region": "Middle East",
       "score": 52,
       "tags": [
-        "Companies"
+        "General Dynamics"
       ]
     },
     {
@@ -779,34 +779,6 @@
       ]
     },
     {
-      "id": "1c12c82ac616",
-      "title": "Hanwha Aerospace to Participate in NATO Defense Industry Forum",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUxBYzZTb3E1ZU9FLXphQ3lfRkFCX0ZjdlZIRWN0ZG40c284REtDQ2M4UTBKX1Y5MEgwVWZtUXAxbXhtNVNCUGhld3ZqcE4wSWVWV2RjRFloZmMtU1ZmdjhRcUFpYkh0UmE3WmpBWW84RXIybUxJZlIxck1ILXBtN2pWVQ?oc=5",
-      "source": "starnewskorea.com",
-      "published": "2026-07-08T06:19:35Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 52,
-      "tags": [
-        "Hanwha Aerospace"
-      ]
-    },
-    {
-      "id": "4ed970d029fa",
-      "title": "Hanwha Aerospace touts Europe expansion at NATO forum",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Z3VtWDNUbno5R0cyOC0zWGJRUWZoSWMwbXFSUGlnNURyVXNRZVUwMVRjeUlGN1JpTTNNSTAxb1RiY3pheUtHa0pMcmIzdGppZUhJTzJMOA?oc=5",
-      "source": "The Korea Herald",
-      "published": "2026-07-08T05:31:12Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 52,
-      "tags": [
-        "Hanwha Aerospace"
-      ]
-    },
-    {
       "id": "fde3980b6ae8",
       "title": "Edge Launches Small Turbojet Engine Production Through Powertech",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -816,20 +788,6 @@
       "category": "companies",
       "region": "Middle East",
       "score": 52,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
-      "id": "b991cc9af44f",
-      "title": "Patriots' $31M Pitch FORCES NY Giants Into Edge Room PIVOT | New York Giants News Marito (wpRMeK9INs)",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJMHZqQnRoTEZicDVLTkpkd0JfRmxFWVpiQ3dac0dCcTR1MDFTMTdVQVNzYTEtR29kVHZLNEdPaDdYTjVKODZCd3VjWVRQTFphdXhCWXRfRU5GQQ?oc=5",
-      "source": "Mshale",
-      "published": "2026-07-11T15:40:28Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 51,
       "tags": [
         "Companies"
       ]
@@ -860,6 +818,34 @@
       "score": 51,
       "tags": [
         "Companies"
+      ]
+    },
+    {
+      "id": "1c12c82ac616",
+      "title": "Hanwha Aerospace to Participate in NATO Defense Industry Forum",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUxBYzZTb3E1ZU9FLXphQ3lfRkFCX0ZjdlZIRWN0ZG40c284REtDQ2M4UTBKX1Y5MEgwVWZtUXAxbXhtNVNCUGhld3ZqcE4wSWVWV2RjRFloZmMtU1ZmdjhRcUFpYkh0UmE3WmpBWW84RXIybUxJZlIxck1ILXBtN2pWVQ?oc=5",
+      "source": "starnewskorea.com",
+      "published": "2026-07-08T06:19:35Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 51,
+      "tags": [
+        "Hanwha Aerospace"
+      ]
+    },
+    {
+      "id": "4ed970d029fa",
+      "title": "Hanwha Aerospace touts Europe expansion at NATO forum",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Z3VtWDNUbno5R0cyOC0zWGJRUWZoSWMwbXFSUGlnNURyVXNRZVUwMVRjeUlGN1JpTTNNSTAxb1RiY3pheUtHa0pMcmIzdGppZUhJTzJMOA?oc=5",
+      "source": "The Korea Herald",
+      "published": "2026-07-08T05:31:12Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 51,
+      "tags": [
+        "Hanwha Aerospace"
       ]
     },
     {
@@ -905,20 +891,6 @@
       ]
     },
     {
-      "id": "f96fdb3582f0",
-      "title": "Terra Drone Signs MoU with IGG, Part of UAE Defence Prime EDGE Group, to Begin Collaboration in Defence Applications Including Interceptor Drones for Counter-UAS Integration – Terra Drone",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWUXFmMXdNY3FSQUppSlIyODdMUDFfY01NMU5aMUZKeWlWSld0ZGJDc0JBYXVEY2phSmQ1NlpfaEFtYWlXM3YzTnpyU3M3RlVxTmdfWl9pX1E?oc=5",
-      "source": "Terra Drone株式会社",
-      "published": "2026-07-06T23:18:50Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 51,
-      "tags": [
-        "EDGE Group"
-      ]
-    },
-    {
       "id": "9024c2ad4541",
       "title": "Israel sells Spyder air defense systems to Romania for $2.3 billion",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -947,6 +919,34 @@
       ]
     },
     {
+      "id": "f396d2755bdb",
+      "title": "The sights of Eurosatory 2026, from the show floor",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHk4Y2RFN1ZXTmlFUXhGM2NYMFhjVFRIZy1pWkdHZzVKRTNrZlgxVXFpTlNNb3lFN3d6NENiVE4xUTA4Q242TG11WTAwaERNa3ZkMWtUb3lUX0tMcUx4ekp0Q0EtVUoteDRpMG4tcjhod2VCOVZUM1VwQ2pITU9nZkZkOV9MaC1nOFU1UjBJUQ?oc=5",
+      "source": "Breaking Defense",
+      "published": "2026-06-18T07:00:00Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 51,
+      "tags": [
+        "Companies"
+      ]
+    },
+    {
+      "id": "f96fdb3582f0",
+      "title": "Terra Drone Signs MoU with IGG, Part of UAE Defence Prime EDGE Group, to Begin Collaboration in Defence Applications Including Interceptor Drones for Counter-UAS Integration – Terra Drone",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWUXFmMXdNY3FSQUppSlIyODdMUDFfY01NMU5aMUZKeWlWSld0ZGJDc0JBYXVEY2phSmQ1NlpfaEFtYWlXM3YzTnpyU3M3RlVxTmdfWl9pX1E?oc=5",
+      "source": "Terra Drone株式会社",
+      "published": "2026-07-06T23:18:50Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 50,
+      "tags": [
+        "EDGE Group"
+      ]
+    },
+    {
       "id": "64ef4fee7a20",
       "title": "Hanwha debuts homegrown drone engines as Korea eyes indigenous aero technology",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -969,7 +969,7 @@
       "published": "2026-07-04T15:17:42Z",
       "category": "companies",
       "region": "Asia-Pacific",
-      "score": 49,
+      "score": 48,
       "tags": [
         "Hanwha Aerospace"
       ]
@@ -983,21 +983,21 @@
       "published": "2026-07-04T13:10:01Z",
       "category": "companies",
       "region": "Asia-Pacific",
-      "score": 49,
+      "score": 48,
       "tags": [
         "Hindustan Aeronautics"
       ]
     },
     {
-      "id": "8e0f4a4e1e8a",
-      "title": "Leonardo DRS seen as a buy amid strong defense demand and attractive valuation with 13-20% upside.",
+      "id": "a15f3bbb4bf9",
+      "title": "Is Leonardo DRS’ (DRS) Russell Growth Index Exit Reshaping Its Defense-Sector Investment Case?",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWNsS1c4bHZsSUsyME5HYTZBMzhBdWlwbEdYNlRGM2s0ckU5WDlreUFQbnhPT2JKMHVxOFVIU25wQ0dtQkpWYjBwZXdmcFo2UVhmazB3ZVplS3pFTlU5a2ktSTNGUS1tZ0R4bWxBc1dwcW91WXgyb3JLbzdGUjlOb0ZyNDBEVVFBdTFkMWZlb1dpMHptRUowOWVoVXc?oc=5",
-      "source": "Pluang",
-      "published": "2026-07-04T12:04:43Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3JaVmNCeU5nb1Zwc3dIX1VxS0xWS3BVaTRIOGN6OTJKWTNMQnltSjR5ZlBjdWRhSmZDNGRzNUpvemE5cXBWbHp3RzZmU0tvb1hSd2V6ZWJ3R0lURS1SUzlQTGR4bHBsc0YyWE5yd2xsR1QwVU9YejVuOU9MXzRVVUwyR0owSXBLSVQxX2ZuUzhQbG5hY016d0xFc0VKQnZ1T09lTk9McUo4RFJqV0RPcFd2VmtqRUZvQkdBdURFMXZDcG9OUmFlZVhPSVBtdWPSAdQBQVVfeXFMTkRia2xXZnB1amFNalBsT29JOTN4M2h2VERfZEttVEhieGh0WHpQQmJsTVdZLThsNUFicEZuMXNERFJMaERXTlRnN2otb3VETkFaQnVsM3RybjEyM21vRzQ4NElKS1lrOW9raGt3WlBBZHo1RmdHWVFQazBPWDhHS2lPRmlWWXdSMUc3UVdpc18zSTJPVXdOc20zRDRMOGJVckNlajVkUVV3U3NwaENjNGs4d2lKVXdJanAxTHIxSndQb2Y0ZE4zRzBweVl5cjhraV96djk?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-07-02T10:52:49Z",
       "category": "companies",
       "region": "Europe",
-      "score": 49,
+      "score": 48,
       "tags": [
         "Leonardo"
       ]
@@ -1043,18 +1043,6 @@
       "record_source": "Contracts Finder",
       "date": "2026-07-10T16:12:28+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/33179609-785c-4d94-8c80-fa8477535c94"
-    },
-    {
-      "award_id": "ocds-b5fd17-2b5ddc8a-5256-43dc-8af1-25e7304f9511",
-      "recipient": "BRITISH TELECOMMUNICATIONS LIMITED",
-      "amount": 78607.68,
-      "currency": "GBP",
-      "description": "Cisco Threat Defence Subscription",
-      "agency": "London Ambulance Service",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-10T10:49:45+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/892cb5b1-c4c2-45fe-b7eb-8810e7b2f4c5"
     },
     {
       "award_id": "ocds-b5fd17-e4f3ebad-5cb2-4a57-b659-9f9d06dfa78c",
@@ -1115,6 +1103,18 @@
       "record_source": "Contracts Finder",
       "date": "2026-07-08T08:25:49+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/71fa6a3c-c478-44e4-982a-c95ed9f80acc"
+    },
+    {
+      "award_id": "ocds-b5fd17-8f0cebab-9aa4-4af6-957c-733a87e96891",
+      "recipient": "Airbus Helicopters UK Limited",
+      "amount": 22000000,
+      "currency": "GBP",
+      "description": "Call Off Contract for the Purchase of Two Rotary Aircraft for Police Purpose",
+      "agency": "BLUELIGHT COMMERCIAL LIMITED",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-07-06T14:37:37+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/49035b2f-4849-4ec8-8fa0-8517d77ec138"
     },
     {
       "award_id": "ocds-b5fd17-beccb249-2881-4917-937a-d7b72e920d8b",
