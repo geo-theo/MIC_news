@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-15T03:36:33.114239Z",
+    "updated_at": "2026-07-15T08:38:37.704648Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -1032,6 +1032,18 @@
   ],
   "contracts": [
     {
+      "award_id": "ocds-b5fd17-f0e800ef-d460-482a-9408-b8d6e35f59ec",
+      "recipient": "Axon Public Safety Uk Limited",
+      "amount": 969000,
+      "currency": "GBP",
+      "description": "Conducted Energy Device Consumables",
+      "agency": "Norfolk & Suffolk Constabulary",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-07-15T09:28:16+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/5a480975-9324-4610-bfc4-d80295bd9de2"
+    },
+    {
       "award_id": "ocds-b5fd17-c8ff131d-b91a-48ff-a957-1fa700c038b5",
       "recipient": "Eversheds Sutherland (International) LLP",
       "amount": 310250,
@@ -1114,18 +1126,6 @@
       "record_source": "Contracts Finder",
       "date": "2026-07-10T16:12:28+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/33179609-785c-4d94-8c80-fa8477535c94"
-    },
-    {
-      "award_id": "ocds-b5fd17-2b5ddc8a-5256-43dc-8af1-25e7304f9511",
-      "recipient": "BRITISH TELECOMMUNICATIONS LIMITED",
-      "amount": 78607.68,
-      "currency": "GBP",
-      "description": "Cisco Threat Defence Subscription",
-      "agency": "London Ambulance Service",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-07-10T10:49:45+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/892cb5b1-c4c2-45fe-b7eb-8810e7b2f4c5"
     },
     {
       "award_id": "N4033926CF501",
