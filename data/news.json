@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-07-21T03:47:05.983377Z",
+    "updated_at": "2026-07-21T08:46:13.805743Z",
     "article_count": 72,
     "contract_count": 12,
     "sources": [
@@ -83,7 +83,7 @@
       "published": "2026-07-19T07:48:00Z",
       "category": "contracts",
       "region": "North America",
-      "score": 77,
+      "score": 76,
       "tags": [
         "RTX"
       ]
@@ -131,20 +131,6 @@
       ]
     },
     {
-      "id": "ecb11bcc3b5f",
-      "title": "Archer, Anduril unveil autonomous aircraft platform for defense, commercial markets",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUp1THdZWmhoVzlGQUNxX3c0emJSTDdZZjFnVktKTThZZk5ZUWhPWmY3WmxyMGZhQzlhaS0zVXE2V3pEa1pqRjFFSG4zSjhDUlpwVm42R2dPTGpnZjgwczhiZmFFekJkVjFWUnJpX1V2R21TQV9WSXZTMHYxa1M1OUQyN3BKMk5vN3dJUl9YTDNFZ1NMTW1USHYwY1FKYmdRVXNSMENoQ1NsZUw0VWxZMHFoY09OLU8zMGUtMWtiOTJVZzhSUGMyQW9pRXFGNVFnTWhTNFdRWQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-20T14:31:10Z",
-      "category": "technology",
-      "region": "North America",
-      "score": 73,
-      "tags": [
-        "Anduril"
-      ]
-    },
-    {
       "id": "933a1a9ebd7a",
       "title": "Pentagon announces more than $500M in new procurements for APFIT program, including software",
       "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
@@ -156,6 +142,20 @@
       "score": 73,
       "tags": [
         "Cyber"
+      ]
+    },
+    {
+      "id": "ecb11bcc3b5f",
+      "title": "Archer, Anduril unveil autonomous aircraft platform for defense, commercial markets",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUp1THdZWmhoVzlGQUNxX3c0emJSTDdZZjFnVktKTThZZk5ZUWhPWmY3WmxyMGZhQzlhaS0zVXE2V3pEa1pqRjFFSG4zSjhDUlpwVm42R2dPTGpnZjgwczhiZmFFekJkVjFWUnJpX1V2R21TQV9WSXZTMHYxa1M1OUQyN3BKMk5vN3dJUl9YTDNFZ1NMTW1USHYwY1FKYmdRVXNSMENoQ1NsZUw0VWxZMHFoY09OLU8zMGUtMWtiOTJVZzhSUGMyQW9pRXFGNVFnTWhTNFdRWQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-20T14:31:10Z",
+      "category": "technology",
+      "region": "North America",
+      "score": 72,
+      "tags": [
+        "Anduril"
       ]
     },
     {
@@ -184,20 +184,6 @@
       "score": 72,
       "tags": [
         "Cyber"
-      ]
-    },
-    {
-      "id": "88e3b248ea9d",
-      "title": "Thunderstruck: Anduril unveils autonomous attack rotorcraft",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm5jZG5rOXlISW1lYm5fS3lPRXNRLWZxWnBOc21GVXk2ZnZGa2ZudDVkQXBLc1FiMDNJMGhocWNNU09iLXpyNExEcENmaURZZ283OFVNWGFEVGh4VC1Da0hCY1NjSXJyOEdxOXlSeGFrQmlZZ0VDMUJaMVVRT1hrS0F3LVNnU0pRdnU3SnFsTmdmTXVpQzdDQ3VfLVlqai0xejdfSVdmRnI0bnR6OUc0ZHFDS1d1QWhi?oc=5",
-      "source": "Defense News",
-      "published": "2026-07-20T14:01:14Z",
-      "category": "technology",
-      "region": "North America",
-      "score": 71,
-      "tags": [
-        "Anduril"
       ]
     },
     {
@@ -243,6 +229,20 @@
       ]
     },
     {
+      "id": "88e3b248ea9d",
+      "title": "Thunderstruck: Anduril unveils autonomous attack rotorcraft",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm5jZG5rOXlISW1lYm5fS3lPRXNRLWZxWnBOc21GVXk2ZnZGa2ZudDVkQXBLc1FiMDNJMGhocWNNU09iLXpyNExEcENmaURZZ283OFVNWGFEVGh4VC1Da0hCY1NjSXJyOEdxOXlSeGFrQmlZZ0VDMUJaMVVRT1hrS0F3LVNnU0pRdnU3SnFsTmdmTXVpQzdDQ3VfLVlqai0xejdfSVdmRnI0bnR6OUc0ZHFDS1d1QWhi?oc=5",
+      "source": "Defense News",
+      "published": "2026-07-20T14:01:14Z",
+      "category": "technology",
+      "region": "North America",
+      "score": 70,
+      "tags": [
+        "Anduril"
+      ]
+    },
+    {
       "id": "1d1ff3beaa7b",
       "title": "AI weapons under scrutiny as activists plan weekend protest at Anduril’s Seattle office",
       "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
@@ -271,8 +271,8 @@
       ]
     },
     {
-      "id": "0b53c7cb8f2c",
-      "title": "Anduril unveils Thunder autonomous tiltrotor with 10-missile payload",
+      "id": "b8580996ab70",
+      "title": "Anduril’s new autonomous tiltrotor takes off vertically, carries 10-missile payload",
       "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1ZYNEt5akxPWHF4MDVGM2tOUkJGQ3VIOUJLT3RNRE1NNFFKUlhzM1V5aUJjeWQzRDRJRVVHS2JKam9KanlQcndBaVRrbHlNcUVKS055Vm1VdVczaDlISWhKcTZvNG93OUQwTVI1b1UxemJoT1dnQ2JFUWNMcVdiQjVjR0c1SUk?oc=5",
       "source": "Interesting Engineering",
@@ -299,21 +299,6 @@
       ]
     },
     {
-      "id": "9c45eb9cd13d",
-      "title": "Trump’s sons invest heavily in defense tech as father’s administration pours money in",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFBydnZHT2k1ejYxNG5ucWUwTVVXb3pEMDYtQjcwc1JMZktvMy1YbU84bE5lSjEweUV1TFNBY3VaTFZ1NGhJMDFQUnFRY1ZGb0NodTg4SW5uNy1ZZkdTQ200bVRaR1B0WVVuUnNJWlFGUnYxd3FUQmNWQVVfQ3lwc2NhMWt1Nkg0VlZRYmt5YW1laEhJX3BUQjBjYzE4X0V0WGlNVks5dGo1N2Rkei1LYTZmdk90ZnJwbzRoYmtmbkZpWjFuOUhacF9XanhwNTFG?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-13T16:00:00Z",
-      "category": "contracts",
-      "region": "North America",
-      "score": 69,
-      "tags": [
-        "Companies",
-        "Contracts"
-      ]
-    },
-    {
       "id": "642a84b653b7",
       "title": "Space Development Agency Launches 21 Data Transport Satellites on SpaceX Rocket",
       "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
@@ -336,7 +321,7 @@
       "published": "2026-07-20T14:44:54Z",
       "category": "companies",
       "region": "North America",
-      "score": 67,
+      "score": 66,
       "tags": [
         "Lockheed Martin"
       ]
@@ -370,6 +355,21 @@
       ]
     },
     {
+      "id": "b958673c2d78",
+      "title": "Lockheed rolls out cheaper Patriot, MBDA showcases low-cost interceptor",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjZlX1RfMFhaTVVlMnYxTEJJbTktdldvNWNyRE5KWE4wUXd0MnpmM0dqYzFHNzQwNFR3SFZuYU1wdnd0aDlJRmN0bUNNc0hfVmpiSERlZ19fRGdhaUlEdmlZMXNxVmgtZUVwTkVydk8zb1Bna3BvX1FKb2ZvWWdqZnplTjl3VkNzZ1NuQmFWQ01uYll3YTNBLVdpaHQ1di1SX2oxS2xlY2VNNkE?oc=5",
+      "source": "Breaking Defense",
+      "published": "2026-07-20T20:46:20Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 65,
+      "tags": [
+        "Lockheed Martin",
+        "MBDA"
+      ]
+    },
+    {
       "id": "76406e4c4b60",
       "title": "QinetiQ stock trades steady as contract pipeline supports outlook",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -381,21 +381,6 @@
       "score": 65,
       "tags": [
         "QinetiQ"
-      ]
-    },
-    {
-      "id": "cfe9af703c3e",
-      "title": "Lockheed Martin, Rheinmetall to jointly produce ATACMS missiles in Germany",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdmFQaWVlM2JZTmNqUjFFc3U4aWZ0N3JKVFNOc2l4RmVZSjAyN1RXdk1yYzNoMTdfRnNkMHVXZlYzTVdTWHpTVnNjdjVyTlBYN0o4QjNQWjFnS2poNWdHS3RhQ1g5QVkzTWN2LUJtN0d0R3FCcjdQbEhKMmZYdVZyc1VIazZEY1NyTjJlcmw2c2lTVnNLVVlZdDk1OExldmlzYTdNRnZ3QUpLM0RvN1U1ZVlmelhzYU1ZNElRd2RWNXlfNmc5X0tSSVdn?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-07T07:00:00Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 64,
-      "tags": [
-        "Lockheed Martin",
-        "Rheinmetall"
       ]
     },
     {
@@ -427,20 +412,6 @@
       ]
     },
     {
-      "id": "558fcc6ed1d1",
-      "title": "Portugal to purchase three frigates from Italy’s Fincantieri: Meloni",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3VnRWlQXy1WNktsckVNLWh6TDVZeTlRT3FIZlQxOXVkYXdVeWFMU0J1eVA3SlhUdVNjcFczZFd3bVVERkdlbC1oOC1aZC1nbE9YaUVNTW9vMUdxdS0xMFEwN3pldlpkY0UxRU05aDlMMVZuMlg2SDlGbm5sc1hQdGFONkkwOERJMXRONFJTTGQ5dGJtckhNMkJKbHJpSko2VWNVLW5R?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-07-20T17:08:17Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 62,
-      "tags": [
-        "Fincantieri"
-      ]
-    },
-    {
       "id": "a76e445354c2",
       "title": "Hanwha Aerospace Selected for Korean Army's Multipurpose Unmanned Ground Vehicle Program",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -455,17 +426,17 @@
       ]
     },
     {
-      "id": "7c130c79e64c",
-      "title": "Saab stock steadies as order backlog and recent earnings underpin defense growth",
+      "id": "558fcc6ed1d1",
+      "title": "Portugal to purchase three frigates from Italy’s Fincantieri: Meloni",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnY4eFAwMUhTLWJnVXlhMGxkb3BiYmFZMWxXRWFLbElBV3FINGVEcHZQR01xRWt2c2dMWjNTejlCMUhSNzdxY1lzOEJDMndzOHhJaTlfOGVQRXlMd2NSMEtPZVJCbDk5Mk5BVEVIVDlaUTdKOUttQ3c1QUJ4WU81a2hvOHhUcUV0V251djAwem9nY0o3MzVZT1NsNktmZmxxSkV4TWNUTW9HTjdncWY1M3htUTAtMFRIdkI3TE9BRlJNUklwNDhHWVpZUHQ?oc=5",
-      "source": "Ad-hoc-news.de",
-      "published": "2026-07-20T16:42:01Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3VnRWlQXy1WNktsckVNLWh6TDVZeTlRT3FIZlQxOXVkYXdVeWFMU0J1eVA3SlhUdVNjcFczZFd3bVVERkdlbC1oOC1aZC1nbE9YaUVNTW9vMUdxdS0xMFEwN3pldlpkY0UxRU05aDlMMVZuMlg2SDlGbm5sc1hQdGFONkkwOERJMXRONFJTTGQ5dGJtckhNMkJKbHJpSko2VWNVLW5R?oc=5",
+      "source": "Breaking Defense",
+      "published": "2026-07-20T17:08:17Z",
       "category": "companies",
       "region": "Europe",
       "score": 61,
       "tags": [
-        "Saab"
+        "Fincantieri"
       ]
     },
     {
@@ -478,6 +449,20 @@
       "category": "companies",
       "region": "Europe",
       "score": 61,
+      "tags": [
+        "Saab"
+      ]
+    },
+    {
+      "id": "7c130c79e64c",
+      "title": "Saab stock steadies as order backlog and recent earnings underpin defense growth",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnY4eFAwMUhTLWJnVXlhMGxkb3BiYmFZMWxXRWFLbElBV3FINGVEcHZQR01xRWt2c2dMWjNTejlCMUhSNzdxY1lzOEJDMndzOHhJaTlfOGVQRXlMd2NSMEtPZVJCbDk5Mk5BVEVIVDlaUTdKOUttQ3c1QUJ4WU81a2hvOHhUcUV0V251djAwem9nY0o3MzVZT1NsNktmZmxxSkV4TWNUTW9HTjdncWY1M3htUTAtMFRIdkI3TE9BRlJNUklwNDhHWVpZUHQ?oc=5",
+      "source": "Ad-hoc-news.de",
+      "published": "2026-07-20T16:42:01Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 60,
       "tags": [
         "Saab"
       ]
@@ -510,6 +495,20 @@
       "score": 59,
       "tags": [
         "MBDA"
+      ]
+    },
+    {
+      "id": "fb589c7edc0f",
+      "title": "Hanwha Philly Shipyard selected to build MDA’s MRIVs",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcGNKR2dyaHRLUUV4b055ZWZoTjlIeklQbldDWDFYMVdlN2Z3aEVqaXZtdjZHVHhuUDRuM3I0OFpGOTJkTWFNRGpucDBQVUtDb2dHckNid1g3dFgyNHdQVjdyNV9UR3drY2lFaWtNdUR3RWFETDc4eVFINnViS0lwMFBybzN6eTlrTjRVcllUdFhQVFdOT0xsc2k2cGQ2S2JGaHFBbHBYLWpFcE1YM1BfUExNb2h1WTgwODJIbU9SVF9QYTFEZzY5WnVGNkRnOUN1X2haaWVxM1p5TkpJZHR5U1UtR2sydnJaRUk3WEx4LUsxdTQ0YkJjNmF1SmQwWWE1LUxyWQ?oc=5",
+      "source": "Hanwha Group",
+      "published": "2026-07-20T07:42:03Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 59,
+      "tags": [
+        "Companies"
       ]
     },
     {
@@ -583,20 +582,6 @@
       ]
     },
     {
-      "id": "bd86dc4a2fc0",
-      "title": "MBDA appoints Airbus executive Jean-Brice Dumont as new CEO",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjR0Z3dOQ3hxZ2RJS0tQU3ZoeFlkN09tamZZbWRRdkZmZkJic1dHM3AwcVViQl9xcjQ0YXdUMUxiTHRBZFNqS3J0RF9pWDNOSHEzRFFoUkljQ29aTzNzVngxYmJ0aDBHTmVRcEtIajJPbmlsQUVhOExKLUZHMGxJNFllN2w1azhKVndJWVhaVmJnelR6RV9aUnJ1QUNZbmRxRXVOaXRXd2Vnc0ljQzhtV3JmQQ?oc=5",
-      "source": "Defense News",
-      "published": "2026-07-15T16:38:38Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 58,
-      "tags": [
-        "MBDA"
-      ]
-    },
-    {
       "id": "35fdbc0cb140",
       "title": "Rheinmetall advances civil mobility, military automation projects in Germany and U.K.",
       "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
@@ -650,6 +635,48 @@
       "score": 58,
       "tags": [
         "Companies"
+      ]
+    },
+    {
+      "id": "bd86dc4a2fc0",
+      "title": "MBDA appoints Airbus executive Jean-Brice Dumont as new CEO",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjR0Z3dOQ3hxZ2RJS0tQU3ZoeFlkN09tamZZbWRRdkZmZkJic1dHM3AwcVViQl9xcjQ0YXdUMUxiTHRBZFNqS3J0RF9pWDNOSHEzRFFoUkljQ29aTzNzVngxYmJ0aDBHTmVRcEtIajJPbmlsQUVhOExKLUZHMGxJNFllN2w1azhKVndJWVhaVmJnelR6RV9aUnJ1QUNZbmRxRXVOaXRXd2Vnc0ljQzhtV3JmQQ?oc=5",
+      "source": "Defense News",
+      "published": "2026-07-15T16:38:38Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 57,
+      "tags": [
+        "MBDA"
+      ]
+    },
+    {
+      "id": "5d8237f3eaff",
+      "title": "MBDA to replace CEO with Airbus executive",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWwxeU1QRFVvZmc0UXBBbHZaZG5PVlgxc2duLUh5dDlHemVOMnlSSlFmWk1ZMFRleDU2ZFktaEhYdWR5R09BV3Ezd2tWVlhwNWpHUGZZVW4wYWNKemlqTG1RODRvX1FacDlKT2ppR2VQT0Z2Uk9pX0QxZGJTcE5WYjJVTVA?oc=5",
+      "source": "Breaking Defense",
+      "published": "2026-07-15T12:36:16Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 57,
+      "tags": [
+        "MBDA"
+      ]
+    },
+    {
+      "id": "8feff1392d78",
+      "title": "Hanwha Aerospace Wins $500 Million Foreign Bond Debut",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LT0ZqSUZjU0xEckVSRm1iSVpZREVqMm50M2ZfRi1MUFNYT0E2ZUdXS2MxWUxkdWd1Sk9Sd3RwZXpGTGpkZEljZm1tbDk5emxKNFBCUkN2OGZybjU0VFZZcG9SdGtfNnJ1UUFBWFZ6Um84c1Rt?oc=5",
+      "source": "Businesskorea",
+      "published": "2026-07-21T04:35:59Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 55,
+      "tags": [
+        "Hanwha Aerospace"
       ]
     },
     {
@@ -728,7 +755,7 @@
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92VXBWMzN0TjdfNnFyd0ZLNDlxeEJuUnZJX1BKRUQ3QmNaVllXMWdTYmpiOUlpTkZQQ1d2UFJvOTY5dzFtWUk1N0ItLTV4OXc2bFBzN3Zha0dyRXVIa2FrUW5ZZ2ZHWVdKeEItUg?oc=5",
       "source": "Ynetnews",
-      "published": "2026-07-20T02:26:03Z",
+      "published": "2026-07-19T16:26:00Z",
       "category": "companies",
       "region": "Middle East",
       "score": 54,
@@ -759,7 +786,7 @@
       "published": "2026-07-13T04:35:16Z",
       "category": "companies",
       "region": "Asia-Pacific",
-      "score": 54,
+      "score": 53,
       "tags": [
         "Bharat Dynamics"
       ]
@@ -807,20 +834,6 @@
       ]
     },
     {
-      "id": "db12611d232e",
-      "title": "Edge Group to acquire Brazilian company",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IUEZ0cEhsMkVUbHE1MTVOcFRVVzBSa0NJUDR2Q1NIOERkeE1VN1VDVTdocHNOT0pKVjlPZk5WME9saVhUUVRTMllHWFZyWlRqSGFXUUtCWGY0S3ZCSG5KZTFlWkhRT2lKYmpzVWUyaFg?oc=5",
-      "source": "Agência de Notícias Brasil-Árabe - ANBA",
-      "published": "2026-07-16T19:16:02Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 52,
-      "tags": [
-        "EDGE Group"
-      ]
-    },
-    {
       "id": "846d5c9aac1d",
       "title": "2026 training camp preview: Defensive line",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -860,6 +873,20 @@
       "score": 51,
       "tags": [
         "Companies"
+      ]
+    },
+    {
+      "id": "db12611d232e",
+      "title": "Edge Group to acquire Brazilian company",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IUEZ0cEhsMkVUbHE1MTVOcFRVVzBSa0NJUDR2Q1NIOERkeE1VN1VDVTdocHNOT0pKVjlPZk5WME9saVhUUVRTMllHWFZyWlRqSGFXUUtCWGY0S3ZCSG5KZTFlWkhRT2lKYmpzVWUyaFg?oc=5",
+      "source": "Agência de Notícias Brasil-Árabe - ANBA",
+      "published": "2026-07-16T19:16:02Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 51,
+      "tags": [
+        "EDGE Group"
       ]
     },
     {
@@ -934,20 +961,6 @@
       ]
     },
     {
-      "id": "1c12c82ac616",
-      "title": "Hanwha Aerospace to Participate in NATO Defense Industry Forum",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUxBYzZTb3E1ZU9FLXphQ3lfRkFCX0ZjdlZIRWN0ZG40c284REtDQ2M4UTBKX1Y5MEgwVWZtUXAxbXhtNVNCUGhld3ZqcE4wSWVWV2RjRFloZmMtU1ZmdjhRcUFpYkh0UmE3WmpBWW84RXIybUxJZlIxck1ILXBtN2pWVQ?oc=5",
-      "source": "starnewskorea.com",
-      "published": "2026-07-08T07:00:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Hanwha Aerospace"
-      ]
-    },
-    {
       "id": "6ad469c4f3dc",
       "title": "Hanwha Aerospace Deepens NATO Defense Cooperation",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -1015,20 +1028,6 @@
       "score": 48,
       "tags": [
         "Rafael"
-      ]
-    },
-    {
-      "id": "0d10a25d37ab",
-      "title": "Hanwha Aerospace earns ‘A-’ issuer credit rating from S&P Global Ratings",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaW1PNHJ1YUFqMnUwaFBQSTl2cnZFaTZPbjdYSnBEVm0zcG55ekNrU2RRZFlVZDNrWmEzazhiU3FHenpTQWg4WnFESTJOaG16WEdTamUxanIzaVR0SEkxQ25Va1pwYjIwTmdTa2NIT2t5MXZjTkpsNkFndml0LTNNWHhCQzZiZ011WFRiTS1GeV9wWDg0aGZ1czJQMWFGR29YZ2tKcVAwaTBSVWRBS3FMMzVQN01pbXRjZUJ2cnc1V1ZvZw?oc=5",
-      "source": "Hanwha Group",
-      "published": "2026-06-22T07:00:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Hanwha Aerospace"
       ]
     }
   ],
