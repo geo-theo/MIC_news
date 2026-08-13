@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-13T02:48:35.814579Z",
+    "updated_at": "2026-08-13T07:56:30.544278Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -1047,6 +1047,30 @@
   ],
   "contracts": [
     {
+      "award_id": "ocds-b5fd17-e7451aa6-1988-4b2e-bd8f-fcb08e1f72fe",
+      "recipient": "SOFTCAT LTD - FCA",
+      "amount": 371760,
+      "currency": "GBP",
+      "description": "CCDI consultancy support",
+      "agency": "FCA",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-08-13T07:36:57+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/c79c9300-67f0-4c55-8640-9c0c91c95867"
+    },
+    {
+      "award_id": "ocds-b5fd17-e0aefa20-bd42-47f3-9380-48ec525e7749",
+      "recipient": "SOFTCAT LTD - FCA",
+      "amount": 168000,
+      "currency": "GBP",
+      "description": "OpenCTI",
+      "agency": "FCA",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-08-13T07:12:58+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/51f8fd2b-912b-4e81-b58d-eebe7a0b698e"
+    },
+    {
       "award_id": "ocds-b5fd17-88393971-0b8b-4c54-92ff-23e5052366a8",
       "recipient": "VolkerStevin Infrastructure Ltd",
       "amount": 2688435.58,
@@ -1119,30 +1143,6 @@
       "url": "https://www.contractsfinder.service.gov.uk/Notice/f9e0cb5b-b660-4be5-8a97-ee35c0ab825c"
     },
     {
-      "award_id": "ocds-b5fd17-a3f4d8b2-b665-41ee-9276-e7fc242b3468",
-      "recipient": "Actica Consulting Limited",
-      "amount": 1706628,
-      "currency": "GBP",
-      "description": "Operational Experimentation Coordination - CAN",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-08-07T12:47:30+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/750091f0-f315-4f1b-bc76-01038e31dd97"
-    },
-    {
-      "award_id": "ocds-b5fd17-03126022-01b7-41be-aa3b-4e12735d09c3",
-      "recipient": "Telent Technology Services ltd.",
-      "amount": 81271,
-      "currency": "GBP",
-      "description": "Macro Cell Base Station and Support",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-08-07T09:57:41+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/7223a372-0dc0-498e-8f35-ecc5323448a0"
-    },
-    {
       "award_id": "W912P526FA088",
       "recipient": "DRC EMERGENCY SERVICES, LLC",
       "amount": 33758112.27,
@@ -1157,7 +1157,7 @@
     {
       "award_id": "N4033926CF501",
       "recipient": "FINCANTIERI MARINE REPAIR LLC",
-      "amount": 7077477.11,
+      "amount": 7246335.11,
       "currency": "USD",
       "description": "Uscgc glen harris and uscgc clarence sutphin ql3 fy26",
       "agency": "Department of Defense",
