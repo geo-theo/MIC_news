@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-18T18:57:19.397135Z",
+    "updated_at": "2026-08-19T01:53:37.783338Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -18,6 +18,20 @@
     "method": "Region-balanced public-source collection with deterministic topical relevance scoring"
   },
   "articles": [
+    {
+      "id": "c7ee758c9eb6",
+      "title": "Cheap missile interceptor wins $11M Pentagon award to down hypersonic aerial threats",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRE84Q20tVGk2YTExOTFHa0ZFam9uSHVqWU4yenI1Y1l4WFFIUVRIeXMtbUk3RzZhMS1rUTNMWlE2THIzUW5iaWpHLV9Gbl9MUm9ZUW5kemhsQkFnWVBjbVZkMFVqWW9heTFKamtaaFlCbGdUTkFuS012bW5UM2JXN2oyeWpRd2xuZ3c?oc=5",
+      "source": "Interesting Engineering",
+      "published": "2026-08-18T21:28:00Z",
+      "category": "technology",
+      "region": "Global",
+      "score": 82,
+      "tags": [
+        "Technology"
+      ]
+    },
     {
       "id": "a60959b1c2a4",
       "title": "Department of Defense and RTX accelerate critical munitions production through Navy Tomahawk award",
@@ -41,7 +55,7 @@
       "published": "2026-08-18T04:41:15Z",
       "category": "contracts",
       "region": "North America",
-      "score": 78,
+      "score": 77,
       "tags": [
         "RTX"
       ]
@@ -61,11 +75,11 @@
       ]
     },
     {
-      "id": "6716e05cdfdc",
+      "id": "8908a64849bd",
       "title": "Raytheon Secures $22.9 Billion US Navy 'Tomahawk' Missile Contract, Bolstering Long-Term Orders and Defense Business",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGdFLTdfTFBrOUFCWVNBNUpFRTBnUnVBaDdRTldaN3ZBdmlvSWh6LWNfZnprb3Q2M0JxWjFPZkFQcUdnWDVhMENrZ1o1SEVjYm4zRmQ2eTRWdEt4N1ZSRTBvYWp2NEQ2UnJrVktWN3VVYVlaNW9oczE2c2NZMU9peGNNdTJTc0RxSENncEExX2dZWVBEM2FOOU5jellRak9Fd2t4aEZMOGJvXy1BLVplQlFtOTRfUm5mQzgwS0FmcThtazFZQmFWM3RpOUx5WFNpOF8wREtlTGN6NG5OVEtWSDR6R29CR3lWNFZYak5EY1poM0QwNGQ2LQ?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published": "2026-08-17T13:28:02Z",
       "category": "companies",
       "region": "North America",
@@ -89,24 +103,24 @@
       ]
     },
     {
-      "id": "5d7cd3d6447f",
-      "title": "Pentagon Awards Deorbit-as-a-Service Deals to Catch Satellites Built to Never Be Caught",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWVjVk4tdE1KaEpQRkttaWRnRVdlcndNenZib281Qm9HY2ZXWFkyOVZNMDNoYXFJRmp3NEs5c2MzOGVRZmhSdk5OaXRGSzhWWTRFZmRLQWdrSnBqa2JuRXptY0EyY21lblVSMVhIT2JjZjhQWjBSeXA0d1o3U3RHTWFuNUdiS2Nhc0VKdmNDdTZpN2xDQlpfZUI0eE5wUnVhVU5JSkwtZTNFbGE4S1ZBcUt1MENUUTR6Y01mMFZaNmNmZTQwemZB?oc=5",
-      "source": "Tech Times",
-      "published": "2026-08-15T16:38:19Z",
-      "category": "space",
-      "region": "Global",
+      "id": "4217d29bb43b",
+      "title": "Raytheon Wins $745M Missile Defense Contract for SM-3 Block IIA Missiles",
+      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUdaTzVpOF82MFVoOEJ0a2RSRlh6NGE1N3lkUXFwYjhKNFR5NThjdnhEVjFVVXoya2dMcUVFNFFsaVFnYkdMeEtwVV9kYzZtaVR0SzhBdlZYQW9JOG8yN09kcW92YXVrcVJteHhpVXNSbWVpX1NpaWQ4TEhVa3g0UGJRN2d1Tm9TWWl3aENjMEZxanNPOWVIS29peGhXd3ZoX3lXZk8tRFdfMGVJT0kydGl0c2k?oc=5",
+      "source": "Clearance Jobs",
+      "published": "2026-08-10T10:58:54Z",
+      "category": "contracts",
+      "region": "North America",
       "score": 76,
       "tags": [
-        "Space"
+        "RTX"
       ]
     },
     {
       "id": "c85437d52e4c",
       "title": "Lithuania to receive U.S.-made night vision gear",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45Tk91R0p2dW81N2s5dnlCU05HRWFJellHZENxU0I1RFU5bk8wS1BXSlcteFhXUDZVT2t1aElBN3kwSHRYN21lLWpFdF9aWWhZdWFtVTFFdFFoSFZhNDhJMElLVnZfRE85V3pQS2c3STVfUTA5OURxejZSYzdYZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45Tk91R0p2dW81N2s5dnlCU05HRWFJellHZENxU0I1RFU5bk8wS1BXSlcteFhXUDZVT2t1aElBN3kwSHRYN21lLWpFdF9aWWhZdWFtVTFFdFFoSFZhNDhJMElLVnZfRE85V3pQS2c3STVfUTA5OURxejZSYzdYZ9IBgwFBVV95cUxOQmk4bkZib3lNMTh5OFpLa1djX3JLckZmX3VnOEdDN2lsV0xGZ0xwbGI3QmtNS2hVc0JnQ3hZQ2dCaURrMnNvVFpNS01xLUtsYjVQWWtDNTJ6Uk10clhtTGpieUZGaVRvOVpMd3FZVDdkWnFwa0VVSTN2Nmw4NDE4R1lLUQ?oc=5",
       "source": "The Defence Blog",
       "published": "2026-08-18T13:10:23Z",
       "category": "contracts",
@@ -117,31 +131,17 @@
       ]
     },
     {
-      "id": "f18502ad5341",
-      "title": "Air Force Taps 24 Companies for $920 Million Equipment Contract",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1FuVDJVSVh6dDRmZFFBZXN3ZVdyM0g4blpCbzV6cEhiQzZOOEtOMnZ0X1FGY3VSak9TTE8yWWE3SkhpOFVXTDlrYzROU0x4a1FuNkdoLWE4OUxNWGRBb0VYdzVlMXZ0OXlXWWNJUHRxbkxxcXRYM0w5UnpMMzR2aWQzVm9MNG1jT3piUEgycU5LSFJnUUtCT2FUbDYzZXhhdW1n?oc=5",
-      "source": "Clearance Jobs",
-      "published": "2026-08-18T11:30:08Z",
-      "category": "contracts",
+      "id": "5d7cd3d6447f",
+      "title": "Pentagon Awards Deorbit-as-a-Service Deals to Catch Satellites Built to Never Be Caught",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWVjVk4tdE1KaEpQRkttaWRnRVdlcndNenZib281Qm9HY2ZXWFkyOVZNMDNoYXFJRmp3NEs5c2MzOGVRZmhSdk5OaXRGSzhWWTRFZmRLQWdrSnBqa2JuRXptY0EyY21lblVSMVhIT2JjZjhQWjBSeXA0d1o3U3RHTWFuNUdiS2Nhc0VKdmNDdTZpN2xDQlpfZUI0eE5wUnVhVU5JSkwtZTNFbGE4S1ZBcUt1MENUUTR6Y01mMFZaNmNmZTQwemZB?oc=5",
+      "source": "Tech Times",
+      "published": "2026-08-15T16:38:19Z",
+      "category": "space",
       "region": "Global",
       "score": 75,
       "tags": [
-        "Contracts"
-      ]
-    },
-    {
-      "id": "34feaa592d26",
-      "title": "America’s Missing Military Revolution",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGZPYXc4S2l3c1ZtaXJ6R1lIQ1F2LW0zS0I4SUw3cncxU0ZVREZzYnF6MUVtcjNmMXkxU0tWUWgwME9VTlBCWjNRb0VNU1lmdmprUDZzTVhkYk83S3hjdzRlVnVDbC1taWVfalU2Yjg1ZXhSZk1fcXAxWmlKNTZwNEpCNExGbXlMN1dBeVBpZ3JWRGJsblE?oc=5",
-      "source": "Foreign Affairs",
-      "published": "2026-08-18T04:00:00Z",
-      "category": "contracts",
-      "region": "Global",
-      "score": 75,
-      "tags": [
-        "Contracts"
+        "Space"
       ]
     },
     {
@@ -157,6 +157,34 @@
       "tags": [
         "RTX",
         "Boeing"
+      ]
+    },
+    {
+      "id": "a81afcd89c2e",
+      "title": "Raytheon (RTX) Stock: Pentagon Awards $1.3B in Defense Contracts",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXBnaDlaZXBnUWx4bHhhdTlacVR2VmppSm9hLXFCa1NTRWx4UW9FbEdjcGJBWDFvVklFNWtkRXhpY2dUUEVOUlhDQ013cFQ0a3o2Uk5qRFdDeU9jMnQ0QV9DUFBDRENSVUhxdFdVS09SaXZrVkV4cFNaYW90WmlON2t3WWIwRC1zNklVTg?oc=5",
+      "source": "Blockonomi",
+      "published": "2026-08-08T07:00:00Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 75,
+      "tags": [
+        "RTX"
+      ]
+    },
+    {
+      "id": "ee4b292196fa",
+      "title": "Contracts for Aug. 17, 2026",
+      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkpoRFNaYnN0Zy1ad2V6WHF5Tkg1Q3J0Q3plb3RQM2k4d2o1VEpUTDFKZ21WSWVNakhtTk8zQkZGMzdHTVRFYjB3Z1Ezd3Y4eFVva05zbDFIanU0WGJkeVNud1Q2eFdVcVVxTjd2NkEySDB0YXVPM0xwMmxpU2dkNlp0Qlk0aXppU2JyekRNOA?oc=5",
+      "source": "U.S. Department of War (.gov)",
+      "published": "2026-08-17T21:31:13Z",
+      "category": "contracts",
+      "region": "Global",
+      "score": 74,
+      "tags": [
+        "Contracts"
       ]
     },
     {
@@ -216,11 +244,11 @@
       ]
     },
     {
-      "id": "762962241d2f",
+      "id": "4ec66da2baee",
       "title": "News | RTX's Raytheon awarded $745 million contract for SM-3 IIA interceptors",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG5LeFZPYlNZWENpal9LWnBGbG1PcE5zTGRYZzB4bEVhUjdQZnI0bXZVZGQ0a21scGF3WHRsQW5jVHFSb3BuUmkwRXBWd3V4cTZHTmRFZU1HdDNqbnN2ZXgzN3RZNGczSUdCSDVyNHZDWWJUQzNhdV84cnE1MkNRc0xaamtTOHZWdERqNGU1Vk1FZmE3MDl4c2paNDVid0NDNEN0ZGttMnRvczI5VnBxRUFpTXQ2Z3M?oc=5",
-      "source": "RTX",
+      "source": "rtx.com",
       "published": "2026-08-10T07:00:00Z",
       "category": "companies",
       "region": "North America",
@@ -230,32 +258,31 @@
       ]
     },
     {
-      "id": "c3d31828ef3a",
-      "title": "Polaris Wants Autonomous Vehicles. Likely For Its Army Contracts",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFRBVzFKLUVLd1hGaHBzZ0Q5RlJFUnlRakp4TjZQRVpxYTY2Y21XX3JnajhuYUxCaVlTY2JmQURYRUVlcXV6X19MTU9HVlUzWnJCVS1jaXpfc3pfQnM2TDVXZTR0N1ZqUDI4a2hjcnR3ZkgwRWtlN2E4cVNNeWo5dUpDQ1lXbElMa2h3eEhuTExEb3dQQmxFWjl5UFoyTDJ4?oc=5",
-      "source": "RideApart.com",
-      "published": "2026-08-14T11:22:00Z",
-      "category": "technology",
+      "id": "98fee376d833",
+      "title": "BlackSky Secures Satellite Imagery Contract With International Customer",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OdjliSFlrczVBcHJBQmpLNXRWRm5TbmZLNXZTNUpqQUtzQ2pwR1ZQNTI5STF0WUVzalhPaHN5OTJsVklra1dvSGxuRFFrQTRMYWJSWWg1cU1WWmhUeE9pVUFUQXFGaHB2TTE2VW5oWkNrSnhWdm9LN2QwZFpvYWvSAYQBQVVfeXFMTUVnbU1SMUZ0dDl3enoxWUxCQnFVQ29Vc2QtRjJhQ2hsa0pEUGJZMlFiTkY3UVh2VS11THBrZ1BWaGdoYTJtNjlSYjNkUFMwdVZxeDR5MGZ0bGJ2YWFMWTdVd3JRaXhRS0QxNHRHNnJmdnktWjc3Z1p6ak53a0RBVDkxQlFK?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-08-13T12:29:57Z",
+      "category": "space",
       "region": "Global",
       "score": 70,
       "tags": [
-        "Technology"
+        "Space"
       ]
     },
     {
-      "id": "8224bc48a063",
-      "title": "PENTAGON: DEFENSE DEPT, BOEING, AND RTX FORGE AGREEMENTS TO STRENGTHEN PRODUCTION OF CRITICAL SM-3 BLOCK IIA AND SM-3 BLOCK IB MUNITIONS",
+      "id": "544611a0e3ae",
+      "title": "Hanwha Aerospace Wins U.S. Howitzer Modernization Contract",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBENm1ENG5FWm9seWZ5SUpRWG9ydUxRV2JNbzlSMUtxZm9TbVBxN3lILWxvOXZNWDNxZzdSa3pCTmxCVjhrLVBwaWVIX296NndRaWQzbzc0Q1VDbkFMcjh4anFMblRxOTBqVnNucThR?oc=5",
-      "source": "news.cgtn.com",
-      "published": "2026-08-14T12:07:35Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWhtTHFsdWpFQTNQckFjdHFiVU1ibEMxVjhyaF9UNlRSMkhSZFo2c0FLT0JRaE5Rc2R6aXJzRVVVdVBIbUd4bFJaNFJKclprUk1WZTRhLWZUbm8xb2ZXMW1za1pnNkx0bVo3OFcyXzFHQkpOdGZva1Z6Z050ZTY5VGppX0h4V1Vu?oc=5",
+      "source": "조선일보",
+      "published": "2026-08-19T00:47:35Z",
       "category": "companies",
-      "region": "North America",
-      "score": 68,
+      "region": "Asia-Pacific",
+      "score": 67,
       "tags": [
-        "RTX",
-        "Boeing"
+        "Hanwha Aerospace"
       ]
     },
     {
@@ -270,6 +297,21 @@
       "score": 67,
       "tags": [
         "L3Harris"
+      ]
+    },
+    {
+      "id": "8224bc48a063",
+      "title": "PENTAGON: DEFENSE DEPT, BOEING, AND RTX FORGE AGREEMENTS TO STRENGTHEN PRODUCTION OF CRITICAL SM-3 BLOCK IIA AND SM-3 BLOCK IB MUNITIONS",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBENm1ENG5FWm9seWZ5SUpRWG9ydUxRV2JNbzlSMUtxZm9TbVBxN3lILWxvOXZNWDNxZzdSa3pCTmxCVjhrLVBwaWVIX296NndRaWQzbzc0Q1VDbkFMcjh4anFMblRxOTBqVnNucThR?oc=5",
+      "source": "news.cgtn.com",
+      "published": "2026-08-14T12:07:35Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 67,
+      "tags": [
+        "RTX",
+        "Boeing"
       ]
     },
     {
@@ -301,25 +343,11 @@
       ]
     },
     {
-      "id": "6fa29ba33021",
-      "title": "In Defence of Canada briefing: A $2.3B space communications contract and the SpaceX rideshare launch freeze",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0FoQ0x5OWM1OERfMFpiN0dJc2FsSF92T0oyZ1ZVSEtXbHNSZmtpUGpDVGhZNUNFOVdLemtqMkZ6cWpfR0hWd0dYUVF1RC04bFpSMXNaeTZkTWZlcWJ0ei1sOTFIcElQdzNpYk1RdU9QT2lvRFNfZS1fYnc3RF9vVzZ2MzJQdk16WFUyRXpPbzFHY2tRcWdMbUo4dWdkejJXbWIzZTNBVXlCZFprOFowNTZ2cDFwOTFTcUFuLTVNR1lidw?oc=5",
-      "source": "SpaceQ",
-      "published": "2026-08-10T16:05:10Z",
-      "category": "space",
-      "region": "North America",
-      "score": 66,
-      "tags": [
-        "SpaceX"
-      ]
-    },
-    {
-      "id": "9d487eb03374",
+      "id": "d8f13a848bab",
       "title": "US Moves to Ramp Up SM-3 Interceptor Production With Boeing, RTX Deals",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zR1dpWTE2VzA0YUlFSTFRZEtZRE8xZ3NVSzVpQjY2YnRENFlRWk54WFRJdXpqeXhmbXJnMy1MQjRzUGFyVlQ0YTV3OHlpV0pIU2t3M2NOR0x1R3VrYmtwWUVXbV9La0NyUkHSAW9BVV95cUxOb3BOZnl0MDVfZ2xLUmtfZXpRN2wzN01JWG9Tb1dyX2VxR3MwQnBmMk8xazZseXMyS2FkX0ZkYXA4ZURHOUp3QzFZMWhXYWc3MkcxamszUW01cG5WMmR5VElXMGh1RDRDTXBPemVyOEk?oc=5",
-      "source": "The Defense Post",
+      "source": "thedefensepost.com",
       "published": "2026-08-17T23:35:52Z",
       "category": "companies",
       "region": "North America",
@@ -344,6 +372,20 @@
       ]
     },
     {
+      "id": "6fa29ba33021",
+      "title": "In Defence of Canada briefing: A $2.3B space communications contract and the SpaceX rideshare launch freeze",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0FoQ0x5OWM1OERfMFpiN0dJc2FsSF92T0oyZ1ZVSEtXbHNSZmtpUGpDVGhZNUNFOVdLemtqMkZ6cWpfR0hWd0dYUVF1RC04bFpSMXNaeTZkTWZlcWJ0ei1sOTFIcElQdzNpYk1RdU9QT2lvRFNfZS1fYnc3RF9vVzZ2MzJQdk16WFUyRXpPbzFHY2tRcWdMbUo4dWdkejJXbWIzZTNBVXlCZFprOFowNTZ2cDFwOTFTcUFuLTVNR1lidw?oc=5",
+      "source": "SpaceQ",
+      "published": "2026-08-10T16:05:10Z",
+      "category": "space",
+      "region": "North America",
+      "score": 65,
+      "tags": [
+        "SpaceX"
+      ]
+    },
+    {
       "id": "dada0b576466",
       "title": "Elizabeth Warren Targets Defense Contractors’ $100 Billion Shareholder Payouts: ‘This Needs to Stop’",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -352,7 +394,7 @@
       "published": "2026-08-18T10:08:55Z",
       "category": "companies",
       "region": "North America",
-      "score": 64,
+      "score": 63,
       "tags": [
         "Companies"
       ]
@@ -386,21 +428,6 @@
       ]
     },
     {
-      "id": "641e8a7d2355",
-      "title": "Department of War, Boeing, and RTX Forge Agreements to Strengthen Production of Critical S",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1M0UWdad2RlQjFfODVRcTk3TFQxMV85cXQ0aUZfUHQxT0szLXBIV1ZnRGFHY3l3b2s1SDJlTnBnaUg0aUxKdFFPM2ZBSDEyNDE1OXI3Mk5ZMk9uUkFwM2hPcjBmOVVkeFhPdjFrUVRQQ1B2ajFoMExQaDRiRWh1bWlZTGtOeWRrUlpyTTlCTEYzQUlnZnRlNTAxdWR2Z0s0bXl1bUV6VmljZUs0aFNjcTdHNFRyZE5sYmYwVWs3dHgwMnc1bHpzRVBGdlJ5UW1LUUUwVg?oc=5",
-      "source": "U.S. Department of War (.gov)",
-      "published": "2026-08-14T12:05:35Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 63,
-      "tags": [
-        "RTX",
-        "Boeing"
-      ]
-    },
-    {
       "id": "f996051b5ea8",
       "title": "ST Engineering Earnings: Strong International Defense Contract Wins; Outlook Remains Positive",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -415,32 +442,17 @@
       ]
     },
     {
-      "id": "f334ff18d979",
-      "title": "How Investors Are Reacting To Northrop Grumman (NOC) Expanding Missile Defense Production And Launching Raid Hunter",
+      "id": "2fa8a4522d9b",
+      "title": "Saab B stock holds strong as defense orders and Q2 2026 growth support valuation",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakdZRG90UjNsUkkwMmFFVmhIY29PQlgybFVRQ3lRX3NQeDc0UE1TeUdnS0lpczV5QTVTM0ZoSzlpblcweWtUOWU3NFptWENrMV9NdFNVYlJFT21VRjkwVzVZekFNVS1XRzZLOWdkczMwVk9waHM1eGtiQUJmbWZkaHVwTGxqY2RCdC1oRjZZQUNwRTJwN082dDJzS2p6dDRUdUVZdnJpTQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-12T06:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1YwSHZkT1h2dUIxNzY2OWpZVEw0OGxXYXVwRjRlNGZaVmx4cXVWemZRaUVMNFJEc1htMWZ5ZzVBbFRPX3RfTEtQWVVBUWp1Y2s1eHRlQ0paYnRTTTJlbHRQSE1tc1V2bElheG9PSE1WU05pVi0zbHVZTU5JYTZodjk3MUw3V0ZYMVVBRXVOejJKTDBoNFNJeEp0M1VjQUtKWkdkLWwzblJRWmMwNFlzUG1VdEU2OWJXUjl4WlVFbGN5Ml9hMWZRQjRDWW9Ndw?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-08-18T13:36:26Z",
       "category": "companies",
-      "region": "North America",
-      "score": 63,
-      "tags": [
-        "Northrop Grumman"
-      ]
-    },
-    {
-      "id": "09fbea8ba9e0",
-      "title": "Austal USA confirms acquisition offer from Hanwha Defense",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUllVXc1Y0VQWnZoc041TEwxakU5X0Q3aTUxVUNFS29aVER5NElXSGFFWTUxWnJhbENSV01scDhST2FsTmtieGJtTnc1OERpbF9UVE9oT1NVc1A3R0JtM3h6dzh0SnNsX2Nlcm1KaGljM1ZHS3k1S1Q2QmdDRm55eWpkZWdLcWhzVGdqRkQ0WHg1N1lQcFR0ZTB3?oc=5",
-      "source": "fox10tv.com",
-      "published": "2026-08-11T22:59:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
+      "region": "Europe",
       "score": 61,
       "tags": [
-        "Hanwha Aerospace",
-        "Austal"
+        "Saab"
       ]
     },
     {
@@ -469,6 +481,21 @@
       "score": 60,
       "tags": [
         "Leonardo"
+      ]
+    },
+    {
+      "id": "09fbea8ba9e0",
+      "title": "Austal USA confirms acquisition offer from Hanwha Defense",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUllVXc1Y0VQWnZoc041TEwxakU5X0Q3aTUxVUNFS29aVER5NElXSGFFWTUxWnJhbENSV01scDhST2FsTmtieGJtTnc1OERpbF9UVE9oT1NVc1A3R0JtM3h6dzh0SnNsX2Nlcm1KaGljM1ZHS3k1S1Q2QmdDRm55eWpkZWdLcWhzVGdqRkQ0WHg1N1lQcFR0ZTB3?oc=5",
+      "source": "fox10tv.com",
+      "published": "2026-08-11T22:59:00Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 60,
+      "tags": [
+        "Hanwha Aerospace",
+        "Austal"
       ]
     },
     {
@@ -541,20 +568,6 @@
       "tags": [
         "Lockheed Martin",
         "MBDA"
-      ]
-    },
-    {
-      "id": "063b1bdc3409",
-      "title": "Britain's largest defense company was fined $36 million for violating U.S. arms export regulations",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeW5kcnJTZFh6TWluZWVQd1liODZPRFc0d0Fyd3cxLXpBUHBSazdRMmpyQlBRT2xtN0FMQ2xud1dPMjhTU2JoaEZ6MWo0MjFoUGVZRW5veERhcHJTQkZDVThlMnJ3YW4ycjBHZzFHSHB3eFJvd2RmblFFV3p5d2UzSktQYmYzckQzYVQzQkJrcXRyeVB1RmJmRVRCNmFYbGhTMGJMZTdfVEZ3REhwT3BWMU5IeWhpUzYxT1NmM3ZpSnAyWWpScUg4Rmh2Q0FvZkNvN3VsV3RRRdIB3AFBVV95cUxPV0lOb0ROSXNIWHM4MEhMTWk4b3F0dzBfVGZOMHlTZFE5N0dJRng5b3FVVjhJMUl6Q1FyX0RDZDQ5aEpwaWlyVlRIYXU3YnZSZ19XU2xPQU1tLTJDdE1KUVM5dzZsYzVaTUU4X0Y5VUpFTjBxT1VKSUFXb3hSdkRRR0tKd2NiRVFpcmdBVmRXbF9VNENkNjlkX1RNc05GYjVaUXZfdkVsQVdxMGNiUDBzVnJmZE9MVXdVeGRWLWw0MW1saUt2UWt2Q2wxY05EbVZUajdVeVlLTk1FdDFo?oc=5",
-      "source": "LIGA.net",
-      "published": "2026-08-14T13:41:06Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 56,
-      "tags": [
-        "Companies"
       ]
     },
     {
@@ -658,6 +671,20 @@
       ]
     },
     {
+      "id": "05bb740b7334",
+      "title": "Estonia does not rule out Russia’s involvement in arson attack on defense company building",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazNHVGZka1Rsa1gtNWZmNU9pMl94aUQ5Yml6a0hRU3Zhd0VfbmtJUjlPRnk3UUlISktyTUlGV3ktbmVEcG04ZnE2b1VtMWNIZW5DdlRVZkM3b0UxNVZKOUpIVDNBQ1I4SlRXNTBpcEU5bXZZRzlGRHV3MDdSYmQxV25uSmliOWNDRDg0RWRsNk1YRms3WmNXUWxXUXlDM3QxVkk5UlgzT1hRMzNWNmdBdGRwbi1kR05hb3ZPVm52YTDSAcYBQVVfeXFMTXZhaU40eE9QTFdBREdvZ1U4YmQxMFBycnU5d2MySlQzTTJNWmNKcmN4UzBfQWVuZzFyVVlKdlFfNW1QejVFN0dZQUNnb1lJZDB2VWxYX3JKeWxNZEhVZk5aYlhSOTd4Rl8wdTVUcWVfQnRNQTM0bERFUi11TWJyTW1rWEdIeGhaUEVkMXlfaENVU3U4YkV5em1yRVVmVmxVTG12TkcxZl9FNmZzb1hxcnBCMmt3dHo0NVVPV0VkZzBoalhQaF9B?oc=5",
+      "source": "LIGA.net",
+      "published": "2026-08-18T18:44:18Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 52,
+      "tags": [
+        "Companies"
+      ]
+    },
+    {
       "id": "4bbc64b93e95",
       "title": "EDGE debuts multi-domain defence capabilities at DALO Industry Days 2026",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -678,20 +705,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3B3cjcxaHF3aG9PbmdqNW5nd253UHYtUUdpTi1EOWlBWURINlVybF9wWkNUVVpMVWpLc1JxMm1rN2ZEZnlkeHZzVGhoellvMU41b3hvNkMxSkhqOXBnLS1XR3lwb2g1akllVGJ5QlRlQ2hPb001Um1TeXlIaG42QkZKNXlhd2ZHSXJObnNmdw?oc=5",
       "source": "49ers Webzone",
       "published": "2026-08-18T11:13:13Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 52,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
-      "id": "c4ae97fc582f",
-      "title": "2026 NFL defensive line rankings: Rams lead the league, Steelers and Texans open in top three",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5cXFxbUZycWdqS0JSeThrclRiN2tmVTBXd0N5cll0dzZXdEJvS2RoTjdwMWI1VUtRQ0lUU01nSE1oVkRzNjNwUUx3V3U1YTNXY0VJMDZ6ZGgwN01WZFdPMUdNTUwxajRu?oc=5",
-      "source": "PFF",
-      "published": "2026-08-18T09:05:00Z",
       "category": "companies",
       "region": "Middle East",
       "score": 52,
@@ -729,11 +742,11 @@
       ]
     },
     {
-      "id": "31a1bf0fa00f",
+      "id": "f61a6f4fee96",
       "title": "Hanwha Defense USA seeks to buy shipbuilder Austal USA in $1.2 billion deal",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0ZXTzdYekVvMnBYM1FfWm5zaEM0UDRxekljMEI2ZkpwWk80ZXd4SHZDbWhEUEtMalVCcXhNRmxTYVIwWGRKTTk0YUNFUkJIelNidXVWb2pQT1AzVThOVWtQSEdxVkg3V1ZBLUZkQVE2a3hnc0picEFqTER4aHBXb1FRQmY4RlJNVU1qWVhGcEQ1X3dKWnZEQjVHZlNubkZKLTdoMG9NLURPb3lmV05IRWMxRFhUSkFU?oc=5",
-      "source": "washingtontimes.com",
+      "source": "Washington Times",
       "published": "2026-08-11T13:05:10Z",
       "category": "companies",
       "region": "Asia-Pacific",
@@ -770,6 +783,20 @@
       "score": 52,
       "tags": [
         "Thales"
+      ]
+    },
+    {
+      "id": "c4ae97fc582f",
+      "title": "2026 NFL defensive line rankings: Rams lead the league, Steelers and Texans open in top three",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5cXFxbUZycWdqS0JSeThrclRiN2tmVTBXd0N5cll0dzZXdEJvS2RoTjdwMWI1VUtRQ0lUU01nSE1oVkRzNjNwUUx3V3U1YTNXY0VJMDZ6ZGgwN01WZFdPMUdNTUwxajRu?oc=5",
+      "source": "PFF",
+      "published": "2026-08-18T09:05:00Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 51,
+      "tags": [
+        "Companies"
       ]
     },
     {
@@ -815,20 +842,6 @@
       ]
     },
     {
-      "id": "a3099b259c64",
-      "title": "Za’Darius Smith Expected to Sign With Browns Nearly a Year After Abrupt Retirement",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0RPb0dzbFZMT25nQThYZHZ0NUd1azBETkMwYTNRQVNhQUVzejR0dWVWc0l6MTNTQkt1TW5LX1Z4VFduVE1PZUVJc0MxaTYxVFM3WkJGUGpoRWxya3ZUNjlYbnFvZ3JiS1Jzb1FuS3c5RUxNVVd5TTFkaWhranZyMkQwVUFXLXVjYzdmWjkzMTV1bkw2UzFNSk1sYzd4VkVva01tcFpLV3R6d09TYXlZT0oybWtNX1dYYXVUWFU3UUgyejh2SWY1SFN4cDRRX1g3QTA1N1VR?oc=5",
-      "source": "Yardbarker",
-      "published": "2026-08-17T03:45:33Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 51,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
       "id": "e1e5b99e9417",
       "title": "Saab AB",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -854,20 +867,6 @@
       "score": 51,
       "tags": [
         "ST Engineering"
-      ]
-    },
-    {
-      "id": "5b360dc1cec0",
-      "title": "Resilient BAE Systems stock holds near recent highs as DARPA THREADS win extends US defense momentum",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnIwTmRhY1pxNE91bTNmdkZsSE5yUkhZWENuaUR3Ti1xdmxtRnF4VGVMUHlnWEVqSWRKVTRIeG5kekkyRE5PVEVUS0VEU3RyTnY5dER2VFhkSmtLc1M0Y0dkb1U0Q2VHY1dtbFpfd25ON0dEZEVIOGdUOU1OVzlpQndleGs2dVN6NVNCLVppLW1DQl9Gb3NnbHlsYllsdzhWNDR2UGxzVFE4dWtFWTVkYmNuUldEVU9qeFRwMmZ2RkpvSG1YdWFhU0tMNkJDT0RP?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-08-13T05:49:47Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 51,
-      "tags": [
-        "BAE Systems"
       ]
     },
     {
@@ -899,31 +898,17 @@
       ]
     },
     {
-      "id": "505d06115816",
-      "title": "South Korean defense company Hanwha offers $1B for Austal USA",
+      "id": "5b360dc1cec0",
+      "title": "Resilient BAE Systems stock holds near recent highs as DARPA THREADS win extends US defense momentum",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVJaDRLWF9KdTJ0c09RYUhsTmxuVDZFNERoX2FwUE8tenBQckRyRVQ2bnljM0l2UGhpaVBxYVc2U0tFR3BtSVNDZV9XQ19lMm1TUDczT3piZGhUNnA1cUtKTUZHaExKcGRucjdsMDBhVjlwZEt4cGhTbkdDdWRCX3hsdTdRMUI2Q1NEMkduMVJUY1R2aFE?oc=5",
-      "source": "mynbc15.com",
-      "published": "2026-08-12T02:13:09Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnIwTmRhY1pxNE91bTNmdkZsSE5yUkhZWENuaUR3Ti1xdmxtRnF4VGVMUHlnWEVqSWRKVTRIeG5kekkyRE5PVEVUS0VEU3RyTnY5dER2VFhkSmtLc1M0Y0dkb1U0Q2VHY1dtbFpfd25ON0dEZEVIOGdUOU1OVzlpQndleGs2dVN6NVNCLVppLW1DQl9Gb3NnbHlsYllsdzhWNDR2UGxzVFE4dWtFWTVkYmNuUldEVU9qeFRwMmZ2RkpvSG1YdWFhU0tMNkJDT0RP?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-08-13T05:49:47Z",
       "category": "companies",
-      "region": "Asia-Pacific",
+      "region": "Europe",
       "score": 50,
       "tags": [
-        "Austal"
-      ]
-    },
-    {
-      "id": "1e67a249fa89",
-      "title": "Hanwha makes bid to acquire Austal USA",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0FpU1M0ZjA2Tjg2Yk1fU2hzV3FTY1NESTJUUlpWU250NldXMzdfT25WY1g0TG9PeGRhTElXTlpqRW1BQkM3VjRDX1g3RXJjZjBYUWtoZGVIQWtRY3BsdEg4N19mVF84Tkl0VHZVSGJZUEx3d2MxMkJEWU1OQm9fOENYOFBuVk1HRFB30gGQAUFVX3lxTE1vSndKSmZNT3BiUzRGSUtweXZ4bkFlQzdkQ09UcnZNc25qT0pfZWZLaUd0R2xfRzJ5anZmRUNpOWVCNmQ0bGU4Sm9xZld1dkc0ZjFEcUdzZnplSjIycy1uWENfVnFqUW11NmFoUnloZGYtSDRpTnF0T1VPRjlKNUJYMlZGOWpLakZ4cUZacjJTUw?oc=5",
-      "source": "upi.com",
-      "published": "2026-08-12T00:12:45Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 50,
-      "tags": [
-        "Austal"
+        "BAE Systems"
       ]
     },
     {
@@ -957,17 +942,59 @@
       ]
     },
     {
-      "id": "595770bc1a24",
+      "id": "505d06115816",
+      "title": "South Korean defense company Hanwha offers $1B for Austal USA",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXVJaDRLWF9KdTJ0c09RYUhsTmxuVDZFNERoX2FwUE8tenBQckRyRVQ2bnljM0l2UGhpaVBxYVc2U0tFR3BtSVNDZV9XQ19lMm1TUDczT3piZGhUNnA1cUtKTUZHaExKcGRucjdsMDBhVjlwZEt4cGhTbkdDdWRCX3hsdTdRMUI2Q1NEMkduMVJUY1R2aFE?oc=5",
+      "source": "mynbc15.com",
+      "published": "2026-08-12T02:13:09Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 49,
+      "tags": [
+        "Austal"
+      ]
+    },
+    {
+      "id": "1e67a249fa89",
+      "title": "Hanwha makes bid to acquire Austal USA",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0FpU1M0ZjA2Tjg2Yk1fU2hzV3FTY1NESTJUUlpWU250NldXMzdfT25WY1g0TG9PeGRhTElXTlpqRW1BQkM3VjRDX1g3RXJjZjBYUWtoZGVIQWtRY3BsdEg4N19mVF84Tkl0VHZVSGJZUEx3d2MxMkJEWU1OQm9fOENYOFBuVk1HRFB30gGQAUFVX3lxTE1vSndKSmZNT3BiUzRGSUtweXZ4bkFlQzdkQ09UcnZNc25qT0pfZWZLaUd0R2xfRzJ5anZmRUNpOWVCNmQ0bGU4Sm9xZld1dkc0ZjFEcUdzZnplSjIycy1uWENfVnFqUW11NmFoUnloZGYtSDRpTnF0T1VPRjlKNUJYMlZGOWpLakZ4cUZacjJTUw?oc=5",
+      "source": "upi.com",
+      "published": "2026-08-12T00:12:45Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 49,
+      "tags": [
+        "Austal"
+      ]
+    },
+    {
+      "id": "da34707fe580",
       "title": "The US Sequel: Hanwha bids for Austal",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3p4dmRLTlRYMXFGNFh3MVV6UkxhNXo4Mk51RUxRVmNUcTlXM1ZFaTFGWDZfbWk3WnJqOTJuMzNuc3dTeXp2dENabjNNS3gxb3NYRDVneEExV3I4QlkwbzZrOHR4bEhoaGN1QmdLX2w5eHQzNDcyNWFhTmhkeDVkV3NSTlVjb296bF9r?oc=5",
-      "source": "Australian Defence Magazine",
+      "source": "australiandefence.com.au",
       "published": "2026-08-11T21:00:56Z",
       "category": "companies",
       "region": "Asia-Pacific",
       "score": 49,
       "tags": [
         "Austal"
+      ]
+    },
+    {
+      "id": "c9fd423f7de7",
+      "title": "Russians detained in Sweden after camping near home where Saab CEO was staying",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXROVVVCTjViQWtJcFVqMXFxcnhUMl9yMFdpdFUtdGJrbDZyVFczWDlRSGQ2bnJYMnd5MlQ2X0RIX1ZFR3M3OEU5dGpQNnM2eDhOTlJsbFFUT2QzeVQwamhRM1hweUN0OGxpc2lCQTlQN0VTSzNPdEE2OWowNS1TUGlTNjNRZ1ZZZHFTZF90dGlSVmluU25sOVg1aktuZi1ZQ3ltSFZn0gGiAUFVX3lxTE14dXlpTXNZVDVVZkJLSlFKcm9WdXo2Skk3TnIzbGlSd2lmNlV1Rldpazc4TXUyRGJOUXQ1WXQyWVkzUktzc21JNGNvN0FUOUV3dHJCWnFoYW1WcS1JU1g2NTVQNlFhVkRoX0xUU213MWliNmtxc0NrZXh4X2tqMUtaT1FncXdCZmVaTTFhM1NDeHBqbzJkeTZwaVRVYnMyUHVSZw?oc=5",
+      "source": "The New Voice of Ukraine",
+      "published": "2026-08-11T13:18:00Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 49,
+      "tags": [
+        "Saab"
       ]
     },
     {
@@ -1004,40 +1031,12 @@
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEF1endKdjhaZGYwaUZwR0lFNVZqWV9vMS1nVURfdEZFTXdjM2lHY3hPalFwMWpwN2pGQnlRcF8zV3Utc2pzZTg0dE1KRzIyQjEtamdONTRiMkVndVphRXkxZFdUQUhRalFndUNaZl8zcW9XbEZxelB5VXhOaUxKTVA2encwV1hEYUdsajJpSVF4NmpldDdtSzFkUkxtQTE1bjgzc2FySUxOWDJuczlLVHNnZ1c3NTM2T0xNM253M1lzaVdzbHlMSlZfaHhGcUZybFpHUVF3?oc=5",
       "source": "UNITED24 Media",
-      "published": "2026-08-10T12:37:39Z",
+      "published": "2026-08-10T07:00:00Z",
       "category": "companies",
       "region": "Europe",
       "score": 48,
       "tags": [
         "Saab"
-      ]
-    },
-    {
-      "id": "1c67d8b66a82",
-      "title": "Hanwha Makes $1B Bid to Acquire Austal USA, Shipbuilder Declares $79.73M Loss",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHpPSC1mbDRETl81eEZGeW5fRVh0aTBrcU41bndWWWpYcTZYWVRMTHI5TkFDb194YzZTMTU3UXZ0VS0zSVh3Z05sX2Yyd3QtVVAycGV2dWNvQkFSM0dRQXdzdWo3LWNnTVIwSFNqX1FWeER4ZkJzNkRENmZiMTRZU1ctVWhjTWxuVndGNGZ0RUZFQ3lDSnU5TlhmN2hMd3JLd1FqUG12MGZMcWc?oc=5",
-      "source": "USNI News",
-      "published": "2026-08-10T07:00:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Austal"
-      ]
-    },
-    {
-      "id": "4d1940339626",
-      "title": "Uncrewed Vessels Set to Revolutionize Anti-Submarine Warfare for Dutch Navy",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMFNac0U1amxDcjlMdEc0TlFQT3d1WDdQZDBTbm5uSTZXNzdMTmpKQnpqZjNoZXpMMXRaM1gyLUVuQkp4Zy1pNVQwVEVmbzBLUU5wOXAtUVVSejUwel9WR1ltOThRODB1eUMtWUhzeHRVMTJqZ1VnRElVdy1RMEpDdWNMamdzdXdLOHNmbHh5Z1pfYXdXR0FQZW53b1hORU9zblFsWU0wUWpyOThDbTBz?oc=5",
-      "source": "The Futurum Group",
-      "published": "2026-08-06T07:00:00Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 48,
-      "tags": [
-        "Companies"
       ]
     }
   ],
