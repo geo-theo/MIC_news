@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-29T16:44:26.253991Z",
+    "updated_at": "2026-08-29T20:56:37.619802Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -89,20 +89,6 @@
       ]
     },
     {
-      "id": "be1781847e83",
-      "title": "LMT, RTX Win Big US Defense Contracts Worth Over $1.1B",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUM0OEc5c1E4U04tSXE2OW1FaE5odC1GTkxId2hZZE9SY050VGZJbm1qajNyTnRadnYwWUZWcnkxcVJwQmtHNlJrTEcydF8tYUpzelU0V2ltVDR6b3JuVHIzTVdnQ29LcWRYdE0zSzhoeFBwUVQ1Z2ZyM3d3QnJlYzBjSnpfSVlkQkJWZ21LSlgxTGZVYkdpZ1pnUGFoUmpoSFMxUHNTQ2FLTzNRcnB4aFdnZm1XYjRFOE0wTDgwekVoem5pb1p3?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-08-27T02:58:32Z",
-      "category": "contracts",
-      "region": "North America",
-      "score": 76,
-      "tags": [
-        "RTX"
-      ]
-    },
-    {
       "id": "33303052c27f",
       "title": "Boeing Secures $131 Billion F-15 Deal as Fighter Demand Surges",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
@@ -139,7 +125,7 @@
       "published": "2026-08-27T21:11:22Z",
       "category": "contracts",
       "region": "Global",
-      "score": 74,
+      "score": 73,
       "tags": [
         "Contracts"
       ]
@@ -265,9 +251,23 @@
       "published": "2026-08-27T21:43:53Z",
       "category": "companies",
       "region": "North America",
-      "score": 66,
+      "score": 65,
       "tags": [
         "General Dynamics"
+      ]
+    },
+    {
+      "id": "be1781847e83",
+      "title": "LMT, RTX Win Big US Defense Contracts Worth Over $1.1B",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUM0OEc5c1E4U04tSXE2OW1FaE5odC1GTkxId2hZZE9SY050VGZJbm1qajNyTnRadnYwWUZWcnkxcVJwQmtHNlJrTEcydF8tYUpzelU0V2ltVDR6b3JuVHIzTVdnQ29LcWRYdE0zSzhoeFBwUVQ1Z2ZyM3d3QnJlYzBjSnpfSVlkQkJWZ21LSlgxTGZVYkdpZ1pnUGFoUmpoSFMxUHNTQ2FLTzNRcnB4aFdnZm1XYjRFOE0wTDgwekVoem5pb1p3?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-08-27T02:58:32Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 65,
+      "tags": [
+        "RTX"
       ]
     },
     {
@@ -383,20 +383,6 @@
       ]
     },
     {
-      "id": "2efcf51e994b",
-      "title": "Saab goes supersonic with next-gen Loyal Wingman concept",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSb2lKUDJkN0hfX0FrX2dtUkdTeGQtQlBSQ3dZLWFiYVE0VzZiamFJZUZWRXdXRjBSLTk0Y1RMYnhhRENkeGtFWUxLUDBrS254TnRLZGY3LUNXNEdFRzZPZnBmdXlXTVVCYWxpd051RWRMR25idWVyd000TUdCeTA?oc=5",
-      "source": "New Atlas",
-      "published": "2026-08-24T05:08:49Z",
-      "category": "technology",
-      "region": "Europe",
-      "score": 60,
-      "tags": [
-        "Saab"
-      ]
-    },
-    {
       "id": "d9532a13b941",
       "title": "The L3Harris Shake-Up Is an Opportunity to Bet on Missile Rearmament",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -422,6 +408,20 @@
       "score": 59,
       "tags": [
         "Palantir"
+      ]
+    },
+    {
+      "id": "2efcf51e994b",
+      "title": "Saab goes supersonic with next-gen Loyal Wingman concept",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSb2lKUDJkN0hfX0FrX2dtUkdTeGQtQlBSQ3dZLWFiYVE0VzZiamFJZUZWRXdXRjBSLTk0Y1RMYnhhRENkeGtFWUxLUDBrS254TnRLZGY3LUNXNEdFRzZPZnBmdXlXTVVCYWxpd051RWRMR25idWVyd000TUdCeTA?oc=5",
+      "source": "New Atlas",
+      "published": "2026-08-24T05:08:49Z",
+      "category": "technology",
+      "region": "Europe",
+      "score": 59,
+      "tags": [
+        "Saab"
       ]
     },
     {
@@ -509,17 +509,18 @@
       ]
     },
     {
-      "id": "0f9212d74b2d",
-      "title": "Defense contractor pulls out of Seattle shipyard, but not the city",
+      "id": "9d487eb03374",
+      "title": "US Moves to Ramp Up SM-3 Interceptor Production With Boeing, RTX Deals",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRU50VVIwNFlHUl90alVZNnprOUItN0kzOF9FY1dRQ3ZFRDZsaG9RVVFEMUFfdDNONDhISU1LbXVxaDRzRGFXNTExUmVUOXNsSWlpY3dpbGpWdUhKYUV2TWhZeW91WGh3RXMydzZaWGx5bzdJaldLWHJqMXJlcGtLd1VIWWpicFJCUXdnaWU0ZDRWcm83Rm9qYlE4Q05hOXgwQkowWmZBUlM4cjRlTVU0andPcl9zbmIteFE?oc=5",
-      "source": "The Seattle Times",
-      "published": "2026-08-21T22:56:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zR1dpWTE2VzA0YUlFSTFRZEtZRE8xZ3NVSzVpQjY2YnRENFlRWk54WFRJdXpqeXhmbXJnMy1MQjRzUGFyVlQ0YTV3OHlpV0pIU2t3M2NOR0x1R3VrYmtwWUVXbV9La0NyUkHSAW9BVV95cUxOb3BOZnl0MDVfZ2xLUmtfZXpRN2wzN01JWG9Tb1dyX2VxR3MwQnBmMk8xazZseXMyS2FkX0ZkYXA4ZURHOUp3QzFZMWhXYWc3MkcxamszUW01cG5WMmR5VElXMGh1RDRDTXBPemVyOEk?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-08-17T07:00:00Z",
       "category": "companies",
       "region": "North America",
       "score": 58,
       "tags": [
-        "Companies"
+        "RTX",
+        "Boeing"
       ]
     },
     {
@@ -636,21 +637,6 @@
       ]
     },
     {
-      "id": "409ec002792b",
-      "title": "Can ChapsVision Become Europe’s Answer to Palantir?",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HaGRWeTlNZWZhUVl2WDV6NzRfdk5YTnJQeU12R3RtZGowU054MWdZSFloZ2R0UHNjN0JPY1JsejFCbF9hdzNDSy1Fa1d0Z3Z1MHFhbzJscnh3ZWVoTW5mT3Y0b1lWRVdXcjVGcGJBckd3dw?oc=5",
-      "source": "European Business Magazine",
-      "published": "2026-08-25T09:10:03Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 55,
-      "tags": [
-        "ChapsVision",
-        "Palantir"
-      ]
-    },
-    {
       "id": "cc36845be272",
       "title": "Hanwha Aerospace Solely Selected for U.S. Army Howitzer Modernization",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -749,6 +735,21 @@
       ]
     },
     {
+      "id": "409ec002792b",
+      "title": "Can ChapsVision Become Europe’s Answer to Palantir?",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HaGRWeTlNZWZhUVl2WDV6NzRfdk5YTnJQeU12R3RtZGowU054MWdZSFloZ2R0UHNjN0JPY1JsejFCbF9hdzNDSy1Fa1d0Z3Z1MHFhbzJscnh3ZWVoTW5mT3Y0b1lWRVdXcjVGcGJBckd3dw?oc=5",
+      "source": "European Business Magazine",
+      "published": "2026-08-25T09:10:03Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 54,
+      "tags": [
+        "ChapsVision",
+        "Palantir"
+      ]
+    },
+    {
       "id": "830ba3a47708",
       "title": "ChapsVision Aims to Compete with Palantir in Europe",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -828,7 +829,7 @@
       "published": "2026-08-26T16:30:24Z",
       "category": "companies",
       "region": "Middle East",
-      "score": 53,
+      "score": 52,
       "tags": [
         "Elbit Systems"
       ]
@@ -848,34 +849,6 @@
       ]
     },
     {
-      "id": "a92d1f2f2f3e",
-      "title": "BAE Systems Lays Keel for Royal Australian Navy’s First Hunter-Class Frigate",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2lJSmRYM3dUNThwcm9jai1DOURCVWhtM0dsRlVNYkstX2NTV2pST08tazNwYW9XYlRVT2NPVUlqOE1TR1l4S2RGRWVMTmJQN1VzdnZEZy1nR3Vnam9WLW00WkFJTU1iT2U1RU5lNE4xUEdjWWR2NmFZZmlyXzBFZnBhNNIBiAFBVV95cUxQbTh1dFZrV1VEQnFmdEZIMk9YTmZsWS1kbXpnekJwd2lOemRaS0F0cGRURE51REhYV1hndkE0WHNkSkhZZzIwWWtIcHhXVktNLWxnbjFQZFhTbEY5STI5bWpVTW9fdXY4Ylp5Rm54NUs2QktNQ0xldHg3TlZUNnZXV1pTeXpleGl4?oc=5",
-      "source": "The Defense Post",
-      "published": "2026-08-25T10:59:27Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 52,
-      "tags": [
-        "BAE Systems"
-      ]
-    },
-    {
-      "id": "feceae0507b5",
-      "title": "Airbus, Thales to Build Military Communications Satellite for Spain",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNencxOWtwdHVqSzVWdzNnbHpPV3VGQWxCM3J2VGVlVFFMMk9LeVo2VVFQX0xTdzYzN3FkY0NGYXBQMU9rRlVEdzRLdWRpUDVVZkwxa2dOMm8weDVKcUxDN2prZHVYZlVJb0pTdnYxQ1RmZ1FNZFRfMTVJU0prS1NkZ2M1Y9IBiAFBVV95cUxPcWxsdnBtcEx6OEZtWVRLcGVKaFhwbVZ5WHlwd0xTRU52TGlCQkxRYk5iVEJfb2VPTVJvOHczanpxZm92X1ppQWFKLWxHc2FBSUtQYWZBRHJpZWMyS0FMZFdocmQ0WkFaUjV3eWV0TEhza1pxRmtKQUJtY0FoR0pXdERndjJjNUFs?oc=5",
-      "source": "The Defense Post",
-      "published": "2026-08-03T07:00:00Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 52,
-      "tags": [
-        "Thales"
-      ]
-    },
-    {
       "id": "ac4840642612",
       "title": "VW, Rafael Revive Talks to Produce Iron Dome Parts in Germany",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -887,6 +860,20 @@
       "score": 51,
       "tags": [
         "Companies"
+      ]
+    },
+    {
+      "id": "a92d1f2f2f3e",
+      "title": "BAE Systems Lays Keel for Royal Australian Navy’s First Hunter-Class Frigate",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2lJSmRYM3dUNThwcm9jai1DOURCVWhtM0dsRlVNYkstX2NTV2pST08tazNwYW9XYlRVT2NPVUlqOE1TR1l4S2RGRWVMTmJQN1VzdnZEZy1nR3Vnam9WLW00WkFJTU1iT2U1RU5lNE4xUEdjWWR2NmFZZmlyXzBFZnBhNNIBiAFBVV95cUxQbTh1dFZrV1VEQnFmdEZIMk9YTmZsWS1kbXpnekJwd2lOemRaS0F0cGRURE51REhYV1hndkE0WHNkSkhZZzIwWWtIcHhXVktNLWxnbjFQZFhTbEY5STI5bWpVTW9fdXY4Ylp5Rm54NUs2QktNQ0xldHg3TlZUNnZXV1pTeXpleGl4?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-08-25T10:59:27Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 51,
+      "tags": [
+        "BAE Systems"
       ]
     },
     {
@@ -1001,6 +988,20 @@
       "score": 48,
       "tags": [
         "Companies"
+      ]
+    },
+    {
+      "id": "c699438488f4",
+      "title": "Thales, Systematic Join Forces to Modernize Denmark’s Air Defense",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMnVSdm5HcktwWUdkNWZXV1BRbGwwM1lNWHY2Z0llb2JsTEFLNlNGN3BJb0ZDX3FuTHo4YmlHaU4zbEt5UUYtTlZXZ2JDQ0xGV3c3SUFDSjkycndINlpIYkoxNkxVUnZzWlVzTFdtZmZXZW85cGtTTlVEcU9pNHZqc0xB0gGHAUFVX3lxTE15S2YydWJJOS0zSTUyNUo2TWJOREFDb1hmcjUtaEtJV1VDejdweHliREwwS1Z3aE9uRk5vakNpQ2dIRjBMZW1PTnZ3al93MG1rZjYwbGE0Q0VfU3hSeVJKVzNnc01jcDRnMHhxZWdzVXJNRUNYVzBsT0tEaGZFNEtaUHRkOUJFaw?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-08-20T07:00:00Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 48,
+      "tags": [
+        "Thales"
       ]
     },
     {
