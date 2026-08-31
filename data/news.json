@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-30T21:08:10.146388Z",
+    "updated_at": "2026-08-31T05:38:40.904445Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -125,7 +125,7 @@
       "published": "2026-08-27T21:11:22Z",
       "category": "contracts",
       "region": "Global",
-      "score": 73,
+      "score": 72,
       "tags": [
         "Contracts"
       ]
@@ -187,17 +187,17 @@
       ]
     },
     {
-      "id": "26213f5dad64",
-      "title": "Pentagon policy chief tells NATO allies U.S. wants European-led defense of continent",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2dVSDlIWW92Mnh1a093bndvRldHRlAxNXJVTFJPNFpVU0xyQlk1aUFOSEJLUklRQmpPQnBxRzBOYnJMd3ZlRVhSWmc0MTdXTUoxc3JQZTVOZXk2b1pQTWdGdGZfUDh2cWhKZU9RcHdvTlMzZ3lxQjJuY1B5S242LXM5T3FSb2hueWU2NmlwLS1LWmNoQjNUWURqS1RnVG1wX3lBelAxSjRObkFGRUl1YmtwN0RzZGJxdWJITUVGNDhJOUFxMEhUdkR1UDBhck9LcUxISUt3ejY4QQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-27T20:32:00Z",
-      "category": "policy",
+      "id": "39779c73999e",
+      "title": "Contracts for Aug. 25, 2026",
+      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeU5WZkx6dk9EakZqT09DcWIzVm9qYWgtOElZSGd5bG9MTVpSbHoyWUpLMjFQOHM5WWlEeWRzWlNJUWhNai0xT0NTZnVjbThrX1pKWllRX2FRZmdyWWYyOUtVcldjZ0RLSFZNdFBqRC11QzlSLXpPSF9wdWlzREJMaXRYdjk4eHlmOEk4TEQ2Yw?oc=5",
+      "source": "U.S. Department of War (.gov)",
+      "published": "2026-08-25T21:23:23Z",
+      "category": "contracts",
       "region": "Global",
       "score": 71,
       "tags": [
-        "Policy"
+        "Contracts"
       ]
     },
     {
@@ -209,7 +209,7 @@
       "published": "2026-08-30T10:11:08Z",
       "category": "companies",
       "region": "North America",
-      "score": 67,
+      "score": 66,
       "tags": [
         "Palantir"
       ]
@@ -223,7 +223,7 @@
       "published": "2026-08-30T12:47:32Z",
       "category": "companies",
       "region": "North America",
-      "score": 66,
+      "score": 65,
       "tags": [
         "RTX"
       ]
@@ -265,7 +265,7 @@
       "published": "2026-08-27T23:19:35Z",
       "category": "companies",
       "region": "North America",
-      "score": 65,
+      "score": 64,
       "tags": [
         "General Dynamics"
       ]
@@ -327,12 +327,26 @@
       ]
     },
     {
+      "id": "38a15bbb23a6",
+      "title": "Saab B stock steadies as Finnish order lifts defense case",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUtITUxlMEVvNlhDMjZoVG9NRS1IYXJYYmh5RVRUTXpXOXVMNFNBTTJmVXVNcERDeTR2OGp2UlpObHJNcXNHcjRuTnZocGRER0dJUVAtTFQ3MjZ6bm1QWXlCOVJ4NkZzT19vTUNaRi1jMHlRVVZ3Mm8xM1NTdHhrLWV1YjBYZXlmdlh1VnZucEVLYXUwSldLOFBMMzN4aEl6elBNem5tQmZkR193TlBKSjhQUkhBeGFXWGZ4eg?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-08-29T12:56:07Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 60,
+      "tags": [
+        "Saab"
+      ]
+    },
+    {
       "id": "ae637f27b581",
       "title": "Hanwha Aerospace Builds Full Military UGV Lineup, Targets Fully Autonomous Missions by 2035",
       "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFN1JyLVUzTy1tT2FsQVFsVlI5VlF3RmFFRXFobVF3SGZsN3FfSVpZMndEQzliNmE2WHlIZlU4cEZDY0IyLVFfRmNlWFdpZExtOERRNEM0dzNMbWFKNHVocHAxem1oQXFyNllUZXhmOEg0b0dBWlE?oc=5",
       "source": "finance.biggo.com",
-      "published": "2026-08-26T06:44:09Z",
+      "published": "2026-08-26T06:35:00Z",
       "category": "technology",
       "region": "Asia-Pacific",
       "score": 60,
@@ -341,45 +355,17 @@
       ]
     },
     {
-      "id": "527db5d58ef5",
-      "title": "Northrop Grumman stock holds firm as missile defense demand supports outlook",
+      "id": "790154a50c1b",
+      "title": "Federal court blocks Pentagon's AI ban, easing risks for Palantir's key defense program Maven.",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUpPNmVvWGdhYmxaRFRWNV90RVFXcGlvNzYteFg4elI1VzczSWtTdlZTTnc3dElwcFItbzhCa01xZE55aVRPTV9hU2hjbWhhZWhsWFZGNUJVdkt0SzR5eUVCSWhHXzZmX2xlcWJFZ3FjWko2QjBqeGZ4ajFMcXRTclVQTTdWdGZJdnBlX1hjNllEdVU4RGtRcU5KcHpvMTl4RFpQUTBvbUxlNFpYOUVpdkJKYWkzMVl3SVB5ekhsb2NkTV9LQi1tU0dGTQ?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-08-29T06:50:19Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEJ5ckVqWkhJc0dONi1vQnNhUHgyUFNVbjd5cDR3RU9XYThkR2pWZkN2SlJ2T1lJdTFIZ1RzNW9OX0FES0wtc25FVTRKTzNBczExMkZSVlRNdW5SVDhqZUx0UEdWbFhrQXFnczQ5b1FucnZDN1BWSnpjWWFRS0hMa1B2c3N0RkR1Ukp5blZTSHdTVGRMWkdLX2FrU2hiOWVCWFd5bQ?oc=5",
+      "source": "Pluang",
+      "published": "2026-08-29T16:43:02Z",
       "category": "companies",
       "region": "North America",
       "score": 59,
       "tags": [
-        "Northrop Grumman"
-      ]
-    },
-    {
-      "id": "1509aa7d972f",
-      "title": "Saab B stock steadies as SEK 1.2 billion Finnish air-defense order and Gripen F test flight highligh",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVTeE5ELVRsdTkxUHAyeG1uTkQzc19fYjgyTGZIWlR3OFhOOHoxUG5jRGJSX1R5Xy1PaXpFVXY5dHNjYnhqekx2Wl9UMzFqSVFwV2w0eTJ4VUVOWll0WjZyQnZFQzlmNTFPU0RPLTI4NWZvSWVXZkNXcXdZd1NfVWdRT3B4ZWJsc2tBLTVQdzZ1c3lLdEF6MmR6ci1saWU1ZmVFNkRTSHJsOWljZHZDbEVPMVlMT2pqcko4Z0hfNTdZU204ZFVwUDkyV19vZw?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-08-28T16:27:59Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 59,
-      "tags": [
-        "Saab"
-      ]
-    },
-    {
-      "id": "2efcf51e994b",
-      "title": "Saab goes supersonic with next-gen Loyal Wingman concept",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSb2lKUDJkN0hfX0FrX2dtUkdTeGQtQlBSQ3dZLWFiYVE0VzZiamFJZUZWRXdXRjBSLTk0Y1RMYnhhRENkeGtFWUxLUDBrS254TnRLZGY3LUNXNEdFRzZPZnBmdXlXTVVCYWxpd051RWRMR25idWVyd000TUdCeTA?oc=5",
-      "source": "New Atlas",
-      "published": "2026-08-24T05:08:49Z",
-      "category": "technology",
-      "region": "Europe",
-      "score": 59,
-      "tags": [
-        "Saab"
+        "Palantir"
       ]
     },
     {
@@ -388,12 +374,27 @@
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmt5Z2szdkMtcTNjbmVNRWxic1FYaFI3NHBvR0dlMTVUQVRxc0ZKX1gzaTYtcXJIM2hYTjA2OXFsakktMzBMS01IM2oweXk2NVFPaGJjSEFhVGwzY0hNMXdMdTE3LUFxb01iVGlpT3FqZW9vWGVpOFFWdW9lVU1Nek1JbkxxMnJkNGU1UE9SMF84ZkdUYVlVYldkOV8yMjlUYWM0c0FIbXBzbmVjOUh5bTRaNEZBMExtMDZB?oc=5",
       "source": "International Business Times",
-      "published": "2026-08-18T13:33:40Z",
+      "published": "2026-08-18T07:00:00Z",
       "category": "companies",
       "region": "North America",
       "score": 59,
       "tags": [
         "L3Harris"
+      ]
+    },
+    {
+      "id": "2695875836a7",
+      "title": "Europe • ChapsVision seizes on US-Danish tensions to challenge Palantir",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXAzYkY2cnJfTVlnemp4WTNIYmRSd25RSlgyOXNNWUpUNVNLclkwQm9PanFKMG5KbE9xSFV2ZUdETVNCQ09SOUZnOVpJME9SYWxDd1VwbVhncFhob283bVFUM19ORWlIVEMzOE90dzczNWZxTHZoaW5Rdkl2TmNwc2RhVTRNWHF1eDhTNFI0VHl3aFR1SGJBSWRpUmx1NHNVSnJpeW5sYlNRZmlIbVBISUJBM2RBTUpNMVE2M0VTZmx0akxZVGpkZm9uUHl2WVNfZGc?oc=5",
+      "source": "Intelligence Online",
+      "published": "2026-08-31T04:02:30Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 58,
+      "tags": [
+        "ChapsVision",
+        "Palantir"
       ]
     },
     {
@@ -425,13 +426,13 @@
       ]
     },
     {
-      "id": "0eb33d71ae98",
-      "title": "Saab GlobalEye to Replace NATO's E-3 AWACS Fleet",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlh0aDBxcXIxcFNfYVhvQ2FJR3ZrM29lMlk3RG9iZ3hvR0lsb1o5dkFaMEZEdElIQW5qVmdFYm5BUWtMUzBkVFRtR1YwZ1NlSFdOVTE5Nmg3cHcwclhOaU5Ga2Z3MkMzQW9sd1Jvc2pXeGxmVHFNeVA3RmJ4YUJMeA?oc=5",
-      "source": "MiGFlug",
-      "published": "2026-08-25T09:46:54Z",
-      "category": "policy",
+      "id": "2efcf51e994b",
+      "title": "Saab goes supersonic with next-gen Loyal Wingman concept",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSb2lKUDJkN0hfX0FrX2dtUkdTeGQtQlBSQ3dZLWFiYVE0VzZiamFJZUZWRXdXRjBSLTk0Y1RMYnhhRENkeGtFWUxLUDBrS254TnRLZGY3LUNXNEdFRzZPZnBmdXlXTVVCYWxpd051RWRMR25idWVyd000TUdCeTA?oc=5",
+      "source": "New Atlas",
+      "published": "2026-08-24T05:08:49Z",
+      "category": "technology",
       "region": "Europe",
       "score": 58,
       "tags": [
@@ -482,41 +483,13 @@
       ]
     },
     {
-      "id": "9541fb8c37f4",
-      "title": "Lockheed Martin demonstrates AI-powered Guam battle manager combining Aegis and IBCS for faster missile defense decisions",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSkdNZ1RSOEx3ei1qRVI1NU14ZkFRaUFXVkpRTS1LMGVjOGtUemNCZ2RfTEE3TnBBaGRIU2dMMVVHZmI2amktNGZsVVltbEpTWXFveU5jQzZaSmhmMG5taWZMOXdVaS1heGg2elJ6NURKT0RsdU93WnBSV2xoZi1GbWttM1FEX29TVnJUU0VDMHRsdDRDcHVqNjJkZVk2VVRaX1dHOEhEOXA5UTdDdENxV2xuVnVqN212UFgycDEyN0NJcGlmNjlhNEJRMmhPWENieWt0QUExMngycFFpQ2Q2c2Q0Z1g?oc=5",
-      "source": "Defence Industry Europe",
-      "published": "2026-08-26T19:55:19Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 57,
-      "tags": [
-        "Lockheed Martin"
-      ]
-    },
-    {
-      "id": "026e77963249",
-      "title": "Northrop Grumman expects ‘decent share’ of Golden Dome missile defense (NOC:NYSE)",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXBNRHhHTGpiTEM3RGpjbVBFQ0oycVBHT21nNE9ORk93UjRRbV90cHRWVDkxNVluUzlSNDFkU2lmZ1BVcDZoVlFWX2lEUFB5NXZsOENlRW9SSVdfb1RDX0JDbVRGSEpVSGpUQkRsU1pGdktDckVxdWdrZnFodjVrVlRHclZNeUJqT29RMWtYb1dSdkZPSHBNYng2MFFsMS0tUXZQNTgtLWFLQQ?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-26T13:14:35Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 57,
-      "tags": [
-        "Northrop Grumman"
-      ]
-    },
-    {
-      "id": "8e9dc310780b",
-      "title": "Saab shows off loyal wingman drone it hopes to offer Swedish Air Force",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVBOa05KcExLNVFiM043N1Rnbl85UXNGV19xQ0QwakVMQUhZajk2cEJZOXR1bTB6UUszQ2daRHBsR0FaRTFZWXNCN2pPd2taUm9zM1hxdTQ0TFdOdFhibk9WaGtNYlJvcjBLRU5yNzk2MWJ1UnVMYkhHaFcwV0tfT0VSZVhhQ3NKYTJ1cTQ0dm9rcWV5YzNuNFZvc3ZkSnhzNVowX2syNy1ESzQ?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-08-24T18:28:07Z",
-      "category": "companies",
+      "id": "0eb33d71ae98",
+      "title": "Saab GlobalEye to Replace NATO's E-3 AWACS Fleet",
+      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlh0aDBxcXIxcFNfYVhvQ2FJR3ZrM29lMlk3RG9iZ3hvR0lsb1o5dkFaMEZEdElIQW5qVmdFYm5BUWtMUzBkVFRtR1YwZ1NlSFdOVTE5Nmg3cHcwclhOaU5Ga2Z3MkMzQW9sd1Jvc2pXeGxmVHFNeVA3RmJ4YUJMeA?oc=5",
+      "source": "MiGFlug",
+      "published": "2026-08-25T09:46:54Z",
+      "category": "policy",
       "region": "Europe",
       "score": 57,
       "tags": [
@@ -552,6 +525,20 @@
       ]
     },
     {
+      "id": "026e77963249",
+      "title": "Northrop Grumman expects ‘decent share’ of Golden Dome missile defense (NOC:NYSE)",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXBNRHhHTGpiTEM3RGpjbVBFQ0oycVBHT21nNE9ORk93UjRRbV90cHRWVDkxNVluUzlSNDFkU2lmZ1BVcDZoVlFWX2lEUFB5NXZsOENlRW9SSVdfb1RDX0JDbVRGSEpVSGpUQkRsU1pGdktDckVxdWdrZnFodjVrVlRHclZNeUJqT29RMWtYb1dSdkZPSHBNYng2MFFsMS0tUXZQNTgtLWFLQQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-26T13:14:35Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 56,
+      "tags": [
+        "Northrop Grumman"
+      ]
+    },
+    {
       "id": "008d1f003421",
       "title": "Indra achieves a contract of 1.65 million for the armored vehicles of the Army.",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -560,6 +547,20 @@
       "published": "2026-08-21T08:56:00Z",
       "category": "companies",
       "region": "Europe",
+      "score": 56,
+      "tags": [
+        "Companies"
+      ]
+    },
+    {
+      "id": "0f9212d74b2d",
+      "title": "Defense contractor pulls out of Seattle shipyard, but not the city",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRU50VVIwNFlHUl90alVZNnprOUItN0kzOF9FY1dRQ3ZFRDZsaG9RVVFEMUFfdDNONDhISU1LbXVxaDRzRGFXNTExUmVUOXNsSWlpY3dpbGpWdUhKYUV2TWhZeW91WGh3RXMydzZaWGx5bzdJaldLWHJqMXJlcGtLd1VIWWpicFJCUXdnaWU0ZDRWcm83Rm9qYlE4Q05hOXgwQkowWmZBUlM4cjRlTVU0andPcl9zbmIteFE?oc=5",
+      "source": "The Seattle Times",
+      "published": "2026-08-21T07:00:00Z",
+      "category": "companies",
+      "region": "North America",
       "score": 56,
       "tags": [
         "Companies"
@@ -608,20 +609,6 @@
       ]
     },
     {
-      "id": "6b4d3fea16fc",
-      "title": "QinetiQ stock holds steady after recent sector-driven pullback",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWp2blBodmNtNDRCeVNlWUhmWjZtUlVZRFQtZXo1bmNQaEtZRlhRZkhjY3F5SElKeVRtX09zQnFnWE95cmhqUTJIUE5lU0czalNBNmlYOGNvNDJfVTRyWXBTUDJaeVhtQ090NG1uTDZzYUl5ZHBmbFcxT1lSVHNYVWxBa21RNmc3TmJteVpiczJZaWtwemNFbVc2bVczakxISkhTaVYxMjVUa0lyRFpGa19VY3ZPUUs3VVgxYy1ER05rY1E?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-08-29T07:48:52Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 54,
-      "tags": [
-        "QinetiQ"
-      ]
-    },
-    {
       "id": "6416ac4af8f4",
       "title": "Defense: MBDA speeds up in Ukraine, BAE Systems strengthens position in Italy",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -637,36 +624,6 @@
       ]
     },
     {
-      "id": "409ec002792b",
-      "title": "Can ChapsVision Become Europe’s Answer to Palantir?",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HaGRWeTlNZWZhUVl2WDV6NzRfdk5YTnJQeU12R3RtZGowU054MWdZSFloZ2R0UHNjN0JPY1JsejFCbF9hdzNDSy1Fa1d0Z3Z1MHFhbzJscnh3ZWVoTW5mT3Y0b1lWRVdXcjVGcGJBckd3dw?oc=5",
-      "source": "European Business Magazine",
-      "published": "2026-08-25T09:10:03Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 54,
-      "tags": [
-        "ChapsVision",
-        "Palantir"
-      ]
-    },
-    {
-      "id": "830ba3a47708",
-      "title": "ChapsVision Aims to Compete with Palantir in Europe",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3JrUVVSZUFfYXBGT1B1eWNUMTJSYUx3R1BuVjJSU1d4eWtKWWhCM0d3VWVhSkhBRU12ZklVTVkybUZuMU5JYjNqWFBtRWlmOWtGeEI4Q1N1VWQwdVpJNnBHaFJFR2JXd1dEYl82bDQ2dk5pYTRoNDhleXM2aFpJVVRRTV9ZRy1ZUDJWS1YxWVNIMkd4?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-08-25T07:40:04Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 54,
-      "tags": [
-        "ChapsVision",
-        "Palantir"
-      ]
-    },
-    {
       "id": "51d9086a510b",
       "title": "BAE Systems Fined $36 Million Over Defense Export Violations",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -678,6 +635,34 @@
       "score": 54,
       "tags": [
         "BAE Systems"
+      ]
+    },
+    {
+      "id": "6b4d3fea16fc",
+      "title": "QinetiQ stock holds steady after recent sector-driven pullback",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWp2blBodmNtNDRCeVNlWUhmWjZtUlVZRFQtZXo1bmNQaEtZRlhRZkhjY3F5SElKeVRtX09zQnFnWE95cmhqUTJIUE5lU0czalNBNmlYOGNvNDJfVTRyWXBTUDJaeVhtQ090NG1uTDZzYUl5ZHBmbFcxT1lSVHNYVWxBa21RNmc3TmJteVpiczJZaWtwemNFbVc2bVczakxISkhTaVYxMjVUa0lyRFpGa19VY3ZPUUs3VVgxYy1ER05rY1E?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-08-29T07:48:52Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 53,
+      "tags": [
+        "QinetiQ"
+      ]
+    },
+    {
+      "id": "14244b3b338f",
+      "title": "Netherlands Signs Saab Deal for Barracuda Mobile Camouflage Systems",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTlZWd3E4Wnd1SmJQWGJZN0VyRnJDNE1NZURIdFBOZlBCeEF2UmUwUXN2cGpjVzRlYnliRUZKenQzNHBOMWV4SlV0TkRjMmszaGNGREg3Q2tJaTdDVmRjZkIwc1ZaTjA3RWVQbTFzWVFnejJ0UlZUSXFGWmRQT0ctOWJYc0vSAYoBQVVfeXFMTUVJOWotR1MtX0pVdXozRVgxUVo5d0liQjlKaGtaWVhWREl3R2I2aVk5S1VqR1pId0ZRNFZ2YWZSLXJXa0piYWdrTW0xVXRKd3VCdEx5WThNc3dCUTNNMm9XQmc1QmlSczFHRFp4bDhrc05QdkJ5UUpoTlpNck9VWmtfNUZQWXZjbTR3?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-08-29T04:43:12Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 53,
+      "tags": [
+        "Saab"
       ]
     },
     {
@@ -698,9 +683,9 @@
       "id": "4185bd8c13f2",
       "title": "Austal Begins Construction of US Coast Guard’s Third Heritage Cutter",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BVWJoMmlpbmU1MUxLeU9KLWhtUVl2bmhNOXNtM25IWWoxTnRlckVLZGJIQXFTaG91RlVnVVhVTi1PbmdieTIxVUtFWlZCMThHMVRFQTF0U1VnSFFNbzZQRXJMMHBkSVNBTFZpOTUxdVRGaVdXNVhv0gF3QVVfeXFMTUFVYmgyaWluZTUxTEt5T0otaG1RWXZuaE05c20zbkhZajFOdGVyRUtkYkhBcVNob3VGVWdVWFVOLU9uZ2J5MjFVS0VaVkIxOEcxVEVBMXRTVWdIUU1vNlBFckwwcGRJU0FMVmk5NTF1VEZpV1c1WG8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lNllrWDZEUXJuMTl5ZmlOMFpwY191Y3JWdGpudVhUQXRYdmktTThBbjNrb3lQTXloUVpFdXRRbW9fek5yYnIxenR1c3M3MldUYXlUdjlpYXZFMVdKQlMzb1RZeTlEeWo1RzRCeWJ4OGhOd9IBd0FVX3lxTE1BVWJoMmlpbmU1MUxLeU9KLWhtUVl2bmhNOXNtM25IWWoxTnRlckVLZGJIQXFTaG91RlVnVVhVTi1PbmdieTIxVUtFWlZCMThHMVRFQTF0U1VnSFFNbzZQRXJMMHBkSVNBTFZpOTUxdVRGaVdXNVhv?oc=5",
       "source": "The Defense Post",
-      "published": "2026-08-28T15:03:44Z",
+      "published": "2026-08-28T15:00:13Z",
       "category": "companies",
       "region": "Asia-Pacific",
       "score": 53,
@@ -737,45 +722,47 @@
       ]
     },
     {
-      "id": "1f26deb95ad9",
-      "title": "Kratos Defense vs. Elbit Systems: Which One Is the Better Defense Bet?",
+      "id": "70c4357e04ca",
+      "title": "Saab AB",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1ZNVGFGMEZzcmVWT1JCamZLR1g1S1NrX1NyQ0FncDhUdWcxeVdmTkEyUHFOd2EwOHZxRUlPYUFnMmpoY1YzUnc0T3MwRnpOOHpyanQ0R2kxYlVORGZLNGI5ME5xX203WkJrRGxRUmxvZWFoY1hocHlyakx5WWFzVW5fakhUTHZFWEFrb0c3ZV9rM2xSOXMtaUZLbXE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-27T12:00:00Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 52,
-      "tags": [
-        "Elbit Systems"
-      ]
-    },
-    {
-      "id": "d8352b7e9341",
-      "title": "BAE Systems advances U.S., Swedish, Australian defense programs (BAESF:OTCMKTS)",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXROaURyM0ozZ1BqNkZhR09PWk9hcTRGdlVqbllUQkVqbFM2Vzh6MjcxQnJhS0tqazl4dkRudmVHRlA5b0NxMDJJVkNHeDFrb2hscmt6M3RXdElPekNoX0xQaFBuZjBEWnpGRmxNSFRPaEVhV1FEQ2JpS2hXeHgtcWxSYVowdWx6NGxNeTNxNUtCRHIxNHI5ZE9uWWFtU3M?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-26T18:44:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCVjNiQ2JvbWVzMlFiVnY2SUhmdF84UzV6QjFSR3RsYndzM0FEWFBZTEVaMTBUUVFqT05GWEFZTEFmNHhHUi1PUzVqWmVKcmUtRWc?oc=5",
+      "source": "Britannica",
+      "published": "2026-08-28T07:00:00Z",
       "category": "companies",
       "region": "Europe",
-      "score": 52,
+      "score": 53,
       "tags": [
-        "BAE Systems"
+        "Saab"
       ]
     },
     {
-      "id": "5c6432eb136b",
-      "title": "Elbit Systems’ Airborne Laser Could Become a Major New Defense Business",
+      "id": "409ec002792b",
+      "title": "Can ChapsVision Become Europe’s Answer to Palantir?",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHowR3ZSZTB2SVdYdnFzc3U3MGd3R2swQ09xTV83cWdLZDlIVVZ3bjNENnBaMzZHTHpnWXNHcUxvazJXUVdNbERGOUxmRV8zd3JfU011ZHB5eTJPNHA4NVk1Q2hXSURDM2Z6cndDb09YbTFROEdCVHF0SmlQRjdyb3o0dkZMbmo4b0p3YUFVSWEzOVJ1S29qTkdjUEc5dFdyY2tVUjZPd1dCeVc3alA5RHJGdw?oc=5",
-      "source": "Clearance Jobs",
-      "published": "2026-08-26T16:30:24Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HaGRWeTlNZWZhUVl2WDV6NzRfdk5YTnJQeU12R3RtZGowU054MWdZSFloZ2R0UHNjN0JPY1JsejFCbF9hdzNDSy1Fa1d0Z3Z1MHFhbzJscnh3ZWVoTW5mT3Y0b1lWRVdXcjVGcGJBckd3dw?oc=5",
+      "source": "European Business Magazine",
+      "published": "2026-08-25T09:10:03Z",
       "category": "companies",
-      "region": "Middle East",
-      "score": 52,
+      "region": "Europe",
+      "score": 53,
       "tags": [
-        "Elbit Systems"
+        "ChapsVision",
+        "Palantir"
+      ]
+    },
+    {
+      "id": "830ba3a47708",
+      "title": "ChapsVision Aims to Compete with Palantir in Europe",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3JrUVVSZUFfYXBGT1B1eWNUMTJSYUx3R1BuVjJSU1d4eWtKWWhCM0d3VWVhSkhBRU12ZklVTVkybUZuMU5JYjNqWFBtRWlmOWtGeEI4Q1N1VWQwdVpJNnBHaFJFR2JXd1dEYl82bDQ2dk5pYTRoNDhleXM2aFpJVVRRTV9ZRy1ZUDJWS1YxWVNIMkd4?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-08-25T07:40:04Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 53,
+      "tags": [
+        "ChapsVision",
+        "Palantir"
       ]
     },
     {
@@ -807,17 +794,31 @@
       ]
     },
     {
-      "id": "25770cf3d343",
-      "title": "Ericsson, Kongsberg, Nokia, Saab, Patria Join Nordic Defense Initiative",
+      "id": "d8352b7e9341",
+      "title": "BAE Systems advances U.S., Swedish, Australian defense programs (BAESF:OTCMKTS)",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFlxZVhybXJHb3Q0MlVtYUdQSWtNejZXV19fLU9OUDJyOU12bUV1OUQxNnI4dllnRGpVSDlBUEh6NXJ4a2F6RzBpSHp4ZUoyNzdJYXU1cms2Tlh3X2NILUpZSndmME1jSWlDRnduekZkS29idkhpY2JnSFJ0OUhld0ZqTjNTMnl3Ym9XRDNHY1FmRVduSWpYdzFUdV9wdkpTTjN3V3VoTnc1TEV6RUFuTTFYbVpMS2R0UnNrVg?oc=5",
-      "source": "marketscreener.com",
-      "published": "2026-08-26T10:22:19Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXROaURyM0ozZ1BqNkZhR09PWk9hcTRGdlVqbllUQkVqbFM2Vzh6MjcxQnJhS0tqazl4dkRudmVHRlA5b0NxMDJJVkNHeDFrb2hscmt6M3RXdElPekNoX0xQaFBuZjBEWnpGRmxNSFRPaEVhV1FEQ2JpS2hXeHgtcWxSYVowdWx6NGxNeTNxNUtCRHIxNHI5ZE9uWWFtU3M?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-26T18:44:50Z",
       "category": "companies",
       "region": "Europe",
       "score": 51,
       "tags": [
-        "Saab"
+        "BAE Systems"
+      ]
+    },
+    {
+      "id": "5c6432eb136b",
+      "title": "Elbit Systems’ Airborne Laser Could Become a Major New Defense Business",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHowR3ZSZTB2SVdYdnFzc3U3MGd3R2swQ09xTV83cWdLZDlIVVZ3bjNENnBaMzZHTHpnWXNHcUxvazJXUVdNbERGOUxmRV8zd3JfU011ZHB5eTJPNHA4NVk1Q2hXSURDM2Z6cndDb09YbTFROEdCVHF0SmlQRjdyb3o0dkZMbmo4b0p3YUFVSWEzOVJ1S29qTkdjUEc5dFdyY2tVUjZPd1dCeVc3alA5RHJGdw?oc=5",
+      "source": "Clearance Jobs",
+      "published": "2026-08-26T16:30:24Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 51,
+      "tags": [
+        "Elbit Systems"
       ]
     },
     {
@@ -832,6 +833,20 @@
       "score": 51,
       "tags": [
         "Leonardo"
+      ]
+    },
+    {
+      "id": "1909ff564547",
+      "title": "SIATT Begins Operations at New Facility for Strategic Defense and Space Systems",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmZhazFfX3F0WDZVVjUtVlc4bDZwNWt2S1FZaDBuN0g0a3dSQTh0eE5CckVHREkyTkoyQi1rd1lrekVHNFlaSE03eHFKMzhnMVNJSkFFZkpwRktETm5zSDk2dUZINlVXckk5MlRXYzVqV3pXTmRVWjNtWUZPY3RaWXJQYUpoYzRwclJuM1FKSkxPWUtMUXdvZnpQaUFjalZIS3J6VDJ1bno5NVZkQ0dmTmZnZWdRUdIBuwFBVV95cUxOejczTExldk9NRWZEV1l6VGdiSmx5YkZNWUJFU0FGc2hPUno2SlFTeVg2clJkOTdZMzVLMjVOcHNtUk1XaEJqdVV1OV9EcXUyVnFfNm9qRTZ0OTc3QXZVWk1xMF9ISjNFUTk1RGV4R0hKTmtQdnJldzBDTi15T3VfU21wNldpUU1hZVp1WjJhQ2pvQ01SZE4ybWY1dWhLaUlaVm9tc3dHSXB4QVBxWlpvLTAtTk8xRkFsNWFF?oc=5",
+      "source": "MundoGEO",
+      "published": "2026-08-28T21:47:00Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 50,
+      "tags": [
+        "Companies"
       ]
     },
     {
@@ -860,20 +875,6 @@
       "score": 50,
       "tags": [
         "Austal"
-      ]
-    },
-    {
-      "id": "101f7979f177",
-      "title": "Despite FCAS Failure, Safran & MBDA Show Europe’s Defense Champions Are Learning to Cooperate: OPED",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFc5aDlkLVFOQnJpNlRLcEdXSFVHRXQ3NktQMDJieHhUd1ppSm5fUW9zQlRKd1JCaVlIRm1aT1g4NVVBRTMwT0VyUWhMNktYRXhJaHB4blk1aUJ2d3NadWI2SDBnWlo0cW5UNlhsUTJyOXVLeFphVGxNSmhRRm5oUnhhME9FUUhQUUkyMW92ZFlMa2pKU0YzTFFvS1hKeElnUjg3ZUMwVDlySXpDYnRta2JRM19JYkVaM1pEZlU2WkZsYTlh0gHEAUFVX3lxTE9EVzloOWQtUU5Ccmk2VEtwR1dIVUdFdDc2S1AwMmJ4eFR3WmlKbl9Rb3NCVEp3UkJpWUhGbVpPWDg1VUFFMzBPRXJRaEw2S1hFeElocHhuWTVpQnZ3c1p1YjZIMGdaWjRxblQ2WGxRMnI5dUt4WmFUbE1KaFFGbmhSeGEwT0VRSFBRSTIxb3ZkWUxrakpTRjNMUW9LWEp4SWdSODdlQzBUOXJJekNidG1rYlEzX0liRVozWkRmVTZaRmxhOWE?oc=5",
-      "source": "EurAsian Times",
-      "published": "2026-08-24T07:13:45Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 50,
-      "tags": [
-        "MBDA"
       ]
     },
     {
@@ -949,12 +950,12 @@
       ]
     },
     {
-      "id": "27c5b5cd215f",
-      "title": "Wisconsin football: Projecting the two-deep depth chart for the Defense",
+      "id": "655ed8b051f0",
+      "title": "Position Preview: Defensive Leaders Return for UC Davis",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTdZaDRhQkFnLWE0aU5LeTEwREs4eTB2a21hQW5LRFBEYkduT2w5WTVjWmtKbVlVeUhvdTFXcVZzcTdHNzJESHY3QTE0NExOU01yTHp6Qk10OURMQ1ZidzVoMUFqNlhlN1NHdk1yQTZLTVR1dThXZ0oxZThpendzd3I1QmNUV3E4dUFybWs1ZFNVQS11REJRVEI1Nm5oOFphS1BpaXdHODUzUThBelpZaQ?oc=5",
-      "source": "247Sports",
-      "published": "2026-08-24T11:50:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRmg1YXpXa2tRd1Z4MzJzZVNvOVU5VFhIQ2pCRWJkak5fVnJrTmVsLU1JdW9HZDU0UXFPRExNR2FDSzhTdkxhMU1ITnR5aTdWcW8xb3JkQVZZdw?oc=5",
+      "source": "Sactown Sports 1140 AM",
+      "published": "2026-08-24T13:20:04Z",
       "category": "companies",
       "region": "Middle East",
       "score": 48,
