@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-11T11:24:15.795534Z",
+    "updated_at": "2026-09-11T16:32:07.646054Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -1038,6 +1038,54 @@
   ],
   "contracts": [
     {
+      "award_id": "ocds-b5fd17-ea360090-5bc0-4233-8db4-93a8eb8832d6",
+      "recipient": "XMA Limited",
+      "amount": 102598,
+      "currency": "GBP",
+      "description": "ANPR Equipment -NS",
+      "agency": "The Police and Crime Commissioner for Norfolk",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-09-11T17:27:20+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/3ee2cad8-af34-4ac1-ae57-a2f8ffb723be"
+    },
+    {
+      "award_id": "ocds-b5fd17-c695fdd6-d2f2-4046-81d7-dee5bb382ca1",
+      "recipient": "iRed Ltd",
+      "amount": 39600,
+      "currency": "GBP",
+      "description": "Purchase of Drones",
+      "agency": "West Midlands Fire Service",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-09-11T14:22:01+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/6291ba52-e898-4915-bf97-a63e91755439"
+    },
+    {
+      "award_id": "ocds-b5fd17-14c8c75f-8030-4fe0-8476-d2e28fa901aa",
+      "recipient": "Akhter Computers Limited",
+      "amount": 17973.6,
+      "currency": "GBP",
+      "description": "715899475 - Provision of Secure Air-Gapped Computing Capability for SECRET Information Processing for the Military Court Service",
+      "agency": "Ministry of Defence",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-09-11T13:17:59+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/567b2c43-b42d-497e-855e-69d9766e85c7"
+    },
+    {
+      "award_id": "ocds-b5fd17-18f1cfb6-298f-40fc-8c87-8c83dc7a37b6",
+      "recipient": "Glider Technology Limited",
+      "amount": 1237135,
+      "currency": "GBP",
+      "description": "715765462 - RM1557.14 - Lot 2 -  G-Cloud 14 -  Project SafeSight - CAN",
+      "agency": "Ministry of Defence",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-09-11T12:29:53+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/c72bd5d5-213a-404f-838d-f65af53f1365"
+    },
+    {
       "award_id": "ocds-b5fd17-bef0d42b-568f-415a-a1c1-49dc06f9309f",
       "recipient": "LAGAN AVIATION & INFRASTRUCTURE LIMITED",
       "amount": 16659313.5,
@@ -1072,54 +1120,6 @@
       "record_source": "Contracts Finder",
       "date": "2026-09-09T18:09:42+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/a738f4f2-7aee-4796-aa0a-bcac0661f845"
-    },
-    {
-      "award_id": "ocds-b5fd17-63d935c2-acf3-4578-8d97-907b6f3ef808",
-      "recipient": "Indigo Fitness Limited",
-      "amount": 136000,
-      "currency": "GBP",
-      "description": "715935491 Relocation of Indigo Gym",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-09-08T14:55:42+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/adb31dd2-9eed-4160-ae10-74baea024a18"
-    },
-    {
-      "award_id": "ocds-b5fd17-990c1133-523e-4807-b2bb-8c3676e04a3f",
-      "recipient": "ABCA Systems Limited",
-      "amount": 570000,
-      "currency": "GBP",
-      "description": "Warden Call Systems - supply & install",
-      "agency": "Yorkshire Housing Limited",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-09-08T12:52:36+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/515866dc-71d2-44d4-9885-bb3aad6e7a0f"
-    },
-    {
-      "award_id": "ocds-b5fd17-e60e5d12-367c-4596-ab1c-5e006e62e9b3",
-      "recipient": "OCULAR INTEGRATION LIMITED",
-      "amount": 34313.14,
-      "currency": "GBP",
-      "description": "ENQ1330 - Deployable CCTV 2026",
-      "agency": "DERBY CITY COUNCIL",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-09-08T12:47:06+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/e8592e43-4e6d-4f61-9d28-02e7f72c7165"
-    },
-    {
-      "award_id": "ocds-b5fd17-dbf08388-854d-42f1-8044-b1023c5d750e",
-      "recipient": "Mitie FM Ltd",
-      "amount": 1077000000,
-      "currency": "GBP",
-      "description": "Workplace Services - Security Guarding",
-      "agency": "Department For Work and Pensions",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-09-07T09:59:18+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/4f4d3b82-accb-463d-8121-cf24f3d2375b"
     },
     {
       "award_id": "ocds-b5fd17-99627a40-2826-49d3-b485-10c1f6cb508f",
