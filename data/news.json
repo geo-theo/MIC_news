@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-23T11:41:55.453136Z",
+    "updated_at": "2026-10-23T17:12:18.227526Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -1030,6 +1030,18 @@
   ],
   "contracts": [
     {
+      "award_id": "ocds-b5fd17-632c52fe-ffcb-4dba-a455-e15a71c5d456",
+      "recipient": "Laerdal",
+      "amount": 37338,
+      "currency": "GBP",
+      "description": "Supply of  paediatric patient simulator - A Call-off from NWUPC awarded framework agreement Medical Simulation and Training Equipment LAB3032 NW (Lot 1 Simulation Manikins and Ancillary Products)",
+      "agency": "LEEDS TRINITY UNIVERSITY",
+      "jurisdiction": "United Kingdom",
+      "record_source": "Contracts Finder",
+      "date": "2026-10-23T17:17:38+01:00",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/8066c7e0-b3c3-4b8a-b7c8-70a4122af426"
+    },
+    {
       "award_id": "ocds-b5fd17-aa1b7c21-d4ce-435c-a4cb-d985aaeedb0a",
       "recipient": "Affinitext UK Limited",
       "amount": 70000,
@@ -1112,18 +1124,6 @@
       "record_source": "Contracts Finder",
       "date": "2026-10-22T11:33:15+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/fef6d157-ffd1-4def-8b9f-bb171a754bd8"
-    },
-    {
-      "award_id": "ocds-b5fd17-47d01352-27e5-43d7-a0e2-869f36cbe262",
-      "recipient": "Ser Contractor Limited",
-      "amount": 1380740.54,
-      "currency": "GBP",
-      "description": "CONTRACT AWARD NOTICE - FDIS - Kinloss Whole House Refurbishments to 23 properties - FY2026/27 - Amey North Region - Scotland",
-      "agency": "AMEY DEFENCE SERVICES LIMITED",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-09-28T14:33:00+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/e1e45d76-cf3d-4785-9b3f-506494716e48"
     },
     {
       "award_id": "W912QR26CA035",
