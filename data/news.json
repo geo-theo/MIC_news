@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-25T16:24:49.233574Z",
+    "updated_at": "2026-10-25T20:53:02.091082Z",
     "article_count": 72,
     "contract_count": 16,
     "sources": [
@@ -47,34 +47,6 @@
       ]
     },
     {
-      "id": "87ff1c0f00fc",
-      "title": "Lockheed Martin strikes 10-year deal with Pentagon for at least 850 F-35 fighter jets",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemFiTWhBZ29zc05xZW9KX0RORDdQRVRxUHJrT2VkaHppYkpKZEQ1WWZlTVNURDBNb1JhRnVVM0V2OE15RkhpVUI3S3lQMmhWSzN0U0JYMFJIaGtkM0VqdTMzbmxEX1d3aUduZG83TElmRloyQ2o0N1NYVU85M0VIM3pLWTNyZUF1QUIta3gxODl1Xy01aUZTTGRyZ3FBSjlnZjMxZkpJb1B4QdIBqgFBVV95cUxOemFiTWhBZ29zc05xZW9KX0RORDdQRVRxUHJrT2VkaHppYkpKZEQ1WWZlTVNURDBNb1JhRnVVM0V2OE15RkhpVUI3S3lQMmhWSzN0U0JYMFJIaGtkM0VqdTMzbmxEX1d3aUduZG83TElmRloyQ2o0N1NYVU85M0VIM3pLWTNyZUF1QUIta3gxODl1Xy01aUZTTGRyZ3FBSjlnZjMxZkpJb1B4QQ?oc=5",
-      "source": "Mathrubhumi English",
-      "published": "2026-10-22T13:39:56Z",
-      "category": "contracts",
-      "region": "North America",
-      "score": 81,
-      "tags": [
-        "Lockheed Martin"
-      ]
-    },
-    {
-      "id": "d89a90fc89c1",
-      "title": "Leonardo DRS wins 10-year NASA SEWP VI procurement contract",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVU0NnJaLWN2WHJVeU9qbzFYOFRVY0xtUkZqSEN6Wklwd3dpTk1IWDhYd3lOQ0lCV1UyaGdidi1wVFM4cjFDaFF4Rzc5d0ZVYndtdWNyS25XTjJKMWI0MzhCRGpNS3FZcXZuZ0N3NF9hdkdHbUdiMXZTOHJFWW1oQV9lVU5hR1ktV1ctVDFoLXVxYkdWOUdlakFGVGwxbFVvekxaZDJ6aUxJTGp3TUYtVXMtMjQ5QWppeU9oOHN4SQ?oc=5",
-      "source": "Military Aerospace",
-      "published": "2026-10-16T08:33:41Z",
-      "category": "contracts",
-      "region": "Europe",
-      "score": 80,
-      "tags": [
-        "Leonardo"
-      ]
-    },
-    {
       "id": "f23d7ab18b93",
       "title": "Wes Streeting: UK Must Overhaul \"Obsolete\" Defence Procurement",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
@@ -91,15 +63,29 @@
     {
       "id": "c629ed7affbb",
       "title": "Elbit Systems Awarded $235 Million Contract for Rocket Artillery in Europe",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56RW9XZGNyWDdxYWFFY0V1Q0VCWkVvRVBhNnVCT3RCRE43dlA0TEVMTlRuSzhOOEF0UkxuWGYzQ1JKNWVGV3ZveEMyZkJCM1ZIc0hWbXhOTkg?oc=5",
       "source": "Israel Defense",
       "published": "2026-10-19T07:04:04Z",
-      "category": "contracts",
+      "category": "companies",
       "region": "Middle East",
       "score": 79,
       "tags": [
         "Elbit Systems"
+      ]
+    },
+    {
+      "id": "d89a90fc89c1",
+      "title": "Leonardo DRS wins 10-year NASA SEWP VI procurement contract",
+      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVU0NnJaLWN2WHJVeU9qbzFYOFRVY0xtUkZqSEN6Wklwd3dpTk1IWDhYd3lOQ0lCV1UyaGdidi1wVFM4cjFDaFF4Rzc5d0ZVYndtdWNyS25XTjJKMWI0MzhCRGpNS3FZcXZuZ0N3NF9hdkdHbUdiMXZTOHJFWW1oQV9lVU5hR1ktV1ctVDFoLXVxYkdWOUdlakFGVGwxbFVvekxaZDJ6aUxJTGp3TUYtVXMtMjQ5QWppeU9oOHN4SQ?oc=5",
+      "source": "Military Aerospace",
+      "published": "2026-10-16T08:33:41Z",
+      "category": "contracts",
+      "region": "Europe",
+      "score": 79,
+      "tags": [
+        "Leonardo"
       ]
     },
     {
@@ -119,6 +105,20 @@
       ]
     },
     {
+      "id": "a812d3e607ba",
+      "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWd5VzYxUDhnak5qN2tKa3pBM243NHYteURrY0JGMzMtQ19PejdoR0ZBdXJMY0lGLV92dUozM1lLTzFLSzAzVW55TmdFWFVJeGU0cUdLaHNJSFc5bkZEa2gwVnEtQ0tCMWpZS0NRQXA3STBEdW45TkVORWFhWHBwQ1EwTURvYmVNMHVtWFdQTExQOWNWTFdmT0tKZFNSd3llYkVPcWRpMEFTY2JSNElMeDF0bGxYQlJwaXN2VDkyd1UzLUVuTV9ITzgzWkwzb3c0bm5hSw?oc=5",
+      "source": "Defense News",
+      "published": "2026-10-13T07:00:00Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 77,
+      "tags": [
+        "Anduril"
+      ]
+    },
+    {
       "id": "937d45f55368",
       "title": "Security Vessel News Roundup | October 20 – US foreign military sales boat orders, German naval infantry craft and more",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
@@ -127,7 +127,7 @@
       "published": "2026-10-20T02:03:16Z",
       "category": "contracts",
       "region": "Global",
-      "score": 77,
+      "score": 76,
       "tags": [
         "Contracts"
       ]
@@ -175,6 +175,20 @@
       ]
     },
     {
+      "id": "94d537ac34eb",
+      "title": "Hypersonic, rocket motor production gets $21.2 million in US funding",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk5RZ3dicTBuRFVudmdaSmExaGNGTExqMHpEZERRcm1BNy0xSEhwTTlFa2JIRFRBenkzX2Z6Sno3ZWZ5bHF6SFpOU3ZGMU1RUDNwZjdFbURXTk9SWF9HbFJqUUplcjZZYnFnTHVsNmphLTEtRHNCZDhxUVI1bXlEOTdJTkRqMXRScXd2VzByY0lZZVZibXE0UW9FVzNmZEdi?oc=5",
+      "source": "Interesting Engineering",
+      "published": "2026-10-23T17:39:00Z",
+      "category": "technology",
+      "region": "Global",
+      "score": 73,
+      "tags": [
+        "Technology"
+      ]
+    },
+    {
       "id": "45e2bf98ab2f",
       "title": "Defence disputes in arbitration",
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
@@ -186,6 +200,34 @@
       "score": 73,
       "tags": [
         "Contracts"
+      ]
+    },
+    {
+      "id": "4047c188fd32",
+      "title": "Australia marks missile, cyber ‘firsts’ in exercise with Indonesia",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVE03aGJSYm5uOGJOS05CdnlzOG5Kc2pGTnlUZU14YWdLeW1Fc1pKQ1lHVWlkV3otWEZvMUlkQkhSbVlDc01ZMXh0OWlrVEtFSFhPbmxMdG9FMjBseHVGTkJTVG9sODIzUjVwSmpzcGNQMzZTTkNvdTJCNmQzYTZqVDV6ZFZsd25SVmhaczFXYmZHUy1jemJ2SC03V1pPbmt5ZXc?oc=5",
+      "source": "Breaking Defense",
+      "published": "2026-10-21T18:51:45Z",
+      "category": "cyber",
+      "region": "Global",
+      "score": 73,
+      "tags": [
+        "Cyber"
+      ]
+    },
+    {
+      "id": "8e4e1121ab8e",
+      "title": "EU Allocates $195M to Boost Missile, Drone, Ammunition Production",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MN3NYLW0xaVJSNXVJRWd1V2xDLTNVdWdfbl8xSV9UWF9UQUdwQ2lIMTduSTRJV0tzazNjVFVPRnFTaHdmRU55dXFlaWMtYWZyeGhXVDhmdFYzVnJVRnk0TDdPYWZoWldyeHhHNzNfZGhqOUNxM2ZXWkNVb9IBgAFBVV95cUxQMkdqZnRKSU55a19LZzduU2NzTENIT0syUTlINDhTQ1AzQ0lNbVY3cG1sbGx3X2lwYmRvLUNzRWtHS25XMHR3MGJEUVlkTnBFeFpuNVY4QVY3ZEtlNG05eDd5Y2pJblhpZGlJbU02RDNlQ2hpLXZHVzJGOE1yUWlWOA?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-10-20T15:25:25Z",
+      "category": "cyber",
+      "region": "Global",
+      "score": 73,
+      "tags": [
+        "Cyber"
       ]
     },
     {
@@ -217,6 +259,20 @@
       ]
     },
     {
+      "id": "f01050504428",
+      "title": "Ukraine’s SkyFall supplies inteceptor drones to Japan",
+      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGM2M3N6Qld2VFJveV9KYXU0S05IUzVxT1EyMHpiTk1wRmNyOVgzZlNtNjdYZzlWeFVDemZtWVJucndVbFh2cGhmTzZZQ1NTU1N6WHcwTms3X3lrUG56ODhwelNoZUROY3NraTRseWdDNHpXM3pqNWlKNmlIcGNZMDFSbklBTDdWU1ZJWmlfUFdqVzhVVE1oVG1NcF9GX0NDMlE?oc=5",
+      "source": "Australian Defence Magazine",
+      "published": "2026-10-22T00:24:09Z",
+      "category": "contracts",
+      "region": "Global",
+      "score": 72,
+      "tags": [
+        "Contracts"
+      ]
+    },
+    {
       "id": "a618533d6863",
       "title": "Willis builds global defence practice as NZ's procurement rules open supply chain opportunities",
       "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
@@ -245,34 +301,6 @@
       ]
     },
     {
-      "id": "3bff285f845c",
-      "title": "Swiss government acknowledges failings in F-35 purchase and agrees procurement reforms",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUdqNldVYndTYy1wWDFvblRSUnVDb3c2R21tYUNjTC1hcW45eDJ1bjlPX0hrQWdQZHpwdUU1Ykdvc1RNWVBFYlZCMWFyb1ZKYkQxUmN0NXpENEdJLXY3dzVPaEZRMW5KUU1BaDJ2Ty1TZHZQVkhERm9CQjEzTExDVnJPU0VNeGdGSVhUSUkzTUlMd2MzQ2w5VWJMU2QzZWgxRDd3VFBMUmUyWThxRThpYmxxN0llQQ?oc=5",
-      "source": "Defence Industry Europe",
-      "published": "2026-10-23T21:34:39Z",
-      "category": "policy",
-      "region": "North America",
-      "score": 70,
-      "tags": [
-        "Lockheed Martin"
-      ]
-    },
-    {
-      "id": "9a352f0fc853",
-      "title": "Next-generation warfare: Rethinking defence procurement, technological sovereignty and military capability d..",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjVsajJDRTl3dVhPWkVjQmRmZ1pMT0FaS3d2SEhWTXVjYVRKemtacFFNbWljNHpJSG5UT2F6TjlLSThDaTlnb0plU2pZcWhISWgwSFlaS3B3akdqbnpVX3B2NWtzRktQcXdIME55NUk3TEdTLTdQWTZEbkpqa3FIUXFpeGh6QVQ2TlhWVHROUGkzUUlka0thZzduMVlyVWZrTlo2OWRZbmJhUmpodzdGX3c4dl8zb3NLSGR1d1E4c3NhSWhJVDZtQ0NRdnJzazFxYWI2LV95ekgxdmRrVDFmX2ZtcWJiNkhJQ2dHaEZaQ0RrVFI2d01zMjlFVHpOUzNjcmxyM0d3eVVCUdIBjwJBVV95cUxOSVhQemtPOEIzRjhnSHVOcTljOVpyZnhQSlFWUFhzZ3NzNTJ4Z2NOSXdCMzVhVWVfemYtVk85Y3lrYlFFLW1RNXVUTmRxV1A0YjFERVRPRzdUV1ZlVWhXUTdPSm1faG9HM0pHQmZ4X1J0N3NaTzJxT21DaG5FVlFkdzhyVk9pZTBHaExqTWNoOFRLeGdiTFNVdGVzT3pPWU1QSndSVS1NZk91eXR3TnkzREtycGdsMk9mYlFOWkJxaFNZSURjT1I1cmY0ZGJ2SnFfR3d4WkdVRFpwbVh1QmdjdXBaTDBpTC1ob3NIVWRCSUlkQXpWX1p2ZDlNYVVCSlJ3Mmp2ZFBaSkY5MUxsbWRj?oc=5",
-      "source": "ET Government",
-      "published": "2026-10-22T01:38:06Z",
-      "category": "cyber",
-      "region": "Global",
-      "score": 70,
-      "tags": [
-        "Cyber"
-      ]
-    },
-    {
       "id": "572aee5b8972",
       "title": "Pentagon and BAE Systems to Expand APKWS Guidance Kit Production",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -287,17 +315,17 @@
       ]
     },
     {
-      "id": "17f0416654ca",
-      "title": "General Atomics Aeronautical Systems Awarded $38.8 Million Contract For Taiwan MQ-9B Logistics Support",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXg4MjZ3SXdVNEpJQWNSSG04amZKaUdOOGhKYThtZXVnX0RUOGdRU3NkVUF0bzZoZ0FCdVl2QjAzbDJlaG1ya1NtLWhDVFZLOTZQdjc5UW5GU0lJWlNLcVk1ZkkyTkQwc2pZZ1ZTS0V5WGxSYU16eFhTQi1GLTlFbm5KV0Q5T0VPbUZyZl9QQ0hXSy1UNDFCbEZrS2V6TVdBeFdWc1otUy10MXhjaGJNSEN5UV9oNldZMUl1Qzl3?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-10-19T16:51:32Z",
-      "category": "contracts",
-      "region": "Global",
-      "score": 70,
+      "id": "3bff285f845c",
+      "title": "Swiss government acknowledges failings in F-35 purchase and agrees procurement reforms",
+      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUdqNldVYndTYy1wWDFvblRSUnVDb3c2R21tYUNjTC1hcW45eDJ1bjlPX0hrQWdQZHpwdUU1Ykdvc1RNWVBFYlZCMWFyb1ZKYkQxUmN0NXpENEdJLXY3dzVPaEZRMW5KUU1BaDJ2Ty1TZHZQVkhERm9CQjEzTExDVnJPU0VNeGdGSVhUSUkzTUlMd2MzQ2w5VWJMU2QzZWgxRDd3VFBMUmUyWThxRThpYmxxN0llQQ?oc=5",
+      "source": "Defence Industry Europe",
+      "published": "2026-10-23T21:34:39Z",
+      "category": "policy",
+      "region": "North America",
+      "score": 69,
       "tags": [
-        "Contracts"
+        "Lockheed Martin"
       ]
     },
     {
@@ -315,20 +343,6 @@
       ]
     },
     {
-      "id": "72578d6fa31a",
-      "title": "Starfish Space wins SDA contract and conducts close-proximity operations near Australian satellite",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXQtekNiZXhGaEpMdFRiR3NzRUVlZUdoNnFoZ29qVlQwZGJiVXBDSnFBQkNQb3RPakV4djNWaFR3d3E3ZFdGT09BVEkyc0gxSGdZMy1vQTdLVUFMY0RQQ0RDZVZEY1RadVZmVzRmallMWTQxSDd1eDY3LVNlTTFURGlxV09iZGVDaHNfYXRPUHpPVjQ5VHU0VTdUTTh1OHpfS1RDLW1CcXdBeFVZUjFiYmtObDlsanIyNS1PSGZBUHVUVzYz?oc=5",
-      "source": "space & defense",
-      "published": "2026-10-19T02:06:38Z",
-      "category": "space",
-      "region": "Global",
-      "score": 69,
-      "tags": [
-        "Space"
-      ]
-    },
-    {
       "id": "623e066b0c5b",
       "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
       "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
@@ -343,17 +357,17 @@
       ]
     },
     {
-      "id": "ea5fac89e7fa",
-      "title": "Morocco and Israel are speeding up the implementation of the contract for the 300-km ‘Shield of David’ following the military summit in Marrakesh",
-      "summary": "Why it matters: policy and budget decisions set the demand environment for defense programs and suppliers.",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPVlVBY0VLM1hyQkRBbHd1azVSdm1VWWFJRm1LYzZ1MG9scXJPVlFaQ0tqRS1sSGk5R1RsMXhoRThrY1o1ankxSEFpUjJDU1RndnM3Q2psZVdEbWNYVk91R3JEZ01ENlNLTGRveWdJX1liSE1mLThaUWQyNTBnSGttSGsyckQxdlg2TjBtMU9fN2s0dUwxRERia1l1OEJiX2NTblJsQ19OX3ZoYThDODk4Wmt4aGdqR2ZpcVROQ0RKNWRJdzF2WUVqY2g0VVRxRFhHcS1VQkdManFNS1kwcnYwOW5ja2hIZEMzb05KWExtcWQtNjM0MDhwY3dMRHh6RVFrTk9uRDVEMUNIbUdRQ3l3a05rRWkwajFzVkQxTDg3bkRYVUNkUndGQksyRUFJMEljdXBVWjg0Nnhxdk0?oc=5",
-      "source": "Atalayar",
-      "published": "2026-10-21T11:12:47Z",
-      "category": "policy",
-      "region": "Global",
-      "score": 68,
+      "id": "c64cd21f6ef8",
+      "title": "Lockheed Martin’s Third-Quarter Innovations Span Missile Defense, Aviation and Space",
+      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY096cXFUbTNYR3hIUHd5LWFNbWtKSlNsdThvVWtRMUItS3l0Z05NMklmVXJIMnp0R1lQLWxrQTVmMG5IUUF1TW50RzRla3R2dWdnQ1RsNm5ma3NWS0pUYzg2THBCdHVyTC1XYU1reEZJLVRIQmdYVXAtd2k2MEhMZlNxRnJEY1ZFbGRxNGprTE45bmZmX1ZTSUZiYTg3MkFOMGNz?oc=5",
+      "source": "The Defense Watch",
+      "published": "2026-10-23T05:15:27Z",
+      "category": "technology",
+      "region": "North America",
+      "score": 67,
       "tags": [
-        "Policy"
+        "Lockheed Martin"
       ]
     },
     {
@@ -413,34 +427,6 @@
       ]
     },
     {
-      "id": "e973c0866c5e",
-      "title": "L3Harris Receives Contract to Develop Long-Range Drone Interceptor",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnVqcFRWWUdIajJIbFl1UWszbF9vS0sySkthQ3dCYjdZRnVqcXlKRjdMTjVPbzBiNkkzbUFDRDgwbEZaSEtOTVRNRjFfLVh0MWFoZ1NONkRMSmt3a0JsdjQ5NHBiaVM2czRQSUNZeWNWaWF1R0ljUUMxU1F6LVN1YmlKSVA1SVJrelFjdEk0MVVuWTd1bXl2VTI0bUdHdjlXanJQNjM2SklsSnEyZ0g4VGJHY0d4QWZLNXpR?oc=5",
-      "source": "L3Harris® Fast. Forward.",
-      "published": "2026-10-23T18:04:44Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 65,
-      "tags": [
-        "L3Harris"
-      ]
-    },
-    {
-      "id": "3d5805670da6",
-      "title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXpmZ2ZyVmlFcE83ZWZ5VGphZGR5M1M4TGxsVmpiM1laS080R3VQVDF1cndJbVdrTEZvamEtUklxOV8wLWhBLVNSMGVXQ0ZiQ2ZsZk1Ocl8yZEUzVGNoRkw5bnFHNWdKYm9uNWNwaTFvbFV2Yk9KMWRyWERFbDBFRTJENlhKeFdtYTYtd01IUU4yaUlXSXlIMUVjZ0N6eXNCbk01dUwzaHc1ajlHZmUxdU4tRXUyS1E?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-10-22T16:13:55Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 65,
-      "tags": [
-        "Lockheed Martin"
-      ]
-    },
-    {
       "id": "73d96a98f29c",
       "title": "Bharat Dynamics Expands Defense Order Book Following Recent Ministry Contracts",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -452,6 +438,20 @@
       "score": 65,
       "tags": [
         "Bharat Dynamics"
+      ]
+    },
+    {
+      "id": "01bae7afaac1",
+      "title": "Palantir says it can't disable NATO's Maven AI system",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JTm1ZaTJFOFkxanU5M2VQMlpjRXI2T1A0MGdLNkc4OFROaUJadlU0TFRUTHhuYVRhcFJja2VlRnp4VlZPWW03QUVlX2R4cVpOVEF1alpyci1hSUtVNFZPQUdWanpqb1NCc0V6WjVIajlUTVJ2MExaZmlCS1Q?oc=5",
+      "source": "SecNews.gr",
+      "published": "2026-10-22T10:10:00Z",
+      "category": "cyber",
+      "region": "North America",
+      "score": 64,
+      "tags": [
+        "Palantir"
       ]
     },
     {
@@ -480,20 +480,6 @@
       "score": 64,
       "tags": [
         "Companies"
-      ]
-    },
-    {
-      "id": "522071325675",
-      "title": "RTX Q3 Deep Dive: Defense Awards and Commercial Aftermarket Drive Upward Guidance",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTM5S241WlMzbFBSd0VHX0lPLTV3VjJqc1BtQXlVVFBvUl9ORDdCcXA4bURPcmExTTJRZmttOGpRZldWWGw4b3R3ZjFBM2RxZG01eDdfQnV1bEJSLXFPMVJUUkkxQUxLdV91S3NYNzBHbmkwaGhsUmpQS2tsVE1ZdEpJWXhUaHJGRmVaSkNfRE5aM0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-21T11:26:39Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 63,
-      "tags": [
-        "RTX"
       ]
     },
     {
@@ -536,6 +522,20 @@
       "score": 63,
       "tags": [
         "BAE Systems"
+      ]
+    },
+    {
+      "id": "39f271f54957",
+      "title": "Lockheed Martin signs $218 million agreement with Karman to support THAAD interceptor production",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjVoU1BCRzVKaEVEckllY2dCSEo4VXBaeFVxamVVVDZxWTAwbkF2bDhHNk9mNkc5WVUzQkx3cl9XcWJKWWY4NVJfUUJOVF9WcGJiRFgxcXhhTFNaQk5LVGZmZmpsRkc0QUFzVFh2T3R1cGxqREwwbkRCUW5xbG91Z0hmUVNOREtPYm1ZdDJjRnBRUUJyWm1ZNEhSZUROLUdRaXJjU1dQY0tleEw4NEtwNGtYcWNGX25KcmpkYXQ4U2FGUQ?oc=5",
+      "source": "Defence Industry Europe",
+      "published": "2026-10-24T22:58:02Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 62,
+      "tags": [
+        "Lockheed Martin"
       ]
     },
     {
@@ -595,6 +595,20 @@
       ]
     },
     {
+      "id": "d98e6ee80da4",
+      "title": "Elbit Systems Sweden to Build Laser Warning Production Center",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTWk90SU44Qy1NT0hMckhSWENXRS1EZllmbDJtTVpZX0g4MFRsVng5eVk0M21iM3pEbDVPNzZ2S1RXUXJ6TXIydjVSbk44UVA5bGVKaWJjMXA?oc=5",
+      "source": "Israel Defense",
+      "published": "2026-10-14T12:58:52Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 61,
+      "tags": [
+        "Elbit Systems"
+      ]
+    },
+    {
       "id": "22cb5534b0d3",
       "title": "Thales looks to export new C2 platform to Gulf nations, says executive",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -616,6 +630,20 @@
       "source": "Defense Daily",
       "published": "2026-10-16T20:40:24Z",
       "category": "companies",
+      "region": "Europe",
+      "score": 60,
+      "tags": [
+        "BAE Systems"
+      ]
+    },
+    {
+      "id": "c1f116418650",
+      "title": "Cybersecurity incident at BAE Systems halts US bankruptcy court noticing operations",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWlIcUlwRU1qMkpKXy1pQ2UxV1FuUGtvNHJiemtfR2ZPcHVFLTJldkRPZWR3VkpKQzZ3V3BUM3pBLVY1emU0cW9XSGIxYWxpbG10OWxfeWdyYTJ2SWV4OEpwVDhWcXh5MUFZTXJ2c1AyNklXNGJrZ2lvQVpYa1QtVS1PX0pnMkpiYm5DSlFSVmJrX1hmOFNXdk1EYXZ6Z0Frb19PZ3JFUWlXYWZScHI1QnNTb2wwZ2xO?oc=5",
+      "source": "https://streamlinefeed.co.ke/",
+      "published": "2026-10-16T18:43:47Z",
+      "category": "cyber",
       "region": "Europe",
       "score": 60,
       "tags": [
@@ -735,20 +763,6 @@
       ]
     },
     {
-      "id": "4510e7c1bf49",
-      "title": "Thales boosts sales forecasts as defense, aerospace orders surge | World News",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFBXdk5WbXU3aE5XQkRSV21nUHNYQm5DYVh1NjcyaEhpTzYweWhiMzNpclVIc1U3YkIzRFRmZ1BTN1JPT3UtRnBfWUNHb2kteEhUbU9QN1lUT3NqV0FFYzhZWmhPVFd5cEpBZTJwcUd2cEVyRGIwUXlGN3gtTXVxdUt5Z2FObkNZVEhvczNYNS1nMWNITV94YUZ4b05HZWF2eWFSaFJpZWozc0ZJSFlVcnRHckZhcWxsM0JMZk9WOEo5WXhobHFVVDFR0gHKAUFVX3lxTE5sUFd2TlZtdTdoTldCRFJXbWdQc1hCbkNhWHU2NzJoSGlPNjB5aGIzM2lyVUhzVTdiQjNEVGZnUFM3Uk9PdS1GcF9ZQ0dvaS14SFRtT1A3WVRPc2pXQUVjOFlaaE9UV3lwSkFlMnBxR3ZwRXJEYjBReUY3eC1NdXF1S3lnYU5uQ1lUSG9zM1g1LWcxY0hNX3hhRnhvTkdlYXZ5YVJoUmllajNzRklIWVVydEdyRmFxbGwzQkxmT1Y4SjlZeGhscVVUMVE?oc=5",
-      "source": "Hindustan Times",
-      "published": "2026-10-22T09:01:01Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 58,
-      "tags": [
-        "Thales"
-      ]
-    },
-    {
       "id": "ca83d9e96ded",
       "title": "Thales reports 15% rise in order intake to €19.1 billion in first nine months of 2026",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -788,6 +802,34 @@
       "score": 58,
       "tags": [
         "Elbit Systems"
+      ]
+    },
+    {
+      "id": "798e9ee6dac9",
+      "title": "Brazil Built 70km Anti-Ship Missile on UAE Money Using ASTROS II Launcher, Then Ran Out of Cash to Finish Integration",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVm9TdllHYnN0blVpLXpXWDZKcEFvSmVValVsTTBHd0dmR1RLU2JFczEtTTctSGpJR2hQeFJoc1YwNlZzVEI1NEVYTE13aVQ1b2Z1RUkwemtJaG45dE92U1JSVzAyR09fdXpkMlZqY0NoQ29aalctbzN5OS1BR20xSU11NklUc1ZIMERPMnZjYVloU2UxMnpqQ2xJS2pMX1hTQ19JYnI5TERodHgzT1NaTTREdFBiU0thU2JrUkNNaV9mRk1SVDF3NXJGd0lRS0hqVTA5cDk1VkhFSTFsOU15cnI1TUpvbWhNMkJ4RXhCSQ?oc=5",
+      "source": "Defense Express",
+      "published": "2026-10-25T18:07:59Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 57,
+      "tags": [
+        "Companies"
+      ]
+    },
+    {
+      "id": "862c63ce7c40",
+      "title": "EDGE’s 40mm ammunition line reaches full-rate production with capacity for 1.5 million rounds a year",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSktsY3hzYTVHNS1KWkRrNU5HSFBRaU5saklKaU5Ld3V2cGx3UGtDcGhNcm4wQkMwUEozYmJCelhQLXE4a1JXcU83S3BXczgwVGNQTlUwZ2poLVk3THFCUlVoUUJkUFJHSnFlMHA5NG1WSXZBb0Z5bmRWdk5maTRIUUtnd2lSVURCeDlpTG1sNU9DVnQyelFpd0Z5bXhHME4tQWM5MjNqNDltUGtHMVJmZXgyX0NDRXZIZVhTTFM0QTEzd1IyLTNz?oc=5",
+      "source": "Defence Industry Europe",
+      "published": "2026-10-22T14:27:55Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 57,
+      "tags": [
+        "Companies"
       ]
     },
     {
@@ -833,20 +875,6 @@
       ]
     },
     {
-      "id": "6b09903a6498",
-      "title": "High Lander Announces it Has Reached a Total of $30 Million in Funding",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEdfTU03dUk3YzJqam1qMHpNN3RBRGU0NnFyRGRSajVOUW8yaTVoWVVJcThSV2dQVUZ1WURrTmR0d3R3TDA0TkY5VnVTa3d5QVNnMHhiemU3V3hiMXBKN0wyMFhTRVpWYWJncm1za251Ujl1RzBYQUVKUE9DMEpPbEdmOUxzOE1qLWJwZE9DZE5SSnNyWDl0OElGR0xUTm4wUDl2LUdR?oc=5",
-      "source": "sUAS News",
-      "published": "2026-10-20T17:48:26Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 54,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
       "id": "82ca764daa34",
       "title": "Why UAE Pulled Out Of Rafale F5 Co-Development? Did EDGE Group Demand More Than It Could Chew?",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -855,24 +883,10 @@
       "published": "2026-10-20T05:14:12Z",
       "category": "companies",
       "region": "Middle East",
-      "score": 54,
+      "score": 53,
       "tags": [
         "Dassault Aviation",
         "EDGE Group"
-      ]
-    },
-    {
-      "id": "975461ba66f1",
-      "title": "Elbit Systems Ltd. (ESLT) stock price, news, quote and history",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdUdHay15amRnLWprTThjMXpZQ1h0Snp2TTZPazVGQllDcEpsSkxsMW1hczlzVGpPY1pRUVMtZDhkNlVUQl9neEVyVjctZXFac0E?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-10-23T16:22:32Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 53,
-      "tags": [
-        "Elbit Systems"
       ]
     },
     {
@@ -884,23 +898,9 @@
       "published": "2026-10-22T14:05:53Z",
       "category": "companies",
       "region": "Middle East",
-      "score": 53,
+      "score": 52,
       "tags": [
         "Israel Aerospace Industries"
-      ]
-    },
-    {
-      "id": "b82598c88526",
-      "title": "High Lander hits $30M total funding to push into US defense",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzhLR1Q1UloyaEZpR1ZpRGY4N1ZJWWc0NmI3RjdfR281cVNoMDdJMnNXaDdfc1FNSnpnY2xKVWtDVmFYbEx2OUdUZUxCTEFnM3lvR3NWdWlhN2VJekt0cUdtWlNfTndOZmNELThyMWlNbHJZeTdkVWxZY29zd0F3bXhnUGhpOGJIdFpKNnBZeXptMFdiWW9F?oc=5",
-      "source": "Dealroom",
-      "published": "2026-10-19T13:50:59Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 53,
-      "tags": [
-        "Companies"
       ]
     },
     {
@@ -932,20 +932,6 @@
       ]
     },
     {
-      "id": "7af776df380a",
-      "title": "Austal Shares Surge 7.6% as Defence Shipbuilder Extends Rally Amid Bidding Interest in Its US Business",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjNFdFlWa3RWN2ktQmJhVUNQTmRRTVBFc01lMEE1M2RXWWZnYks0M212aThhQzZMYzFhZmZQX3RjVHVFVlhoZzMxeGlIdWdBTUVNbVl2QVJ3ZWxqUW9pV3ROZEFXanQ4OU84MmZ1MnNVUGNDQ1ZhaHNQS2U5d09tSGVVM0I5UG9uMmRr?oc=5",
-      "source": "International Business Times Australia",
-      "published": "2026-10-20T04:17:29Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 51,
-      "tags": [
-        "Austal"
-      ]
-    },
-    {
       "id": "ceb9530f90fd",
       "title": "Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -971,6 +957,20 @@
       "score": 50,
       "tags": [
         "Companies"
+      ]
+    },
+    {
+      "id": "7af776df380a",
+      "title": "Austal Shares Surge 7.6% as Defence Shipbuilder Extends Rally Amid Bidding Interest in Its US Business",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjNFdFlWa3RWN2ktQmJhVUNQTmRRTVBFc01lMEE1M2RXWWZnYks0M212aThhQzZMYzFhZmZQX3RjVHVFVlhoZzMxeGlIdWdBTUVNbVl2QVJ3ZWxqUW9pV3ROZEFXanQ4OU84MmZ1MnNVUGNDQ1ZhaHNQS2U5d09tSGVVM0I5UG9uMmRr?oc=5",
+      "source": "International Business Times Australia",
+      "published": "2026-10-20T04:17:29Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 50,
+      "tags": [
+        "Austal"
       ]
     },
     {
