@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-10-29T05:51:05.591382Z",
+    "updated_at": "2026-10-29T13:04:57.656864Z",
     "article_count": 72,
-    "contract_count": 15,
+    "contract_count": 14,
     "sources": [
       "Regional Google News RSS editions",
       "USAspending API",
@@ -33,6 +33,20 @@
       ]
     },
     {
+      "id": "e52998ccab0b",
+      "title": "L3Harris awarded solid rocket motor contract with record production",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEZabXhjSGl4SldnS2pkTmpndFlNYjQySlByTmJoRjhwOEFxMlBSQ0l4SHBBTktPdlNTckdOYVk4bXVfdW5Jb0dvUkFWYnZLaVVhSnJQZmxhVjJPMy1aTkEtMXFickdJZ2k3b085STVhQnNqd1hTbi1PUEFUY050c1JjaGtSYzF5UGhORlhyeC1SNnE2NWQ5NUZOU1dET0pEUGdsd3cyVEdacnpsNFhadQ?oc=5",
+      "source": "Defense and Munitions",
+      "published": "2026-10-29T06:30:00Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 86,
+      "tags": [
+        "L3Harris"
+      ]
+    },
+    {
       "id": "9c77cf8b16af",
       "title": "U.S. military awards $700 million contract to Lockheed Martin",
       "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
@@ -41,7 +55,7 @@
       "published": "2026-10-28T15:57:54Z",
       "category": "technology",
       "region": "North America",
-      "score": 87,
+      "score": 86,
       "tags": [
         "Lockheed Martin"
       ]
@@ -52,7 +66,7 @@
       "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnp0d1FyTS1Scm96WngzcVV1ZkxjN1AyMFRxY3VEUTZoUnRtYWVoQlZ4cVp3TzBFMFJuMGxKMkRlRDJ0cDk3QWNZVE5nblQ3cXZEQmk1Y3lXZVpZZy1GZ2RsSTFlR2t3Y2E1Vi1fdUdZN3pJUGp4V3J6MTBMMGdIRkRZTzF4WVBtdF9qSURkTDkwT3Z4bFpRelNoRUJNSXZmckY0TjVHSUd5ZG91RThTMUxUUDFGMTg?oc=5",
       "source": "S. Rajaratnam School of International Studies (RSIS)",
-      "published": "2026-10-29T01:41:15Z",
+      "published": "2026-10-29T04:53:57Z",
       "category": "contracts",
       "region": "Global",
       "score": 83,
@@ -89,34 +103,6 @@
       ]
     },
     {
-      "id": "c629ed7affbb",
-      "title": "Elbit Systems Awarded $235 Million Contract for Rocket Artillery in Europe",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56RW9XZGNyWDdxYWFFY0V1Q0VCWkVvRVBhNnVCT3RCRE43dlA0TEVMTlRuSzhOOEF0UkxuWGYzQ1JKNWVGV3ZveEMyZkJCM1ZIc0hWbXhOTkg?oc=5",
-      "source": "Israel Defense",
-      "published": "2026-10-19T07:00:00Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 76,
-      "tags": [
-        "Elbit Systems"
-      ]
-    },
-    {
-      "id": "f23d7ab18b93",
-      "title": "Wes Streeting: UK Must Overhaul \"Obsolete\" Defence Procurement",
-      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOXJ0d0xyaGVZeXFYdVlNWmZtclozZHFsYmlQVnVYRy0teWdmYV9WcjNZeDZsTHZVNTU3bkFhSmQ4NXF6d0c3bm1RZlZ6QzM3T1ZQUjU2RkdPWV9NeWRTTnlKb1pNeGNwclJWZw?oc=5",
-      "source": "ADS Advance",
-      "published": "2026-10-19T07:00:00Z",
-      "category": "contracts",
-      "region": "Global",
-      "score": 76,
-      "tags": [
-        "Contracts"
-      ]
-    },
-    {
       "id": "68de949eb332",
       "title": "Kratos awarded $33.6M contract for NASA’s SR-1 Freedom spacecraft",
       "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
@@ -125,7 +111,7 @@
       "published": "2026-10-28T19:42:17Z",
       "category": "cyber",
       "region": "Global",
-      "score": 75,
+      "score": 74,
       "tags": [
         "Cyber"
       ]
@@ -139,7 +125,7 @@
       "published": "2026-10-28T19:12:05Z",
       "category": "cyber",
       "region": "Global",
-      "score": 75,
+      "score": 74,
       "tags": [
         "Cyber"
       ]
@@ -153,32 +139,18 @@
       "published": "2026-10-28T18:09:13Z",
       "category": "contracts",
       "region": "Global",
-      "score": 75,
+      "score": 74,
       "tags": [
         "Contracts"
       ]
     },
     {
-      "id": "4e155e91dae1",
-      "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXJudy1rT3ZpYmdKMGk2cEgxT0IxUlNQRmYwMFozMmFRWTFpNDhCX3NKRUhwdUhZVm95QjhDQjdPV3QtQkFqOGlKSlBPaVljWVJ6ak1fMVE5NmFGNlVjdjBlbnlHLWVPWFlka0lSZ1Q0UER5MVZNdzFRc1dvMExVVVVpTGlLdVp4YUpJSG1NajJaT1dkWlAtWVpwYw?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-10-27T14:03:33Z",
-      "category": "cyber",
-      "region": "Global",
-      "score": 75,
-      "tags": [
-        "Cyber"
-      ]
-    },
-    {
-      "id": "217bfeee1f6a",
+      "id": "16cf8fa2a26c",
       "title": "Stocktwits Defense Watch: Lockheed Martin, RTX, L3Harris, HII Add To Their Defense Contract Backlogs Amid Pentagon Spending Ramp-Up",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVhNR00zTEpvcnhHUTdPdnZnd2lXMjFKaDFQRl85SFc5OWlLdlhUTUI0YU96b3ZoTXlrMjVrUGJXSUt6QmVkVk40ZUQ3RHVUd2V6cFhRbFhZWksxT1RUYjMwdUJ3aFJ4cEVLVkVPdnVpRXRJcHlmMS1tQWVoVWJMTW9IdmtibXBKZVVUQkt0WjgxV29YSmN4SVVlTWljZzZOV3RUdmF1Zno?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-24T00:04:00Z",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZzBiQnpMaVU1bUVTalFNdEdVTzJYZ2kwWUZkaVR2cHVaMDNHTFE5UTBHZF9nRHd3RzFScUgyUXFjZ0ZhLWF5T3U4LTIxQnUwa21ZaHdhVGxQZGUwMnZ5ekRHS2VNTWVmQkJ5S3hIb3FsV0QyOGJxcnVqS3k4OEd6QVFQV2p4alAyYW5XZEJFajVEUXk0Rk9FRXNvd0JuSzNSTEdPc21mQ1pTQXBENGd3R1lvc21qdW0yUjVZVnhwaHNjN0Jnd2o1Tm9yRnI3OGxxQ1pUcU5nalNCbUhsY3RZN0VvSnpLd2JsbkU1X2wtWm9IdU82ano4WEZGOHZnLV9ILXdybzNXYmxmN1Q3WlBacUNvNjhOUQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-24T00:04:30Z",
       "category": "companies",
       "region": "North America",
       "score": 74,
@@ -200,6 +172,20 @@
       "score": 74,
       "tags": [
         "Contracts"
+      ]
+    },
+    {
+      "id": "a090c2226502",
+      "title": "Astroscale Wins New UK MoD Contract Focused on Orbital Defense",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYUl4MnIyQjgyTDZNVDRoY3NfaXpIaThqNVhTRndpSDQtZDd2U3dEbDU2Q2RjTGw1S3Qzd2R1eWl2QUhtSklXMnZ1ak9uOF84OUd3dHN0bHFMUzA2cXMtMWUtdzV5TEhuU1F4MjluQ0h4Z3dBQ0NXSG9jRF9mcGg5eWttODM4VVliSXJwbVEzWFNVWG0xR09QOThaOXdrbHNyWFp5aldZc0FFc3lURGtNTVVEekVRNTdJNmwyWk5ZX2ZQdTA?oc=5",
+      "source": "Via Satellite",
+      "published": "2026-10-28T19:56:28Z",
+      "category": "space",
+      "region": "Global",
+      "score": 73,
+      "tags": [
+        "Space"
       ]
     },
     {
@@ -245,6 +231,20 @@
       ]
     },
     {
+      "id": "29b15272e5a0",
+      "title": "Sri Lanka Navy Officer Earns Top US Naval Postgraduate School Honours",
+      "summary": "Why it matters: award activity can reveal program momentum, revenue timing, and shifts in contractor backlog.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUplMkNSUmRqMlVVbm9adTBhMkpjcDBZNXVqanZmMVlxMlAzdEdHS0JMNmtGLVhMUTFxbDVVYjdST3gwQTFOcHcxRnI3ZklTN2F1M3FLUkt1NXRtcy1Cb3RNVmtTajhZTVIyQzNZYjJIN2UySFQyZG5oZ2dYX3podnRLMFc3TlNjcVpIQVpTejFBV2w4dURsaQ?oc=5",
+      "source": "Sri Lanka Guardian",
+      "published": "2026-10-26T12:48:37Z",
+      "category": "contracts",
+      "region": "Global",
+      "score": 73,
+      "tags": [
+        "Contracts"
+      ]
+    },
+    {
       "id": "dadb6401d98d",
       "title": "Concurrent Technologies Corporation Secures Nearly $2 Million DARPA Contract to Enhance AI Assurance in Military Autonomous Systems",
       "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
@@ -256,20 +256,6 @@
       "score": 72,
       "tags": [
         "Technology"
-      ]
-    },
-    {
-      "id": "4e1a57bc3a73",
-      "title": "Industry, legal experts urge FAR Council to set standards for AI in federal procurement",
-      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbU5vNVUyX3hyWmdia2lpdkZyMXBiTDR3MG1tekJmWlJFemxZUUVTUTRfVms0c0FYWEtuc2VhMkpHZmVLMkEzODhyZG5saWxpSjU2bEdLUnhrMnN3eXpEd3pXVXZBbEhJTjhDMHFCRXdyWEtNTTIyYjNlbUVWSXdZazlyT0V1RnR4V3A1RDZ4VUVXUGFyaDY2d3JjMGhYNHYwdnl2eEJybXVVQ1ZNQnZBVEZ2eTRSb1l0eVdhVVphQlBGX04wZGVGQXlCWVdObS14M1N0OXlyS0VrRFdEX1E?oc=5",
-      "source": "Federal News Network",
-      "published": "2026-10-28T10:54:07Z",
-      "category": "cyber",
-      "region": "Global",
-      "score": 72,
-      "tags": [
-        "Cyber"
       ]
     },
     {
@@ -296,6 +282,34 @@
       "category": "companies",
       "region": "Europe",
       "score": 67,
+      "tags": [
+        "BAE Systems"
+      ]
+    },
+    {
+      "id": "fff5c3d85fa5",
+      "title": "Leonardo DRS launches UK radar production to compete for European air defense and counter-drone contracts amid growing demand",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbExwZ3Vkd3Y4c0JMb095aEtJWjBwbUt5Wi1UbVo5NDlBMlAzblhNYkRTSGFyOXZ6cTdxUkRmOEoyN0VwMVBtdXRXc2dXZGhaLXgyZ1VsLUxwZmt0ZWRHUUxMZnZsaUNxZFR5bHNtYXE2ZnVVeVd6MHdRZW5YcDg1TmIzWURwZjlTYXZVVlh1dDk3bUlLdjNSRXhGNjd5TUFpenltOFlTeHlOUG9fM01vQ0JQbzNBa1V2WmNDblVPbFJKSG1Wbkk3cFZyRmRCMU5aS1piZEVqR0Z5NXQ4SV93aVdULXcyWDFtV2c?oc=5",
+      "source": "Defence Industry Europe",
+      "published": "2026-10-05T07:00:00Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 67,
+      "tags": [
+        "Leonardo"
+      ]
+    },
+    {
+      "id": "ef76b0de1964",
+      "title": "BAE Systems and Bombardier sign MoU on future combat air cooperation",
+      "summary": "Why it matters: cyber requirements increasingly affect contract eligibility, program risk, and supplier compliance costs.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZW80UEZ6aVN2ZlE2cjBlZktFUFJQNnBwNFBrMEszbXdZWV9wRDk1NGZlM0o4NUE3dEpJNC1XdXlZTUFCSDhGSmNONTUyWVY1V3ZhVTJJYWxoZ3R0VTB5VEpYMmhyU3FXUHFkUkFhWmJBdEE5cVdBOVhIUGhxYnpYWGIyWHNGNGRHUVhSUUhyQXc4aUsyVS0zcGlWNHU?oc=5",
+      "source": "Defensehere",
+      "published": "2026-10-28T19:16:53Z",
+      "category": "cyber",
+      "region": "Europe",
+      "score": 66,
       "tags": [
         "BAE Systems"
       ]
@@ -329,20 +343,6 @@
       ]
     },
     {
-      "id": "623e066b0c5b",
-      "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-24T21:39:57Z",
-      "category": "space",
-      "region": "North America",
-      "score": 66,
-      "tags": [
-        "SpaceX"
-      ]
-    },
-    {
       "id": "2691c18de5fb",
       "title": "Aerospace and military contractors raise 2026 profit forecasts",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -354,20 +354,6 @@
       "score": 66,
       "tags": [
         "Companies"
-      ]
-    },
-    {
-      "id": "526e89435045",
-      "title": "What Are Leonardo’s Space and Satellite Systems? Telespazio and Thales Alenia Space",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16THQzNEdPdU9WZW9TVVVUODhsYnoxRWt1VWVZVzdwTFBZblllbElNejZFeFR5VXAtZHBnaWd3RlpVOHNsazBCN3B4Vk44RG9SNXA2RHNWOEFCOHNTcV9rVzQwaDU2cDY4a2txUWZlNF9JbVVZM19qZC1XMWE?oc=5",
-      "source": "Envanter Medya",
-      "published": "2026-10-28T21:46:00Z",
-      "category": "space",
-      "region": "Europe",
-      "score": 65,
-      "tags": [
-        "Thales"
       ]
     },
     {
@@ -441,31 +427,17 @@
       ]
     },
     {
-      "id": "75304db072ae",
-      "title": "Elbit Systems Wins About $200 Million in Asia-Pacific Airborne Defense Contracts",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hLXpyeTVUdXUxdnJlbHFxWG9MbndkLUtuUXlKTHdtY0ZTV3MwRkpEcGhwUXVaLVp6U1BvWk1yXzI5cVdVQVo1dERBUjZCWVYyaFFzR0Rnc20?oc=5",
-      "source": "www.tokenpost.com",
-      "published": "2026-10-26T09:23:32Z",
-      "category": "companies",
-      "region": "Middle East",
+      "id": "623e066b0c5b",
+      "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-24T21:39:57Z",
+      "category": "space",
+      "region": "North America",
       "score": 65,
       "tags": [
-        "Elbit Systems"
-      ]
-    },
-    {
-      "id": "4515a6742195",
-      "title": "Elbit Systems wins $200M in Asia-Pacific airborne defense contracts",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbm1xZlMtZFpIWTVNNWtvdEw0MGVGZ0VyeXN6RTFFeXM0cktaU3Bra19pMC0zMUZST1JvcHV5MTFQYldVUlZHcV9xVk9CSWRfMUl2NWpmOFFRWjlnNXNPakRrWmFJTmUzcTVxXzFrakRFcG1jQWROYnVFOGZzVFRjS2l6dHV2QktDcmsyTU9ZZ0Z5WGhkQnZfVGJheVFHbVZHUk1iMTJqYkRWcWY5SGY5Uy1vX1VrYUc0TjMtdVA5UTN4MU5rUWdPWQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-26T08:45:03Z",
-      "category": "companies",
-      "region": "Middle East",
-      "score": 65,
-      "tags": [
-        "Elbit Systems"
+        "SpaceX"
       ]
     },
     {
@@ -483,26 +455,55 @@
       ]
     },
     {
-      "id": "c64cd21f6ef8",
-      "title": "Lockheed Martin’s Third-Quarter Innovations Span Missile Defense, Aviation and Space",
-      "summary": "Why it matters: emerging capabilities can redirect procurement priorities and reshape the program landscape.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY096cXFUbTNYR3hIUHd5LWFNbWtKSlNsdThvVWtRMUItS3l0Z05NMklmVXJIMnp0R1lQLWxrQTVmMG5IUUF1TW50RzRla3R2dWdnQ1RsNm5ma3NWS0pUYzg2THBCdHVyTC1XYU1reEZJLVRIQmdYVXAtd2k2MEhMZlNxRnJEY1ZFbGRxNGprTE45bmZmX1ZTSUZiYTg3MkFOMGNz?oc=5",
-      "source": "The Defense Watch",
-      "published": "2026-10-23T05:15:27Z",
-      "category": "technology",
-      "region": "North America",
+      "id": "75304db072ae",
+      "title": "Elbit Systems Wins About $200 Million in Asia-Pacific Airborne Defense Contracts",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hLXpyeTVUdXUxdnJlbHFxWG9MbndkLUtuUXlKTHdtY0ZTV3MwRkpEcGhwUXVaLVp6U1BvWk1yXzI5cVdVQVo1dERBUjZCWVYyaFFzR0Rnc20?oc=5",
+      "source": "www.tokenpost.com",
+      "published": "2026-10-26T09:23:32Z",
+      "category": "companies",
+      "region": "Middle East",
       "score": 64,
       "tags": [
-        "Lockheed Martin"
+        "Elbit Systems"
       ]
     },
     {
-      "id": "cdf7f67aaa2f",
-      "title": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets",
+      "id": "4515a6742195",
+      "title": "Elbit Systems wins $200M in Asia-Pacific airborne defense contracts",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd0c3E0Z2JLUUZURFlSOU44dmwyTnBGX3pyR0FSOURqdEVudEVPUXpMYW5QSC1EQW95ZGJQVlpzdDltNGNpQ2NSR2x1RWNfazJKLVZ1UkVXblpWM3RrVEFxWE1pUVY3WDdtWXZxNzhaOVhkaTBKZW9RQ0daMDRDcHNCaEJvQUFrM2pScmxyWDNPN3hkc0pjQjI2cFFKcXk1YU81Y215UDVYMUdlWW11VjNhRENlR0pnQzRUSkR3dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbm1xZlMtZFpIWTVNNWtvdEw0MGVGZ0VyeXN6RTFFeXM0cktaU3Bra19pMC0zMUZST1JvcHV5MTFQYldVUlZHcV9xVk9CSWRfMUl2NWpmOFFRWjlnNXNPakRrWmFJTmUzcTVxXzFrakRFcG1jQWROYnVFOGZzVFRjS2l6dHV2QktDcmsyTU9ZZ0Z5WGhkQnZfVGJheVFHbVZHUk1iMTJqYkRWcWY5SGY5Uy1vX1VrYUc0TjMtdVA5UTN4MU5rUWdPWQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-26T08:45:03Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 64,
+      "tags": [
+        "Elbit Systems"
+      ]
+    },
+    {
+      "id": "df851bee475d",
+      "title": "U.S. Army Awards Raytheon-Lockheed Venture $215M for Next-Generation Javelin Launchers",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmNUdzlBcEVtSTNiZnVTZkN4MWQxU2RpYmpsSGRfbGhrZGtSaENMUzNYVkxfeGFRY292WFhpM1RVTldkR1JDZHBEenZ2Slh4dHpvbFMxZmNWZjFtUjVNRGJTT1lDOC1tRXZVUGt5UHNxSFBUQUxjLWlBSFM4NlJVRERRejBKeEFrNXg0djRxTTF4UllMemkweC1TUmltdzRoeXVPWTNRbElCdw?oc=5",
+      "source": "The SOFX Report",
+      "published": "2026-10-23T04:34:04Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 64,
+      "tags": [
+        "Lockheed Martin",
+        "RTX"
+      ]
+    },
+    {
+      "id": "dc7d8ea1245f",
+      "title": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3pGWDJ1R0tqbTE0bjZKUWJpYzNBUTRWQ0R6aldubkxSbURhSEVmQmVyUmt4WTBUajVCaGNINDQ1QV8wQkRqVXp1a1JKV1FlUDVnRkNHUkwxa0ZneGwzenNOYzdmSXhRTVN5RGVDbURXTEp5eURJMXkxUUNkZDY3RGk4SGt0b1hHaVpWUnc1UjVZSXhud1VteFBhWWhtSld6MUhsMm1HSjROS09ZNHpPdlF2V1RkSEdyOTBfQkEzRHJCWlE?oc=5",
       "source": "Reuters",
-      "published": "2026-10-22T10:44:51Z",
+      "published": "2026-10-22T17:53:29Z",
       "category": "companies",
       "region": "North America",
       "score": 64,
@@ -539,6 +540,20 @@
       ]
     },
     {
+      "id": "2b3c8c0f80c3",
+      "title": "Northrop Grumman Wins $43.9 Million Contract for Trident II Rocket Motor Facilities",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQck41aWpKN05BX180OWUyeVQxQ0dQNXhRLVhENklLMlNBaFdBR0wwcjBIYkNSRjQwczdELXpKVllueGJBNjQzdW9tcnMtVkM2SmdJS0lVY1dPeHVwWWlKTG9qVWU2YnF1V2hydUttZkhZQTl0UHRXY1Vaako3azJfTmVlck10SGNSSWV5M0kwWFdPQlV5dmp0RlVfbkl3OTg?oc=5",
+      "source": "The Defense Watch",
+      "published": "2026-10-24T09:42:22Z",
+      "category": "companies",
+      "region": "North America",
+      "score": 63,
+      "tags": [
+        "Northrop Grumman"
+      ]
+    },
+    {
       "id": "e973c0866c5e",
       "title": "L3Harris Receives Contract to Develop Long-Range Drone Interceptor",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -547,23 +562,37 @@
       "published": "2026-10-23T18:04:44Z",
       "category": "companies",
       "region": "North America",
-      "score": 63,
+      "score": 62,
       "tags": [
         "L3Harris"
       ]
     },
     {
-      "id": "3d5805670da6",
-      "title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
+      "id": "8e4578fa5426",
+      "title": "Indra expects stronger defence growth in 2026, backed by TESS deliveries",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXpmZ2ZyVmlFcE83ZWZ5VGphZGR5M1M4TGxsVmpiM1laS080R3VQVDF1cndJbVdrTEZvamEtUklxOV8wLWhBLVNSMGVXQ0ZiQ2ZsZk1Ocl8yZEUzVGNoRkw5bnFHNWdKYm9uNWNwaTFvbFV2Yk9KMWRyWERFbDBFRTJENlhKeFdtYTYtd01IUU4yaUlXSXlIMUVjZ0N6eXNCbk01dUwzaHc1ajlHZmUxdU4tRXUyS1E?oc=5",
-      "source": "Breaking Defense",
-      "published": "2026-10-22T16:13:55Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGc0Ym56cGJiNU9seVlYMlEyRmd3ZnByc3ZUbC01OU42RjVtMUZyUkQ2N1RrRy0xcEpLR25WLVRXZVJnR2F6dEZGMnlFdFp6YVVXZ2lzYlFfbWs4QWVQNlZ0LVlNZV9kanlVRlhtalRpaWVGenUzY0lHYUdPNTZyUmdPQzhfSG5ac29CY2pET2NwN1hxc0lrcU9KcDVIX1FqOUdOWW50bkg3RTJrYkZSaGtuS29jaUIwNVF3c1FTRkN5alRCRjJTTnJsRQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-29T12:06:44Z",
       "category": "companies",
-      "region": "North America",
-      "score": 62,
+      "region": "Europe",
+      "score": 61,
       "tags": [
-        "Lockheed Martin"
+        "Companies"
+      ]
+    },
+    {
+      "id": "19c0f08f6429",
+      "title": "Hanwha Aerospace Q3 profit tumbles on delivery delays; shares hit 18-month low",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IX2ExWVhiRHBUamZPaWhIX0hiSnl0S1RRWmJ0UU43c05GS2JWbi1XcTZsYzFsanhlUk9POEp2QjlQeG1PZmIyYjVwRzQyeGJ0SkYyLUFYa1J5QzNKYmJGdkVhRHhkYUVQOHZz?oc=5",
+      "source": "KED Global",
+      "published": "2026-10-29T09:29:00Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 61,
+      "tags": [
+        "Hanwha Aerospace"
       ]
     },
     {
@@ -637,20 +666,6 @@
       ]
     },
     {
-      "id": "522071325675",
-      "title": "RTX Q3 Deep Dive: Defense Awards and Commercial Aftermarket Drive Upward Guidance",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTM5S241WlMzbFBSd0VHX0lPLTV3VjJqc1BtQXlVVFBvUl9ORDdCcXA4bURPcmExTTJRZmttOGpRZldWWGw4b3R3ZjFBM2RxZG01eDdfQnV1bEJSLXFPMVJUUkkxQUxLdV91S3NYNzBHbmkwaGhsUmpQS2tsVE1ZdEpJWXhUaHJGRmVaSkNfRE5aM0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-21T11:26:39Z",
-      "category": "companies",
-      "region": "North America",
-      "score": 60,
-      "tags": [
-        "RTX"
-      ]
-    },
-    {
       "id": "facb16e1b9d6",
       "title": "Japan offers opportunities, partnerships for defense contractor Thales: CEO",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -665,31 +680,31 @@
       ]
     },
     {
-      "id": "a91147f7b0e3",
-      "title": "EDGE Ramps Up Annual 40mm Grenade Rounds Production to 1.5 Million",
+      "id": "dbc81df4de8e",
+      "title": "RTX Secures $729M LIDS Contracts, Strengthens Counter-Drone Defense",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFZHNVdrenh6ZXlJNGNnM2xBaldVdFJqNlVGdXJJWmJHZVBaZUJpZjVXMzkxMXhQXzFLN1kxOE5rUFdFZ2pBYWpQc0NOaUF5VHV0NWdubk9MSVpoRTlOZDEtUG10eEk1Zm1YZjFNTl9wbzVfREhxZHlWUmlxelp1UVV3QlVmeFB6UTJtLdIBjAFBVV95cUxNZFZHNVdrenh6ZXlJNGNnM2xBaldVdFJqNlVGdXJJWmJHZVBaZUJpZjVXMzkxMXhQXzFLN1kxOE5rUFdFZ2pBYWpQc0NOaUF5VHV0NWdubk9MSVpoRTlOZDEtUG10eEk1Zm1YZjFNTl9wbzVfREhxZHlWUmlxelp1UVV3QlVmeFB6UTJtLQ?oc=5",
-      "source": "The Defense Post",
-      "published": "2026-10-27T09:43:43Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOWJCbmZ2SUFuS2NpVUozOExJSGhkeS1PVWVYczE3djVVUk5rTldhWmFlVmtPRkszb1QtM1lBWGoyQXgzQThkckdVNV9hSFhKd3dkLWVVX2NDRlZRcFNrSzZaT2VnMUstdHNYUjVCRmZlTGxHUUZPZ1ZncnBXeHVEQlMyRmdyVjQzcWcyZUdzRy1DRVk4NGxR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T13:00:00Z",
       "category": "companies",
-      "region": "Middle East",
-      "score": 59,
+      "region": "North America",
+      "score": 60,
       "tags": [
-        "Companies"
+        "RTX"
       ]
     },
     {
-      "id": "5fcdca322a3a",
-      "title": "Space Force Selects Northrop Grumman, True Anomaly for New Orbital Reconnaissance Satellites",
-      "summary": "Why it matters: space architecture is an expanding layer of communications, sensing, and missile-warning investment.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2M2cnRzaXdCRDQ4VV9OVExWMUpGVkVMZzU4bWVpTVdjTVdHNXg4ZW5vMjB0Y2haY28xRnhCSENYYjdRc2ViWko4YUZkMjlqT3Z0U05lRVFkdjc0YnhzZy1kNzN4eF9OdWp4ZTQ5cmpGR2VSeVdGS0xuamJveWpZZG1QVGZOeGg3QWJRV1BuM2g5RC1wQnRxSndR?oc=5",
-      "source": "The Defense Watch",
-      "published": "2026-10-22T03:20:37Z",
-      "category": "space",
-      "region": "North America",
-      "score": 59,
+      "id": "485136ae0ceb",
+      "title": "Leonardo DRS launches cxMHR radar for air and missile defense, begins production",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXhqMzN1Zk9jM0NyRmJCbXFnYWtzczVWbFhJZVpVT3ZPcXZhaUl1NGtiNWo4T1dpcWM4aDNuOU5ySDlyQWtQNzI1RFF4dGtfODR6akV2elp2d1pWNmgtcm92SzZrTW5JYTFmcDRLRHFybjdKVENQV3FIdmZhcDZocEFVZVVjbFlIVWxiVzdhN29fMHJmNVE2ZmF6amZnU2Ria0FQSTNxMXJYVTcw?oc=5",
+      "source": "Defence Industry Europe",
+      "published": "2026-10-13T07:00:00Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 60,
       "tags": [
-        "Northrop Grumman"
+        "Leonardo"
       ]
     },
     {
@@ -707,6 +722,34 @@
       ]
     },
     {
+      "id": "1d518bea1484",
+      "title": "Elbit Systems Wins $235 Million European Defense Contract",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamlqWWhpZm9MaERBSEtFN0FhWlpkVHdYekZYMDktWkNlQkoyM0Ffb2ZMekFFN3p3SmZaRjRtVlFYQUVXV3BKSXl2T2EzQ2FSVTdBWjd0RkVFMTlaMmpXZ01ySm9UVFZHM29Od3c0N1BydDVxbHhhMGwtOFFqSnZxMnBNNTBLS3hGZFRZcVY3MTVaQTRsUzFIbzBsejJGYUUzdTNDRGxVaFlnY044aEE?oc=5",
+      "source": "marketscreener.com",
+      "published": "2026-10-19T07:00:00Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 59,
+      "tags": [
+        "Elbit Systems"
+      ]
+    },
+    {
+      "id": "16ee2cedf694",
+      "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
+      "source": "Homeland Security Today",
+      "published": "2026-10-14T13:08:50Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 59,
+      "tags": [
+        "Leonardo"
+      ]
+    },
+    {
       "id": "4a5e87184e78",
       "title": "French defense contractor Thales to open Japan maintenance base",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -718,6 +761,20 @@
       "score": 59,
       "tags": [
         "Thales"
+      ]
+    },
+    {
+      "id": "a91147f7b0e3",
+      "title": "EDGE Ramps Up Annual 40mm Grenade Rounds Production to 1.5 Million",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFZHNVdrenh6ZXlJNGNnM2xBaldVdFJqNlVGdXJJWmJHZVBaZUJpZjVXMzkxMXhQXzFLN1kxOE5rUFdFZ2pBYWpQc0NOaUF5VHV0NWdubk9MSVpoRTlOZDEtUG10eEk1Zm1YZjFNTl9wbzVfREhxZHlWUmlxelp1UVV3QlVmeFB6UTJtLdIBjAFBVV95cUxNZFZHNVdrenh6ZXlJNGNnM2xBaldVdFJqNlVGdXJJWmJHZVBaZUJpZjVXMzkxMXhQXzFLN1kxOE5rUFdFZ2pBYWpQc0NOaUF5VHV0NWdubk9MSVpoRTlOZDEtUG10eEk1Zm1YZjFNTl9wbzVfREhxZHlWUmlxelp1UVV3QlVmeFB6UTJtLQ?oc=5",
+      "source": "The Defense Post",
+      "published": "2026-10-27T09:43:43Z",
+      "category": "companies",
+      "region": "Middle East",
+      "score": 58,
+      "tags": [
+        "Companies"
       ]
     },
     {
@@ -749,6 +806,20 @@
       ]
     },
     {
+      "id": "51ef368e45be",
+      "title": "Hanwha Aerospace Expands Overseas Defense Production",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzQWpCbVZOeWVyRlB5YUttaWQ0ZEtkTzJzYmM5WUNGakptYUZPNl9DRUlCYWRnREljTUxiYXRzdFVvM2JkRW55Ql9lZ2M4UlY2M3RqRWNfZjUyZmFKQmtDSXcxYjd5TS1VWEdReDlWSDhZVU5D?oc=5",
+      "source": "Businesskorea",
+      "published": "2026-10-20T07:00:00Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 56,
+      "tags": [
+        "Hanwha Aerospace"
+      ]
+    },
+    {
       "id": "c939efe6b127",
       "title": "Austal announces extension for Hanwha Defense USA proposal to acquire Austal USA",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -764,6 +835,76 @@
       ]
     },
     {
+      "id": "d9ebe956a993",
+      "title": "Hanwha Aerospace hit by earnings shock as Q3 profit falls short of expectations",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnpQcU5IbllPWWoxYXJJVUowMmhzT2VUd0k2N2tiR3NzdVNnRXJkTUNqWEljaWhBcFV0TVVlY19OTXdBbEd2Uy03ZjFwdkQ3N3dHaXphcFAzN1VZR0JkUjgwWWV0U3dDd1lKc2NRdU5uS1RudUhZeU9TR2hWLXBUcWQ4Zl9rVjUtempMRWNnRHpjamI2TjVrN09KakpBMDRmdzFuYm1CM1NxV3dJclB6U0VJc3czZnlwYlRtcU1DdW1wTGhUVl9DMmd5eUI?oc=5",
+      "source": "Korea JoongAng Daily",
+      "published": "2026-10-29T09:01:33Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 55,
+      "tags": [
+        "Hanwha Aerospace"
+      ]
+    },
+    {
+      "id": "29806b5cf3eb",
+      "title": "BAE Systems develops cannon and microwave weapons for layered air defense",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUNMSnY4SEhPTl9IWGlDMDF6b3hlakRDQmNlQVZFWlFiMU9vaFdvXzhpbFc3VG5UZ2tQZWVUYmpIMG0td2tSQU9QcEk0TG0tV3FKZDZtM1FBYUNmSXR2S1dSQ1BXbUdUU3NRTW9ldG8tSmhQNUgwTzFuRkNkQ2xQSXl6SExRM3Rwdi12S1AzQmFiYWZvUkFoZUx4S3lfQzJyZDM2cGZ2RmhJS2Q0SjNJRlZfek9BcWwtbkZxbFY1aVprSXBucDFvMm43MmZUUQ?oc=5",
+      "source": "Military Aerospace",
+      "published": "2026-10-29T08:44:39Z",
+      "category": "companies",
+      "region": "Europe",
+      "score": 55,
+      "tags": [
+        "BAE Systems"
+      ]
+    },
+    {
+      "id": "defa3e62204d",
+      "title": "South Korea's Hanwha Aerospace Q3 Operating Profit Falls 46% as Ground Defense Earnings Plunge 96%, Hanwha Ocean Fills the Gap",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GZTJ6SmxYV19ROVZCcXRjTEU3MU9iSldWaGhFZFlGRDRaaTFxVmlkNDNnSldSY0g1QWJIMFhfMThJYjNxRTE3OG50Y1RVcG4tZDFKT1NIeWUzS1Vrc3kzRlVGQWcyVDZMZFB2UUtGMjVHamR1eEE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-10-29T07:36:00Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 55,
+      "tags": [
+        "Hanwha Aerospace"
+      ]
+    },
+    {
+      "id": "516c50c8d193",
+      "title": "Hanwha Aerospace swings to Q3 net loss due to delayed weapons deliveries",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUZHTG82SUxJNHFWTU83OEhIenhZMUtlWXJtQ1NZNFdiNllIcVk0dUNUSXJZNVJnMGwxckVmdmZQMU1yWHRNclZ3MUtiXzFsME4wcXJ2aEJVUG1mRW9QaUNTSXJEX09OZk8zNkJKMUxMeEhBaDktTUJoaDIzaE1qc3JLUTNqUVdWcGhKOFpBYS1XaG9vdEI3b1VCcDZ1akEyMmZxLUpHaEVrNGJZSHFSOVdZQndVdTNscTZuVXlWVXh5RFVrSXMtX9IBzgFBVV95cUxNMGstd0s5VU13VDB4QVBxZjh5TWJERjdYZDB1V1lVcXVyb0tPaEMwaXZEcjJZUjM3T2xBZ3g5VGlIREluSC1aUl8yWDhNZGY5OVdxaHpDQ19CNmZJb2E4V3BJa001bmhuSnVSRmQycUpDMGRMdkZySERLRFhFQl9lelRQZmNKZDh6Sks1dXI5V0VJNmpIZGE5bFoyN0hqbzMwVHJYRGtBTGZHZGVyNjRUc2hiWERnVGs2akt1TURvMl85R0xCSjN5d293RHhQdw?oc=5",
+      "source": "The Korea Times",
+      "published": "2026-10-29T07:15:02Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 55,
+      "tags": [
+        "Hanwha Aerospace"
+      ]
+    },
+    {
+      "id": "68635218bc03",
+      "title": "Hanwha Aerospace profits plunge in Q3, eye Q4 rebound on Poland deliveries",
+      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0FIc1RxX1pzel9uSHF0ekxXdVVnNGV5Z042NXRsUWNZWHVVa1ZJR0RQN3pYQjVaMFMwelZKOHlxcTN1NFo0cWdtSUFYWFY4WExZSEFPRmhHMHlwNy1jVjl4ZGwwV1llbmJ1U1VMaEdXNWVHWFBDTnJxZXU1QmkwbkR2ekdQalVFajBRZ0Rsa0hOTW5uVGfSAZYBQVVfeXFMTjNBSHNUcV9ac3pfbkhxdHpMV3VVZzRleWdONjV0bFFjWVh1VWtWSUdEUDd6WEI1WjBTMHpWSjh5cXEzdTRaNHFnbUlBWFhWOFhMWUhBT0ZoRzB5cDctY1Y5eGRsMFdZZW5idVNVTGhHVzVlR1hQQ05ycWV1NUJpMG5EdnpHUGpVRWowUWdEbGtITk1ublRn?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-29T06:44:00Z",
+      "category": "companies",
+      "region": "Asia-Pacific",
+      "score": 55,
+      "tags": [
+        "Hanwha Aerospace"
+      ]
+    },
+    {
       "id": "33c6187cd522",
       "title": "Hanwha Defense USA to acquire Philly Shipyard stake",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
@@ -775,48 +916,6 @@
       "score": 55,
       "tags": [
         "Hanwha Aerospace"
-      ]
-    },
-    {
-      "id": "ef76b0de1964",
-      "title": "BAE Systems and Bombardier sign MoU on future combat air cooperation",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZW80UEZ6aVN2ZlE2cjBlZktFUFJQNnBwNFBrMEszbXdZWV9wRDk1NGZlM0o4NUE3dEpJNC1XdXlZTUFCSDhGSmNONTUyWVY1V3ZhVTJJYWxoZ3R0VTB5VEpYMmhyU3FXUHFkUkFhWmJBdEE5cVdBOVhIUGhxYnpYWGIyWHNGNGRHUVhSUUhyQXc4aUsyVS0zcGlWNHU?oc=5",
-      "source": "Defensehere",
-      "published": "2026-10-28T19:16:53Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 55,
-      "tags": [
-        "BAE Systems"
-      ]
-    },
-    {
-      "id": "20d3a25e6776",
-      "title": "Saab AB (publ) (SAAB-B.ST) Stock Price, News, Quote & History",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qc253bVRQWGVxU2NBN1MtRnQ2aHhSOWRYSW5TTUJOWjJ0N0RZWTFWNmRFcG1SaXMwU3o1N0VIMkdIU2J3V2hHaF85MUdvRlhwSHVlSWlybzg?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-28T17:22:40Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 55,
-      "tags": [
-        "Saab"
-      ]
-    },
-    {
-      "id": "c12039122c96",
-      "title": "Saab AB (publ) (SAAB-B.ST) stock price, news, quote and history",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Gdm1FSjdDRkFzd09NWE51THRHV3VYZWUzdGpwUnF5Y0RIemRIQTU1NmgxZWxqekdMMlFZazFJTUZfcDNObzAtOXF3WU4xOUtsTkphYU1PLVE?oc=5",
-      "source": "Yahoo Finance Australia",
-      "published": "2026-10-28T16:26:07Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 55,
-      "tags": [
-        "Saab"
       ]
     },
     {
@@ -848,40 +947,12 @@
       ]
     },
     {
-      "id": "011b90706874",
-      "title": "Leonardo DRS begins initial production of cxMHR radar",
+      "id": "20d3a25e6776",
+      "title": "Saab AB (publ) (SAAB-B.ST) Stock Price, News, Quote & History",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblloQ1VSaENsY0c4R2JiS1NUcDVkdFFpQTcxY2Q3Ri1ZTW56N05EQS1PQ1VWcllNSTJidlZzMmlkX0JJNk95cUxzdWdRVXpYNUxuRHJ5REtKUVFzZHhaNlBFbWQ2Ukx6S2g4cU00bHFxSXBpdXRqSWhVQ3dweFJqX19XZXA?oc=5",
-      "source": "Defensehere",
-      "published": "2026-10-12T07:00:00Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 55,
-      "tags": [
-        "Leonardo"
-      ]
-    },
-    {
-      "id": "e4e3b13ddb4c",
-      "title": "Leonardo DRS launches UK tactical radar production",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNlF3ZVNJNFNKdkNTdmlSQ3JaTUdZWVlvWl9FUjdVOFlfd2wybmpYd2FCbVRSSW5uRmZBMzZCbkRxLU1TdEh3ckZlZUNicWh6TklzUlVsVDBGNTZHcDc0ZHdnMERNVXpQUVRZajVLMmlDQlFCb0RPMA?oc=5",
-      "source": "Defensehere",
-      "published": "2026-10-05T07:00:00Z",
-      "category": "companies",
-      "region": "Europe",
-      "score": 55,
-      "tags": [
-        "Leonardo"
-      ]
-    },
-    {
-      "id": "2907a828253c",
-      "title": "Saab Unveils Ocean Barrier Underwater Surveillance System For Coastal Defense",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQVBaQm1Vd2xfNkxBdEJZaXg3ODhSdVJLbnQ1Y0h3QUhoajZseENBSHFkR1gyX3NBQVBlUXhCUXg5c2JyUkUwRlRjd0R3OUpHQ2gwUTQ4aFNXc0lvLUdqVkZSemw2QXd1Q05pQjVkdEk1VDdyZXVsUFAtUGEwX25xVUxRU3JtRGw5WERzRVNORzJzZlF4ZnVrdFhwMXNreWlhOEluQTgtdGJMeFNnbG9hUktLbU13aDVPVzdwcjN2S05vQQ?oc=5",
-      "source": "Ocean News & Technology",
-      "published": "2026-10-28T13:04:57Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qc253bVRQWGVxU2NBN1MtRnQ2aHhSOWRYSW5TTUJOWjJ0N0RZWTFWNmRFcG1SaXMwU3o1N0VIMkdIU2J3V2hHaF85MUdvRlhwSHVlSWlybzg?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-28T17:22:40Z",
       "category": "companies",
       "region": "Europe",
       "score": 54,
@@ -904,8 +975,8 @@
       ]
     },
     {
-      "id": "4be9eaa54ca7",
-      "title": "[From the Scene] How Hanwha Aerospace made Changwon a launchpad for global defense expansion",
+      "id": "8d47f37610e8",
+      "title": "How Hanwha Aerospace made Changwon a launchpad for global defense expansion",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yTFRYQ3hJTVJEdTlwWVVxQXhWb2daRndJaW4ybWlPV0FNU043MXp1bjkzME5ROTcyN2NYY2Z6Q3E5RWlwaUE4R2NFZ3ZHR2tOY3NJX3k5UQ?oc=5",
       "source": "The Korea Herald",
@@ -932,101 +1003,31 @@
       ]
     },
     {
-      "id": "beebd186b524",
-      "title": "Defense stocks retreat across the board; LIG D&A down in the 9% range, Hanwha Aerospace in the 5% range [Stocks NOW]",
+      "id": "e157ccf2a00d",
+      "title": "Mitsubishi Heavy Industries Stock Stands Out In Asian Defense And Security Picks",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JWUdlRmtDQzF2amQyUDlUNEhkbDFxRFpONGlYcmd0WHloV2pSemJOYmg0WFgxQi1KR3NCVjdrbG1qLTA3MC1HUG1idlN6YnlSWVVoWmZTYWo?oc=5",
-      "source": "파이낸셜뉴스",
-      "published": "2026-10-26T02:05:11Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFdnbUtnYTZEVVZIbDJLejd3b0lEWW4zSDRSTVVXT2hDS1MxSmgyTG1HVDlMcEdwYkRPUUxpaGd0NEVzVUFOcjZMV0thZkpFeUtuLVUzMU5IbTRxU3Z1ckJaUzZiTm1CcDg1NC1oT3ZjRUthblJjcEwwQnBSWlJuVmNtb1d6bmcwcDZDVy10WlFaNzJ1ZjFZQVNTLURUY3ZLTjNFWFRhZEp2NWV3REpjcjJnV3ZuU1Fpck80TlUtR291QjJYWmxKeThTRHdRV2VnWm9VU2V4YThwbl9ha2dF0gHkAUFVX3lxTE9KSmozdnF6MHBIQzU1ZHZQRlJjNTVOMzNkZWc5anp2LU0yOFBvX2xBdUJfdktHbFdrLUZMcGhjb1hHU0p0RUY2T1F6Vmp1TEZXWlZVekFic0hkcW5YbDBiLXN4TGFqLUhFNUNRdDhlbV9PR05yZjU5VzB5SF9Ham0wOHBFakE2dmhzaVhmMFlLSmVVemhFVjRWM2FYdVcyNHJZRTB5c3pnSVFOWXA2N2Fma3FzTVhBOTZLNXF5dkZ3andiSUJoeW96TGt1QW5xUDd0MF9ocFZZMEtFYVFUQTlmOW9icw?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-07T07:00:00Z",
       "category": "companies",
       "region": "Asia-Pacific",
-      "score": 52,
+      "score": 48,
       "tags": [
-        "Hanwha Aerospace"
+        "Mitsubishi Heavy Industries"
       ]
     },
     {
-      "id": "d62cf41ccbfd",
-      "title": "Houthis Strike Yemen's Presidential Palace with Missiles; Hanwha Aerospace Jumps 8%, Hanwha Systems Surges 10%",
+      "id": "1f63e309e3ff",
+      "title": "Israel Aerospace Industries: No longer just platforms, but integrated solutions",
       "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcnhCaDAtclRYU1JxMGRJaXJDN05DRkpLa1d0Mk54c3BKeHdwTGgyVkFCeTlYUVhkOVVQOGgzX3RLWmQtbW80VHBHMlhCM0hTZ2lYbExGalNFRlVuRlBRUjBtb0o3RzBDb2tUOV9nRHhnWUJYeUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-15T07:00:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 52,
-      "tags": [
-        "Hanwha Aerospace"
-      ]
-    },
-    {
-      "id": "d18b29dca6cc",
-      "title": "Israel Aerospace Industries initial share offering will happen within a year, board chairman says",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfYW45QjFVSWQ4NC1paGNpY2pVOFA3NExWS2lwb1BYV2Z5ZzlxelREaHJBQXZQdDRFRFFNTnNYXzNiaml6WVN3VGR1RWFLaWdtOG80aHhOQ1VfcGg2eGZ3QjNMQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9URmJwWUVFX1l3cXdaOGhaUWVscW9VMGM3M1VoZFd4bEN4X0tSTG9sYkRxazZlUzVzc2RKdFVjV2hodHRLWkp2OEktQWQzU1dfeVNnaUhpSThRQkd1QXNvSU15UQ?oc=5",
       "source": "The Jerusalem Post",
-      "published": "2026-10-22T14:05:53Z",
+      "published": "2026-10-06T07:00:00Z",
       "category": "companies",
       "region": "Middle East",
-      "score": 50,
+      "score": 48,
       "tags": [
         "Israel Aerospace Industries"
-      ]
-    },
-    {
-      "id": "e0667b0ca42d",
-      "title": "Hanwha Aerospace leads Korea defense and space tech at Sacheon Airshow",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZEtPM3B3X2s3TXI0Sjd3TTVvclFvUld0MExXV1MwWk9tNFpiakhzcHVVRkRzVFl2aXpfanhFUE03TmR0eVVsTVlNa1hJXzVlUjZJUTRBRldOQjRuVjNTYTZha1pnSXBVX01QNjNsV2tWS2liNkd1MjY3RWJJN0VyR3Rn0gGWAUFVX3lxTFBmVVkzTmd0enlOOG1SRXFRUXFEbUl0b2NHYk5fbnBVMHh1TW9ocXlzU1U5cVlHNUhORDFCODdrUTRZUFdUNVIwZ3N5ZENtVXhLb0pQamVxaEVlRDJLQnZoNW5FWXZmTEVWOHJuZjAtOExHRTRCeG1ITzIxZkJiQkVEZy1GVUFsY3pCVEs4UnAxSlh3ZlRkZw?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-10-22T01:14:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 49,
-      "tags": [
-        "Hanwha Aerospace"
-      ]
-    },
-    {
-      "id": "ceb9530f90fd",
-      "title": "Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FcDl5ZzZhcS1uR1ZEWFRBYml3NXZhRWZTWnVtYXZhcGVNbTl6N2ZOT2JNQ2FaS3RtTll5SDBHTkh3U3VkRnN1NDN1TmItYkRkb0pyQWlDMA?oc=5",
-      "source": "The Korea Herald",
-      "published": "2026-10-23T06:32:02Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
-      "id": "10b9f2a6a45f",
-      "title": "HD Hyundai Heavy Builds 93,000-Cubic-Meter Ammonia Carrier",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUXZoRk90b1Z4azY2T0g3aVlwOUQ0Y3AxX2t3VFFVWnlENHRtbXlDSVBZcVR4RXhxNm9Qdmx6MzJVbUFjbElNXzg3RkxEN1BNczgxVEwyNmNZd3E1SkR4MXhTR1NhbXM?oc=5",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "published": "2026-10-22T22:49:35Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Companies"
-      ]
-    },
-    {
-      "id": "7af776df380a",
-      "title": "Austal Shares Surge 7.6% as Defence Shipbuilder Extends Rally Amid Bidding Interest in Its US Business",
-      "summary": "Why it matters: this may change competitive positioning, execution risk, or expectations across the defense supply chain.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjNFdFlWa3RWN2ktQmJhVUNQTmRRTVBFc01lMEE1M2RXWWZnYks0M212aThhQzZMYzFhZmZQX3RjVHVFVlhoZzMxeGlIdWdBTUVNbVl2QVJ3ZWxqUW9pV3ROZEFXanQ4OU84MmZ1MnNVUGNDQ1ZhaHNQS2U5d09tSGVVM0I5UG9uMmRr?oc=5",
-      "source": "International Business Times Australia",
-      "published": "2026-10-20T07:00:00Z",
-      "category": "companies",
-      "region": "Asia-Pacific",
-      "score": 48,
-      "tags": [
-        "Austal"
       ]
     }
   ],
@@ -1102,18 +1103,6 @@
       "record_source": "Contracts Finder",
       "date": "2026-10-23T17:17:38+01:00",
       "url": "https://www.contractsfinder.service.gov.uk/Notice/8066c7e0-b3c3-4b8a-b7c8-70a4122af426"
-    },
-    {
-      "award_id": "ocds-b5fd17-aa1b7c21-d4ce-435c-a4cb-d985aaeedb0a",
-      "recipient": "Affinitext UK Limited",
-      "amount": 70000,
-      "currency": "GBP",
-      "description": "715978480- Voyager Intelligent Document Management System Contract (CCS Framework, G-Cloud 14 RM1557.14) Contract Award",
-      "agency": "Ministry of Defence",
-      "jurisdiction": "United Kingdom",
-      "record_source": "Contracts Finder",
-      "date": "2026-10-23T11:42:36+01:00",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/98bc93ad-2537-48e2-ab80-f1cd1f5416c5"
     },
     {
       "award_id": "W912QR26CA035",
